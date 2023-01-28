@@ -1,7 +1,29 @@
-### Hi there 👋
+Repositórios:
+
+MathematicalRamblingsjs -> https://github.com/antoniovandre2/MathematicalRamblingsjs2
+
+antoniovandre_maxima_api -> https://github.com/antoniovandre2/antoniovandre_maxima_api2
+
+antoniovandre_mathgame_bash -> https://github.com/antoniovandre2/antoniovandre_mathgame_bash2
+
+antoniovandre_eval_GUI -> https://github.com/antoniovandre2/antoniovandre_eval_GUI2
+
+JavaAntonioVandreEvalGUI -> https://github.com/antoniovandre2/JavaAntonioVandreEvalGUI
+_____
+
+GitHubs:
+
+https://github.com/antoniovandre
+
+https://github.com/antoniovandre2
+
+https://github.com/antoniovandre3
+_____
+
+<!-- ### Hi there 👋 -->
 
 <!--
-**antoniovandre2/antoniovandre2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**antoniovandre/antoniovandre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
