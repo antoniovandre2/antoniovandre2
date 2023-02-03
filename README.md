@@ -2,7 +2,7 @@ Repositórios:
 
 MathematicalRamblingsjs -> https://github.com/antoniovandre2/MathematicalRamblingsjs2
 
-antoniovandre_maxima_api -> https://github.com/antoniovandre2/antoniovandre_maxima_api2
+antoniovandre_maxima_tools -> https://github.com/antoniovandre2/antoniovandre_maxima_tools
 
 antoniovandre_mathgame_bash -> https://github.com/antoniovandre2/antoniovandre_mathgame_bash2
 
