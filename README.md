@@ -11,6 +11,8 @@ antoniovandre_eval_GUI -> https://github.com/antoniovandre2/antoniovandre_eval_G
 JavaAntonioVandreEvalGUI -> https://github.com/antoniovandre2/JavaAntonioVandreEvalGUI
 
 AVBlockRun -> https://github.com/antoniovandre2/AVBlockRun
+
+AV3DNavigator -> https://github.com/antoniovandre2/AV3DNavigator
 _____
 
 GitHubs:
