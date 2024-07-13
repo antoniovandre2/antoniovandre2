@@ -3,252 +3,38 @@ Proprietário: Antonio Vandré Pedrosa Furtunato Gomes (bit.ly/antoniovandre_leg
 Arquivo de anotações públicas #5.
 ____________________
 
-11-07-2024
+13-07-2024
 __
 
-Se estou utilizando o PC para escrever softwares, não me importo se está manchado ou não; programando, posso o utilizar normalmente e intensamente enquanto espero outro monitor.
+Depois de um tempo sem descrever meus commits, buscando ser mais organizado, voltei a por mais detalhes.
 _____
 
-11-07-2024
+13-07-2024
 __
 
-Sim, devo valorizar a paz como um bem preciosíssimo, o mais estimado. Lembro de quando passei alguns anos atormentado, e era horrível...
+A naratriptana funciona em aliviar as dores, mas ficam as experiências com desconfortos também como construtivas.
 _____
 
-11-07-2024
+13-07-2024
 __
 
-Filosofando bastante hoje porque, quando o monitor novo chegar, pretendo parar pouco de jogar.
+O que muito me incomodava no passado era ter que ver-me livre de problemas para meditar profundamente a fim de resolver minhas questões interiores; hoje já as tenho resolvidas, então tudo bem conviver com problemas.
 _____
 
-11-07-2024
+13-07-2024
 __
 
-Como não dá pra ser perfeito em tudo, temos que saber lidar com projetos inacabados, porém que estejam bastante desenvolvidos.
+Estou com uma dor de dente, mas não desejo muito me livrar dela, ela está me sendo espécie de companhia agradável.
 _____
 
-11-07-2024
+13-07-2024
 __
 
-A paz é essencial e suficiente, mas é bom enriquecer-nos de outras coisas, como em conhecimentos e boas experiências de vida.
+Programando mais um pouco como terapia...
 _____
 
-11-07-2024
+13-07-2024
 __
 
-Eu aqui ansiosamente desejando algumas coisas e esquecendo que o mais importante e essencial já tenho: paz...
-_____
-
-11-07-2024
-__
-
-Sinto-me bem sem utilizar o ar-condicionado, poupo energia, e não me custa desconforto nenhum.
-_____
-
-11-07-2024
-__
-
-Se for pra conviver com limitações, melhor manter-me solteiro. Com limitações não me sinto livre e nem dono de mim...
-_____
-
-11-07-2024
-__
-
-Fiz bom uso do tempo com o monitor manchado finalizando softwares, registros e alguns trabalhos, e configurando os sistemas, deixando-os prontos à espera de um monitor perfeito.
-_____
-
-11-07-2024
-__
-
-Lembro que há alguns anos o Google descontinuou o Chrome para Linux, mas hoje vi que há versões para o SO, provavelmente voltou atrás porque viu que é significativo o número de usuários do sistema.
-_____
-
-11-07-2024
-__
-
-Poderia implementar integral definida e derivadas em um ponto em minha função eval, mas retornariam valores aproximados, e minha função eval zela pela precisão, então decidi não por.
-_____
-
-11-07-2024
-__
-
-Eu aqui ansioso por um monitor novo para poder apreciar bem os gráficos de games, e observando nas ruas pessoas batalhando pelo básico, por alimentos...
-_____
-
-11-07-2024
-__
-
-No momento com o monitor do desktop manchado, posso usufruir de games no smartphone, mas estou percebendo que livros estão me proporcionando maior prazer, logo vou continuar com eles.
-_____
-
-11-07-2024
-__
-
-Não tendo um monitor perfeito, não podendo usufruir plenamente de tudo o que o PC pode proporcionar, optei por vir aos livros, aqui tenho total plenitude com eles, e assim sinto-me mais livre.
-_____
-
-11-07-2024
-__
-
-Vou ganhar um monitor novo, mas foram construtivas as experiências com o velho e manchado, aprendi, dentre outras coisas, a utilizar softwares referentes a screen.
-_____
-
-11-07-2024
-__
-
-Feliz e em paz, eu não preciso de Filosofia ou religiões, entretanto não descarto, pois gosto de estudar.
-_____
-
-11-07-2024
-__
-
-Livros também tem poder imersivo, logo podem substituir computadores e internet.
-_____
-
-11-07-2024
-__
-
-Utilizando computadores, gosto de me sentir integrado a eles, mergulhar, imergir neles; estando com livros, desejo o mesmo, porém em livros, é uma necessidade psico-emocional.
-_____
-
-11-07-2024
-__
-
-Ainda bem que livros chegam até a serem mais divertidos que computadores, posso viver unicamente com eles; já utilizei computadores à exaustão.
-_____
-
-10-07-2024
-__
-
-No capitalismo eu sou imóvel, pois não sei ser agressivo. Resta-me apegar-me ao que custa pouco, como livros.
-_____
-
-10-07-2024
-__
-
-Meu último sistema escrito foi um gerador de logs de todos os processos utilizados no desktop enquanto eu estiver utilizando. Modificou o PID, um novo registro é escrito em um arquivo com o nome do processo e automaticamente compartilhado na internet.
-
-Para não causar muito tráfego, pus um sleep de meia hora entre cada verificação.
-_____
-
-10-07-2024
-__
-
-Um refrigerante não tem nada de nutritivo, aparentemente, pois enriquece a vida com boas experiências, de prazer.
-_____
-
-10-07-2024
-__
-
-Se eu passar um tempo sem logar em alguns serviços de internet, meus dados serão excluídos. Então porque logo não me desprender deles? Ficam os progressos pessoais em mim.
-_____
-
-10-07-2024
-__
-
-Fora da Matemática e das ciências o mundo é caótico e imperfeito; não é bom me afastar muito...
-_____
-
-10-07-2024
-__
-
-Com focos não desperdiço tempo com escolhas, vou direto aos pontos.
-_____
-
-10-07-2024
-__
-
-O muito programar desenvolveu em mim a paciência e também a persistência em resolver os problemas.
-_____
-
-09-07-2024
-__
-
-Estou mais indiferente ao que antes me incomodava. Isto é evolução...
-_____
-
-09-07-2024
-__
-
-Só felicidades com o Debian, e com games também.
-_____
-
-08-07-2024
-__
-
-É comum eu acordar decidido a ter um dia de descanso, mas quase sempre acabo me envolvendo com mais programação.
-_____
-
-08-07-2024
-__
-
-Sempre há mais ideias do que programar, mas devemos passar um tempo repousando sobre o já construído.
-_____
-
-08-07-2024
-__
-
-Tentei aprender Qt, mas é mais complexo que GTK.
-_____
-
-08-07-2024
-__
-
-Muitos problemas de programação, a maioria, são referentes aos próprios computadores, poucas são as aplicações fora do universo dos computadores.
-_____
-
-08-07-2024
-__
-
-Verdadeiramente usufruo da vida na satisfação...
-_____
-
-08-07-2024
-__
-
-Aqui no PC com internet sem nada a fazer, apenas relaxando sobre tudo o que já fiz. Meu portfolio já está excelente.
-_____
-
-07-07-2024
-__
-
-Estou com vontade de criar meu próprio editor de textos com GTK, editor que será utilizado para criar outros softwares. Não é difícil e pode ser bastante divertido.
-_____
-
-07-07-2024
-__
-
-Com meus atuais conhecimentos, se desejo criar aplicações com interface gráfica, tenho 4 opções: em Javascript, mas só roda em um browser; AWT e Swing do Java; GTK, a opção mais elegante; e o tkinter do Python.
-_____
-
-07-07-2024
-__
-
-Preciso de mais sensações de lucros... Vou estudar mais.
-_____
-
-07-07-2024
-__
-
-Consegui, tanto caixa de diálogo em Python quanto em GTK.
-_____
-
-07-07-2024
-__
-
-Gastei uma hora tentando aprender GTK para criar uma simples caixa de diálogo, e não consegui; em Python com sucesso em apenas poucos segundos...
-_____
-
-07-07-2024
-__
-
-Como não tive uma perfeita noite de sono, organizando-me cada vez mais decidi experimentar o medicamento naratriptana, e funcionou bem, posso o adotar.
-_____
-
-07-07-2024
-__
-
-Consegui descobrir como desenvolver um game Descent-like, mas decidi não implementar em meus dois games de navegação 3D porque ficaria demasiado complexo para o usuário.
-
-Assim posso retomar o pleno perfeccionismo quanto à programação.
+Sem muitas ambições, apenas terapeuticamente me ocupando...
 _____
