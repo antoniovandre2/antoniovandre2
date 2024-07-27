@@ -1,4 +1,4 @@
-Número de acertos: 4070. Número de erros: 17. MD5sum: 81acc65178979208b2f49c2c2448ccc1.
+Número de acertos: 4079. Número de erros: 17. MD5sum: af6c6bd869565a789450ebf7bdd849f9.
 Quanto é 26 + 28? Resposta: 54. Acertou. Em 17/10/2021 @ 19:45:22.
 Quanto é 39 - 66? Resposta: -27. Acertou. Em 17/10/2021 @ 19:45:36.
 Quanto é 44 - 11? Resposta: 33. Acertou. Em 17/10/2021 @ 21:44:6.
@@ -4086,3 +4086,12 @@ Quanto é 84 / 12? Resposta: 7. Acertou. Em 18/7/2024 @ 12:44:27.
 Quanto é 79 + 39? Resposta: 118. Acertou. Em 18/7/2024 @ 12:45:16.
 Quanto é 34 / 34? Resposta: 1. Acertou. Em 18/7/2024 @ 12:45:19.
 Quanto é 24 + 4? Resposta: 28. Acertou. Em 18/7/2024 @ 12:45:23.
+Quanto é 89 + 1? Resposta: 90. Acertou. Em 26/7/2024 @ 16:44:46.
+Quanto é 176 / 88? Resposta: 2. Acertou. Em 26/7/2024 @ 16:44:54.
+Quanto é 14 x 4? Resposta: 56. Acertou. Em 26/7/2024 @ 16:45:5.
+Quanto é 8 x 12? Resposta: 96. Acertou. Em 26/7/2024 @ 16:46:17.
+Quanto é 9 x 10? Resposta: 90. Acertou. Em 26/7/2024 @ 16:46:21.
+Quanto é 9 x 14? Resposta: 126. Acertou. Em 26/7/2024 @ 16:46:31.
+Quanto é 12^2? Resposta: 144. Acertou. Em 26/7/2024 @ 16:46:34.
+Quanto é 6 - 86? Resposta: -80. Acertou. Em 26/7/2024 @ 16:46:42.
+Quanto é 96 + 42? Resposta: 138. Acertou. Em 26/7/2024 @ 16:46:56.
