@@ -3,6 +3,222 @@ Proprietário: Antonio Vandré Pedrosa Furtunato Gomes (bit.ly/antoniovandre_leg
 Arquivo de anotações públicas #5.
 ____________________
 
+14-08-2024
+__
+
+Minha consciência, a voz que sopra em meus ouvidos, diz-me: escreva, escreva muito; assim você amadurecerá mais, e amadurecer é necessário...
+_____
+
+14-08-2024
+__
+
+O monitor que uso no PC está com manchas, mas ainda bem que a tela do smartphone está perfeita, nele posso, com prazer, assistir a vídeos do YouTube, não como seria com uma tela grande, mas satisfaz moderadamente.
+_____
+
+14-08-2024
+__
+
+Parabéns para o mXparser, até agora não encontrei nenhuma falha; não posso dizer o mesmo do Java e do apfloat, espero atualizações.
+_____
+
+14-08-2024
+__
+
+Geralmente programadores Java utilizam o Eclipse; eu uso o Geany pra tudo.
+_____
+
+14-08-2024
+__
+
+Também tenho um enorme orgulho de ser usuário Linux, principalmente porque provo que não estou usando um sistema pirateado.
+_____
+
+14-08-2024
+__
+
+Quando saio para encontros ou eventos sociais, gosto de ir com a camisa do meu blog, ele enche-me de orgulho, está perfeito.
+_____
+
+14-08-2024
+__
+
+Minhas duas contas Box, uma OneDrive e uma Google Drive irão receber significativas atualizações nesta noite enquanto durmo deixando ativado o CloudHQ Sync, principalmente as atualizações do AV3DNavigator.
+_____
+
+14-08-2024
+__
+
+Os inexperientes e fracos costumam confundir força com agressividade; os experientes sabem que é uma questão de paciência e resiliência.
+_____
+
+14-08-2024
+__
+
+Como gosto de escrever pensamentos, devo estar bem atento e vigilante quanto às armadilhas morais / emocionais, pois se eu me sentir mal, provavelmente irei expressar meus pesares aqui também, e não quero transmitir negatividade, ao menos não muito.
+_____
+
+14-08-2024
+__
+
+Lamentando tragédias do passado, mas tenho diante de mim um imenso futuro para construir...
+_____
+
+14-08-2024
+__
+
+Terapeuticamente tocando mais em minhas feridas para, o quanto antes, curar-me mais para viver mais confortavelmente e viver mais intensa e profundamente meus hobbies.
+_____
+
+14-08-2024
+__
+
+O orgulhoso sábio não se incomoda com os orgulhos dos outros, vive o seu.
+_____
+
+14-08-2024
+__
+
+Cada dia que passa, mais perto de ter meu novo monitor.
+
+Com ansiedade estou esperando para poder usufruir mais de vídeos e games.
+_____
+
+14-08-2024
+__
+
+No TEKKEN utiliza-se apenas 4 botões, mas as combinações de movimentos são em enorme número.
+_____
+
+14-08-2024
+__
+
+Matemática com criação de softwares sobre quase tudo o que se estuda.
+_____
+
+14-08-2024
+__
+
+Fui bastante feliz em escolher, não somente o Linux, mas a distribuição Debian GNU/Linux.
+_____
+
+14-08-2024
+__
+
+O TEKKEN 8 é graficamente lindo...
+_____
+
+14-08-2024
+__
+
+Há inteligência em criar as próprias bibliotecas, e também em bem encaixar as de terceiros quando fazem o mesmo ou algo semelhante.
+_____
+
+14-08-2024
+__
+
+Ao todo, o AV3DNavigator disponibiliza 10 parâmetros variáveis para a construção de espaços com objetos animados.
+_____
+
+14-08-2024
+__
+
+Em razão de más decisões, se nos vemos como fracos, com o ego ferido, não temos paz.
+
+Bom, não devo falar por todos, falo por mim.
+_____
+
+14-08-2024
+__
+
+Verdadeiras aventuras, epopeias emocionais...
+_____
+
+14-08-2024
+__
+
+Deixando os softwares os mais perfeitos possíveis também para não ficar me "revirando no caixão" caso desencarne e não possa mais editar os sources.
+_____
+
+14-08-2024
+__
+
+A coragem de ser sensível também para ter uma boa inteligência.
+_____
+
+14-08-2024
+__
+
+Para zerar os contadores estatísticos, o que pode ser necessário após debuggings. Basta atualizar a release de stats no GitHub excluindo e readicionando os targets.
+_____
+
+14-08-2024
+__
+
+Melhor ficar falando de softwares que das vidas dos outros. =)
+_____
+
+14-08-2024
+__
+
+Já pensei que algumas falhas eram minhas, mas depois de fazer muitos testes, percebi que são das bibliotecas de terceiros, então lavo as mãos; deixo registrado no README dot md.
+_____
+
+14-08-2024
+__
+
+Descobri um algoritmo mais conveniente para um trecho de alguns dos meus games (há compartilhamentos de escopos para funcionalidades semelhantes), mas a "gambiarra" que fiz foi tão inteligente que estou decidindo por manter, deixar como está.
+_____
+
+13-08-2024
+__
+
+Praticamente não restam mais teclas do keyboard para mais funcionalidades. E já utilizo combinações com Shift e Ctrl.
+_____
+
+13-08-2024
+__
+
+Como é prazeroso programar, adicionar mais ideias e implementações, estando com todo o portfolio em já perfeito funcionamento. Apenas acrescentamos mais perfeição a algo belo.
+_____
+
+13-08-2024
+__
+
+A coragem de ser sensível...
+
+Mesmo em meio a muitas dores mantenho-me porque alimento-me do meu Eu, que sempre me reenergiza.
+_____
+
+13-08-2024
+__
+
+Tenho dois algoritmos para encontrar raízes de funções reais, ambos bons; deixo os dois publicados.
+_____
+
+13-08-2024
+__
+
+Um mensageiro do bem, um mensageiro do Eu, do Ego.
+_____
+
+13-08-2024
+__
+
+Não preciso mais programar tanto, já mostrei a mim mesmo o meu potencial, é isto o que mais importa.
+_____
+
+13-08-2024
+__
+
+Trabalhando a inteligência matemática, mas também é importante, necessário, trabalhar a inteligência emocional.
+_____
+
+13-08-2024
+__
+
+Para criar os espaços para o AV3DNavigator, recomenda-se o uso de plugins ou a edição de um software específico, já é algo bastante complexo e que exige inteligência. Estou pensando em uma nova implementação aqui, mas seria algo para QI 200+...
+_____
+
 12-08-2024
 __
 
