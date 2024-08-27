@@ -3,14 +3,44 @@ Proprietário: Antonio Vandré Pedrosa Furtunato Gomes (bit.ly/antoniovandre_leg
 Arquivo de anotações públicas #5.
 ____________________
 
-24-08-2024
+27-08-2024
 __
 
-Desde que sem grandes consequências, aceitar as imperfeições como particularidades.
+Programar e programar, mas às vezes é bom logo concluir as edições para ficar livre e ter tempo para outras coisas, como entretenimentos.
 _____
 
-24-08-2024
+27-08-2024
 __
 
-A mente pode ser um extremo complexo labirinto; devemos nela encontrar a paz e a felicidade.
+Não tenho muito o que me protege além de minha própria paciência.
+_____
+
+26-08-2024
+__
+
+Mesmo em dias não bons, em ócio contemplo a existência...
+_____
+
+26-08-2024
+__
+
+Mesmo em um dia desconfortável, posso, julgando-me capaz, usufruir do ócio, especialmente se me vejo realizado com minhas obras.
+_____
+
+26-08-2024
+__
+
+Posso não estar compulsivamente fazendo ou exercitando Matemática, posso, por exemplo, estar jogando mais de games.
+_____
+
+26-08-2024
+__
+
+No AV3DNavigator utilizei apenas um "trick", quando rotacionando verticalmente e horizontalmente quando a tela já rotada; em extremos os ângulos podem sofrer variações que tendem a zero, então dou um pequeno "jump" para que a rotação continue suave e amigável ao usuário, tanto que dinamicamente altero o SleepTime. Quanto mais veloz o computador, mais suaves as rotações.
+_____
+
+26-08-2024
+__
+
+Nos dias desconfortáveis é bom ter algo para compulsivamente apegar-se.
 _____
