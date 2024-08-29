@@ -3,6 +3,152 @@ Proprietário: Antonio Vandré Pedrosa Furtunato Gomes (bit.ly/antoniovandre_leg
 Arquivo de anotações públicas #4.
 ____________________
 
+27-08-2024
+__
+
+De tão pouca imprecisão resultante, e cada vez menor quanto mais veloz a máquina, posso até desconsiderar meu trick no AV3DNavigator e passar a o enxergar como parte nativa do código.
+_____
+
+27-08-2024
+__
+
+Ter muitas vezes vivido maus dias faz-me valorizar os bons, mesmo que simples.
+_____
+
+27-08-2024
+__
+
+Amando mais à Matemática que a qualquer outra coisa, fico aqui no bom PC com uma boa internet, mas sem me envolver muito, porém emocionalmente satisfeito, que é o que importa.
+_____
+
+27-08-2024
+__
+
+Sobre apegar-se às composições, e não somente aos elementos para ter o que amar, posso apegar-me às composições de elementos matemáticos.
+_____
+
+27-08-2024
+__
+
+Semelhantemente, se apegado a um time de futebol ou a um casamento, tem-se que lidar com falhas, que podem ser muitas; com softwares pode-se lidar com elas, mas são bem poucas.
+_____
+
+27-08-2024
+__
+
+Emocionalmente apegando-se a algo um tanto instancialista e materialista, deve-se relevar mais ou menos algumas falhas.
+_____
+
+27-08-2024
+__
+
+Ou, sendo mais materialista e instancialista, posso apegar-me a softwares, mesmo com suas pequenas imperfeições, com seus tricks, relevando-os ou até mesmo também os divinizando, visto que também exigiram certa inteligência.
+_____
+
+27-08-2024
+__
+
+Havendo tricks, não é uma boa ideia apoiar-se emocionalmente sobre os softwares, mas sim sobre a Matemática Pura, a M que, inclusive, foi utilizada para construir os tricks.
+_____
+
+27-08-2024
+__
+
+Experiência e maturidade matemática também ao ter tricks nos softwares e métodos, lidando com as presenças deles, não estando tudo perfeito.
+_____
+
+27-08-2024
+__
+
+Até os tricks nos softwares podem ser "semi-divinizados", pois também envolvem Matemática.
+_____
+
+27-08-2024
+__
+
+Sim, amando à Matemática, mentalizar as equações e expressões, divinizá-las.
+_____
+
+27-08-2024
+__
+
+Aproveitando o bom dia, não sendo mais necessário usufruir compulsivamente do bom monitor, para meditar e curar-me interiormente mais um pouco; ainda bem que restou pouco o que sanar dentro de mim, estou apenas realizando refinamentos.
+_____
+
+27-08-2024
+__
+
+Também é pobre quem não tem ao que amar.
+_____
+
+27-08-2024
+__
+
+Se já estou emocionalmente apegado à Matemática, não preciso me apegar muito a outras coisas, basta manter um mínimo de estudos gerais, e quanto a estes últimos, bastam poucos.
+
+Devo sim desejar mergulhar profundamente nela, viver cada mínimo detalhe seu. Desejo que substitui o de fazer quando às demais coisas.
+_____
+
+27-08-2024
+__
+
+A Matemática é suficiente para mim mesmo eu estando em ócio, apenas a mentalizando e afetivamente apegando-me ao que já tenho dentro de mim.
+_____
+
+27-08-2024
+__
+
+Hoje, pela primeira vez limpei a tela do monitor novo, e com todo cuidado, utilizando um pano macio e seco, sem fazer pressão, apenas levemente batendo, e ficou limpinho novamente.
+_____
+
+27-08-2024
+__
+
+Com um mais intenso amor à Matemática, que a torna mais suficiente, e também por já ter usufruído bastante, já não estou tão preocupado em utilizar e utilizar exaustivamente o bom monitor com games e gráficos.
+_____
+
+27-08-2024
+__
+
+Programar e programar, mas às vezes é bom logo concluir as edições para ficar livre e ter tempo para outras coisas, como entretenimentos.
+_____
+
+27-08-2024
+__
+
+Não tenho muito o que me protege além de minha própria paciência.
+_____
+
+26-08-2024
+__
+
+Mesmo em dias não bons, em ócio contemplo a existência...
+_____
+
+26-08-2024
+__
+
+Mesmo em um dia desconfortável, posso, julgando-me capaz, usufruir do ócio, especialmente se me vejo realizado com minhas obras.
+_____
+
+26-08-2024
+__
+
+Posso não estar compulsivamente fazendo ou exercitando Matemática, posso, por exemplo, estar jogando mais de games.
+_____
+
+26-08-2024
+__
+
+No AV3DNavigator utilizei apenas um "trick", quando rotacionando verticalmente e horizontalmente quando a tela já rotada; em extremos os ângulos podem sofrer variações que tendem a zero, então dou um pequeno "jump" para que a rotação continue suave e amigável ao usuário, tanto que dinamicamente altero o SleepTime. Quanto mais veloz o computador, mais suaves as rotações.
+_____
+
+26-08-2024
+__
+
+Nos dias desconfortáveis é bom ter algo para compulsivamente apegar-se.
+_____
+
 26-08-2024
 __
 
