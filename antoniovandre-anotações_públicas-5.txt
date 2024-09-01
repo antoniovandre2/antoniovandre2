@@ -3,74 +3,40 @@ Proprietário: Antonio Vandré Pedrosa Furtunato Gomes (bit.ly/antoniovandre_leg
 Arquivo de anotações públicas #5.
 ____________________
 
-28-08-2024
+01-09-2024
 __
 
-Gosto de ficar escutando a webradio Central DJ, e vez e outra o Arvy faz entradas ao vivo; fico pensando aqui: como ele tem tempo e tranquilidade? Estou sempre cheio de problemas aqui para resolver...
+O longo tempo das "vacas magras" está chegando ao fim...
 _____
 
-28-08-2024
+31-08-2024
 __
 
-Estou guardando até a fonte ttf utilizada nos logos do AV3DNavigator para futuras edições. Ela é difícil de ser encontrada.
+Iniciar e trabalhar em muitas implementações, e, ao final, retirar aquelas nas quais não houve excelência, deixando somente as perfeitas.
 _____
 
-28-08-2024
+31-08-2024
 __
 
-Renderizar perfeitamente os objetos 3D, ok; o problema no AV3DNavigator vinha sendo o controle da câmera, mas acho que hoje pus fim a isto.
+Melhor ter pouco e neste pouco haver perfeição, que muito com falhas.
 _____
 
-28-08-2024
+31-08-2024
 __
 
-Acho que muitos nem precisam de dinheiro, mas meio que desesperadamente buscam mais porque são inseguros quanto ao futuro.
+Com downgrades de implementações que vinham apresentando falhas, o AV3DNavigator não é mais tão completo, mas é perfeito no muito que ainda faz.
 _____
 
-28-08-2024
+31-08-2024
 __
 
-Sempre arrumo um tempinho do dia para fazer barras, para manter o corpo belo.
+Mesmo não podendo manter um orgulho matemático pleno por ainda não ser capaz de alguns feitos, mantenho, ainda que não completas, minhas obras para ter ao menos um orgulho elevado, a M é uma de minhas riquezas mais preciosas, que desejo preservar.
 _____
 
-28-08-2024
+31-08-2024
 __
 
-Também aproveito os bons dias para permanecer bastante tempo comigo mesmo, pois nos maus dias os desconfortos não permitem muito.
-_____
+O brasileiro médio baixa por torrents, burla as ads do YouTube, pirateia games; dizer para não utilizar VPN é contrariar bastante.
 
-28-08-2024
-__
-
-Apressadamente programo, e também escrevo o mais detalhado possível, para que, quando ver-me privado de utilizar computadores ou internet, não ficar ansioso, com o que ter por fazer, pois já fiz.
-_____
-
-28-08-2024
-__
-
-Só consigo fazer meu cérebro se acalmar com meus softwares perfeitos; se descubro uma falha, imediatamente paro tudo para logo corrigir.
-_____
-
-28-08-2024
-__
-
-Depois de passar horas programando, estou evitando me ocupar com mais coisas, quero passar mais tempo comigo mesmo.
-_____
-
-28-08-2024
-__
-
-Acho que no sistema de coordenadas esférias, o AV3DNavigator já atingiu a perfeição.
-_____
-
-28-08-2024
-__
-
-Tive um sonho estranho e interessante: estava bastante animado para frequentar uma nova universidade, mas fui impedido depois de uma análise porque eu emitia muita "radiação" que seria prejudicial aos demais alunos.
-_____
-
-27-08-2024
-__
-
-O segredo para relacionar-se bem com todos é bastante simples: não esperar muito.
+Obs.: não sou um brasileiro médio.
 _____
