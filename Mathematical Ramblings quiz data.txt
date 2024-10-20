@@ -1,4 +1,4 @@
-Número de acertos: 4311. Número de erros: 17. MD5sum: 52c340c0984aaf9966e8a0ac32807156.
+Número de acertos: 4527. Número de erros: 17. MD5sum: 1d5cd55ff194b19cafc44a8c9bd0fc93.
 Quanto é 26 + 28? Resposta: 54. Acertou. Em 17/10/2021 @ 19:45:22.
 Quanto é 39 - 66? Resposta: -27. Acertou. Em 17/10/2021 @ 19:45:36.
 Quanto é 44 - 11? Resposta: 33. Acertou. Em 17/10/2021 @ 21:44:6.
@@ -4327,3 +4327,219 @@ Quanto é 79 + 86? Resposta: 165. Acertou. Em 19/10/2024 @ 18:2:44.
 Quanto é 11 x 4? Resposta: 44. Acertou. Em 19/10/2024 @ 18:5:41.
 Quanto é 56 / 56? Resposta: 1. Acertou. Em 19/10/2024 @ 18:5:44.
 Quanto é 25 + 74? Resposta: 99. Acertou. Em 19/10/2024 @ 18:5:53.
+Quanto é 47 - 38? Resposta: 9. Acertou. Em 19/10/2024 @ 18:12:48.
+Quanto é 6^3? Resposta: 216. Acertou. Em 19/10/2024 @ 18:12:52.
+Quanto é 110 / 2? Resposta: 55. Acertou. Em 19/10/2024 @ 18:12:57.
+Quanto é 6 x 5? Resposta: 30. Acertou. Em 19/10/2024 @ 18:13:0.
+Quanto é 7 + 74? Resposta: 81. Acertou. Em 19/10/2024 @ 18:13:10.
+Quanto é 5^2? Resposta: 25. Acertou. Em 19/10/2024 @ 18:13:13.
+Quanto é 13 x 4? Resposta: 52. Acertou. Em 19/10/2024 @ 18:13:19.
+Quanto é 33 / 3? Resposta: 11. Acertou. Em 19/10/2024 @ 18:31:5.
+Quanto é 8^3? Resposta: 512. Acertou. Em 19/10/2024 @ 18:31:18.
+Quanto é 30 - 30? Resposta: 0. Acertou. Em 19/10/2024 @ 18:31:21.
+Quanto é 42 / 2? Resposta: 21. Acertou. Em 19/10/2024 @ 18:31:24.
+Quanto é 18 + 4? Resposta: 22. Acertou. Em 19/10/2024 @ 18:31:34.
+Quanto é 7^2? Resposta: 49. Acertou. Em 19/10/2024 @ 18:31:37.
+Quanto é 190 / 19? Resposta: 10. Acertou. Em 19/10/2024 @ 18:31:40.
+Quanto é 14 x 14? Resposta: 196. Acertou. Em 19/10/2024 @ 18:31:44.
+Quanto é 10 x 5? Resposta: 50. Acertou. Em 19/10/2024 @ 18:31:47.
+Quanto é 57 + 75? Resposta: 132. Acertou. Em 19/10/2024 @ 18:31:59.
+Quanto é 9 x 11? Resposta: 99. Acertou. Em 19/10/2024 @ 18:32:5.
+Quanto é 10^2? Resposta: 100. Acertou. Em 19/10/2024 @ 18:32:8.
+Quanto é 92 / 4? Resposta: 23. Acertou. Em 19/10/2024 @ 18:38:21.
+Quanto é 6 x 8? Resposta: 48. Acertou. Em 19/10/2024 @ 18:38:25.
+Quanto é 36 + 57? Resposta: 93. Acertou. Em 19/10/2024 @ 18:39:10.
+Quanto é 4 - 29? Resposta: -25. Acertou. Em 19/10/2024 @ 18:39:16.
+Quanto é 13 x 5? Resposta: 65. Acertou. Em 19/10/2024 @ 18:39:21.
+Quanto é 4^2? Resposta: 16. Acertou. Em 19/10/2024 @ 18:39:26.
+Quanto é 97 / 97? Resposta: 1. Acertou. Em 19/10/2024 @ 18:39:29.
+Quanto é 77 - 82? Resposta: -5. Acertou. Em 19/10/2024 @ 18:39:50.
+Quanto é 4 x 7? Resposta: 28. Acertou. Em 19/10/2024 @ 18:39:54.
+Quanto é 7^3? Resposta: 343. Acertou. Em 19/10/2024 @ 18:40:0.
+Quanto é 99 + 25? Resposta: 124. Acertou. Em 19/10/2024 @ 18:40:5.
+Quanto é 56 - 97? Resposta: -41. Acertou. Em 19/10/2024 @ 18:49:45.
+Quanto é 4 x 9? Resposta: 36. Acertou. Em 19/10/2024 @ 18:49:53.
+Quanto é 95 - 23? Resposta: 72. Acertou. Em 19/10/2024 @ 18:50:20.
+Quanto é 76 + 36? Resposta: 112. Acertou. Em 19/10/2024 @ 18:50:40.
+Quanto é 3 x 12? Resposta: 36. Acertou. Em 19/10/2024 @ 18:50:46.
+Quanto é 3^2? Resposta: 9. Acertou. Em 19/10/2024 @ 18:50:58.
+Quanto é 3 x 7? Resposta: 21. Acertou. Em 19/10/2024 @ 18:51:4.
+Quanto é 2 - 40? Resposta: -38. Acertou. Em 19/10/2024 @ 18:51:14.
+Quanto é 3^3? Resposta: 27. Acertou. Em 19/10/2024 @ 18:51:20.
+Quanto é 72 + 59? Resposta: 131. Acertou. Em 19/10/2024 @ 18:51:33.
+Quanto é 3^3? Resposta: 27. Acertou. Em 19/10/2024 @ 21:32:4.
+Quanto é 33 / 11? Resposta: 3. Acertou. Em 19/10/2024 @ 21:32:8.
+Quanto é 8 x 7? Resposta: 56. Acertou. Em 19/10/2024 @ 21:32:12.
+Quanto é 10 x 10? Resposta: 100. Acertou. Em 19/10/2024 @ 21:32:15.
+Quanto é 6 + 56? Resposta: 62. Acertou. Em 19/10/2024 @ 21:32:23.
+Quanto é 5 x 7? Resposta: 35. Acertou. Em 19/10/2024 @ 21:32:27.
+Quanto é 73 + 72? Resposta: 145. Acertou. Em 19/10/2024 @ 21:32:34.
+Quanto é 74 - 98? Resposta: -24. Acertou. Em 19/10/2024 @ 21:36:18.
+Quanto é 2^3? Resposta: 8. Acertou. Em 19/10/2024 @ 21:36:23.
+Quanto é 13 x 5? Resposta: 65. Acertou. Em 19/10/2024 @ 21:36:27.
+Quanto é 3 - 41? Resposta: -38. Acertou. Em 19/10/2024 @ 21:36:35.
+Quanto é 12 x 11? Resposta: 132. Acertou. Em 19/10/2024 @ 21:36:41.
+Quanto é 45 / 5? Resposta: 9. Acertou. Em 19/10/2024 @ 21:37:45.
+Quanto é 111 / 3? Resposta: 37. Acertou. Em 19/10/2024 @ 21:38:0.
+Quanto é 10 x 7? Resposta: 70. Acertou. Em 19/10/2024 @ 21:38:3.
+Quanto é 40 - 98? Resposta: -58. Acertou. Em 19/10/2024 @ 21:38:9.
+Quanto é 4^2? Resposta: 16. Acertou. Em 19/10/2024 @ 21:38:12.
+Quanto é 4 x 2? Resposta: 8. Acertou. Em 19/10/2024 @ 21:38:18.
+Quanto é 10 x 7? Resposta: 70. Acertou. Em 19/10/2024 @ 21:38:21.
+Quanto é 13 - 80? Resposta: -67. Acertou. Em 19/10/2024 @ 21:38:33.
+Quanto é 27 + 39? Resposta: 66. Acertou. Em 19/10/2024 @ 21:38:45.
+Quanto é 18 - 23? Resposta: -5. Acertou. Em 19/10/2024 @ 21:48:34.
+Quanto é 55 + 31? Resposta: 86. Acertou. Em 19/10/2024 @ 21:48:46.
+Quanto é 110 / 10? Resposta: 11. Acertou. Em 19/10/2024 @ 21:48:49.
+Quanto é 12 x 11? Resposta: 132. Acertou. Em 19/10/2024 @ 21:48:58.
+Quanto é 92 + 1? Resposta: 93. Acertou. Em 19/10/2024 @ 21:49:3.
+Quanto é 47 + 88? Resposta: 135. Acertou. Em 19/10/2024 @ 21:49:14.
+Quanto é 6^3? Resposta: 216. Acertou. Em 19/10/2024 @ 21:50:43.
+Quanto é 12 x 2? Resposta: 24. Acertou. Em 19/10/2024 @ 21:50:47.
+Quanto é 58 - 64? Resposta: -6. Acertou. Em 19/10/2024 @ 21:51:4.
+Quanto é 8 / 2? Resposta: 4. Acertou. Em 19/10/2024 @ 21:51:7.
+Quanto é 3^3? Resposta: 27. Acertou. Em 19/10/2024 @ 21:51:14.
+Quanto é 88 + 17? Resposta: 105. Acertou. Em 19/10/2024 @ 21:51:26.
+Quanto é 155 / 5? Resposta: 31. Acertou. Em 19/10/2024 @ 21:51:34.
+Quanto é 135 / 5? Resposta: 27. Acertou. Em 19/10/2024 @ 21:52:17.
+Quanto é 119 / 7? Resposta: 17. Acertou. Em 19/10/2024 @ 21:52:43.
+Quanto é 9 x 7? Resposta: 63. Acertou. Em 19/10/2024 @ 21:52:50.
+Quanto é 4 / 4? Resposta: 1. Acertou. Em 19/10/2024 @ 21:52:53.
+Quanto é 56 + 19? Resposta: 75. Acertou. Em 19/10/2024 @ 21:53:7.
+Quanto é 8 x 8? Resposta: 64. Acertou. Em 19/10/2024 @ 21:59:38.
+Quanto é 94 - 10? Resposta: 84. Acertou. Em 19/10/2024 @ 21:59:44.
+Quanto é 30 - 3? Resposta: 27. Acertou. Em 19/10/2024 @ 21:59:48.
+Quanto é 83 - 62? Resposta: 21. Acertou. Em 19/10/2024 @ 21:59:56.
+Quanto é 59 + 66? Resposta: 125. Acertou. Em 19/10/2024 @ 22:0:7.
+Quanto é 104 / 26? Resposta: 4. Acertou. Em 19/10/2024 @ 22:2:23.
+Quanto é 13 + 82? Resposta: 95. Acertou. Em 19/10/2024 @ 22:2:36.
+Quanto é 44 - 80? Resposta: -36. Acertou. Em 19/10/2024 @ 22:2:50.
+Quanto é 64 - 42? Resposta: 22. Acertou. Em 19/10/2024 @ 22:3:2.
+Quanto é 19 - 1? Resposta: 18. Acertou. Em 19/10/2024 @ 22:3:8.
+Quanto é 7 + 68? Resposta: 75. Acertou. Em 19/10/2024 @ 22:8:18.
+Quanto é 8^2? Resposta: 64. Acertou. Em 19/10/2024 @ 22:8:23.
+Quanto é 58 + 22? Resposta: 80. Acertou. Em 19/10/2024 @ 22:8:31.
+Quanto é 53 - 70? Resposta: -17. Acertou. Em 19/10/2024 @ 22:8:49.
+Quanto é 150 / 75? Resposta: 2. Acertou. Em 19/10/2024 @ 22:20:0.
+Quanto é 40 - 23? Resposta: 17. Acertou. Em 19/10/2024 @ 22:20:14.
+Quanto é 7^2? Resposta: 49. Acertou. Em 20/10/2024 @ 12:52:39.
+Quanto é 3 - 2? Resposta: 1. Acertou. Em 20/10/2024 @ 12:52:43.
+Quanto é 70 + 65? Resposta: 135. Acertou. Em 20/10/2024 @ 12:52:51.
+Quanto é 132 / 33? Resposta: 4. Acertou. Em 20/10/2024 @ 12:53:19.
+Quanto é 3 + 12? Resposta: 15. Acertou. Em 20/10/2024 @ 12:53:30.
+Quanto é 117 / 39? Resposta: 3. Acertou. Em 20/10/2024 @ 12:53:55.
+Quanto é 91 - 67? Resposta: 24. Acertou. Em 20/10/2024 @ 12:54:14.
+Quanto é 3 x 2? Resposta: 6. Acertou. Em 20/10/2024 @ 12:54:16.
+Quanto é 13 x 3? Resposta: 39. Acertou. Em 20/10/2024 @ 12:54:24.
+Quanto é 73 - 46? Resposta: 27. Acertou. Em 20/10/2024 @ 12:57:49.
+Quanto é 110 / 2? Resposta: 55. Acertou. Em 20/10/2024 @ 12:57:53.
+Quanto é 9 x 7? Resposta: 63. Acertou. Em 20/10/2024 @ 12:57:57.
+Quanto é 52 / 52? Resposta: 1. Acertou. Em 20/10/2024 @ 12:57:59.
+Quanto é 54 - 47? Resposta: 7. Acertou. Em 20/10/2024 @ 12:58:8.
+Quanto é 1 + 30? Resposta: 31. Acertou. Em 20/10/2024 @ 12:58:11.
+Quanto é 31 - 94? Resposta: -63. Acertou. Em 20/10/2024 @ 13:0:45.
+Quanto é 9 x 5? Resposta: 45. Acertou. Em 20/10/2024 @ 13:0:49.
+Quanto é 5^3? Resposta: 125. Acertou. Em 20/10/2024 @ 13:0:52.
+Quanto é 19 / 19? Resposta: 1. Acertou. Em 20/10/2024 @ 13:0:54.
+Quanto é 3^2? Resposta: 9. Acertou. Em 20/10/2024 @ 13:0:59.
+Quanto é 84 - 65? Resposta: 19. Acertou. Em 20/10/2024 @ 13:1:7.
+Quanto é 135 / 9? Resposta: 15. Acertou. Em 20/10/2024 @ 13:1:17.
+Quanto é 32 - 84? Resposta: -52. Acertou. Em 20/10/2024 @ 13:2:41.
+Quanto é 111 / 3? Resposta: 37. Acertou. Em 20/10/2024 @ 13:8:34.
+Quanto é 182 / 7? Resposta: 26. Acertou. Em 20/10/2024 @ 13:8:52.
+Quanto é 9 x 12? Resposta: 108. Acertou. Em 20/10/2024 @ 13:9:1.
+Quanto é 5^3? Resposta: 125. Acertou. Em 20/10/2024 @ 13:15:53.
+Quanto é 13 x 13? Resposta: 169. Acertou. Em 20/10/2024 @ 13:15:57.
+Quanto é 13^2? Resposta: 169. Acertou. Em 20/10/2024 @ 13:16:1.
+Quanto é 15 + 11? Resposta: 26. Acertou. Em 20/10/2024 @ 13:16:8.
+Quanto é 82 - 25? Resposta: 57. Acertou. Em 20/10/2024 @ 13:16:22.
+Quanto é 18 / 18? Resposta: 1. Acertou. Em 20/10/2024 @ 13:16:24.
+Quanto é 68 - 51? Resposta: 17. Acertou. Em 20/10/2024 @ 13:16:30.
+Quanto é 84 / 84? Resposta: 1. Acertou. Em 20/10/2024 @ 13:18:21.
+Quanto é 7 x 14? Resposta: 98. Acertou. Em 20/10/2024 @ 13:18:33.
+Quanto é 161 / 7? Resposta: 23. Acertou. Em 20/10/2024 @ 13:18:46.
+Quanto é 12 x 7? Resposta: 84. Acertou. Em 20/10/2024 @ 13:19:1.
+Quanto é 33 + 23? Resposta: 56. Acertou. Em 20/10/2024 @ 13:19:12.
+Quanto é 3^2? Resposta: 9. Acertou. Em 20/10/2024 @ 13:19:15.
+Quanto é 12 x 4? Resposta: 48. Acertou. Em 20/10/2024 @ 13:19:23.
+Quanto é 53 - 10? Resposta: 43. Acertou. Em 20/10/2024 @ 13:25:10.
+Quanto é 11 x 12? Resposta: 132. Acertou. Em 20/10/2024 @ 13:25:18.
+Quanto é 96 - 89? Resposta: 7. Acertou. Em 20/10/2024 @ 13:25:27.
+Quanto é 11 x 3? Resposta: 33. Acertou. Em 20/10/2024 @ 13:25:32.
+Quanto é 12^2? Resposta: 144. Acertou. Em 20/10/2024 @ 13:25:35.
+Quanto é 90 - 13? Resposta: 77. Acertou. Em 20/10/2024 @ 13:25:43.
+Quanto é 98 / 2? Resposta: 49. Acertou. Em 20/10/2024 @ 13:25:55.
+Quanto é 71 + 27? Resposta: 98. Acertou. Em 20/10/2024 @ 13:26:2.
+Quanto é 10 / 10? Resposta: 1. Acertou. Em 20/10/2024 @ 13:26:5.
+Quanto é 15 + 82? Resposta: 97. Acertou. Em 20/10/2024 @ 13:35:23.
+Quanto é 31 - 24? Resposta: 7. Acertou. Em 20/10/2024 @ 13:35:40.
+Quanto é 37 / 37? Resposta: 1. Acertou. Em 20/10/2024 @ 13:35:43.
+Quanto é 52 - 49? Resposta: 3. Acertou. Em 20/10/2024 @ 13:35:51.
+Quanto é 98 + 56? Resposta: 154. Acertou. Em 20/10/2024 @ 13:36:0.
+Quanto é 36 / 36? Resposta: 1. Acertou. Em 20/10/2024 @ 13:40:13.
+Quanto é 9 + 89? Resposta: 98. Acertou. Em 20/10/2024 @ 13:40:22.
+Quanto é 11^2? Resposta: 121. Acertou. Em 20/10/2024 @ 13:40:24.
+Quanto é 12 x 8? Resposta: 96. Acertou. Em 20/10/2024 @ 13:40:33.
+Quanto é 156 / 12? Resposta: 13. Acertou. Em 20/10/2024 @ 13:40:52.
+Quanto é 10 x 11? Resposta: 110. Acertou. Em 20/10/2024 @ 15:29:32.
+Quanto é 93 / 93? Resposta: 1. Acertou. Em 20/10/2024 @ 15:29:35.
+Quanto é 121 / 11? Resposta: 11. Acertou. Em 20/10/2024 @ 15:29:40.
+Quanto é 6 x 12? Resposta: 72. Acertou. Em 20/10/2024 @ 15:29:46.
+Quanto é 7 x 12? Resposta: 84. Acertou. Em 20/10/2024 @ 15:29:52.
+Quanto é 5 x 7? Resposta: 35. Acertou. Em 20/10/2024 @ 15:29:56.
+Quanto é 7^2? Resposta: 49. Acertou. Em 20/10/2024 @ 15:36:22.
+Quanto é 33 - 97? Resposta: -64. Acertou. Em 20/10/2024 @ 15:36:40.
+Quanto é 3 x 12? Resposta: 36. Acertou. Em 20/10/2024 @ 15:36:44.
+Quanto é 13 x 4? Resposta: 52. Acertou. Em 20/10/2024 @ 15:36:50.
+Quanto é 6 x 4? Resposta: 24. Acertou. Em 20/10/2024 @ 15:36:53.
+Quanto é 52 + 68? Resposta: 120. Acertou. Em 20/10/2024 @ 15:39:10.
+Quanto é 2^3? Resposta: 8. Acertou. Em 20/10/2024 @ 15:39:14.
+Quanto é 61 / 61? Resposta: 1. Acertou. Em 20/10/2024 @ 15:39:16.
+Quanto é 14^2? Resposta: 196. Acertou. Em 20/10/2024 @ 15:39:20.
+Quanto é 98 + 97? Resposta: 195. Acertou. Em 20/10/2024 @ 15:39:54.
+Quanto é 94 / 94? Resposta: 1. Acertou. Em 20/10/2024 @ 15:39:56.
+Quanto é 8 x 3? Resposta: 24. Acertou. Em 20/10/2024 @ 15:39:59.
+Quanto é 13^2? Resposta: 169. Acertou. Em 20/10/2024 @ 15:40:5.
+Quanto é 10 x 8? Resposta: 80. Acertou. Em 20/10/2024 @ 15:40:8.
+Quanto é 82 - 53? Resposta: 29. Acertou. Em 20/10/2024 @ 15:40:17.
+Quanto é 4^3? Resposta: 64. Acertou. Em 20/10/2024 @ 15:40:22.
+Quanto é 187 / 11? Resposta: 17. Acertou. Em 20/10/2024 @ 15:40:46.
+Quanto é 92 + 44? Resposta: 136. Acertou. Em 20/10/2024 @ 15:41:7.
+Quanto é 69 - 61? Resposta: 8. Acertou. Em 20/10/2024 @ 15:41:19.
+Quanto é 16 - 78? Resposta: -62. Acertou. Em 20/10/2024 @ 15:41:45.
+Quanto é 6^3? Resposta: 216. Acertou. Em 20/10/2024 @ 15:41:50.
+Quanto é 112 / 14? Resposta: 8. Acertou. Em 20/10/2024 @ 15:42:45.
+Quanto é 3^3? Resposta: 27. Acertou. Em 20/10/2024 @ 15:42:50.
+Quanto é 2 x 5? Resposta: 10. Acertou. Em 20/10/2024 @ 15:42:53.
+Quanto é 6 - 71? Resposta: -65. Acertou. Em 20/10/2024 @ 15:43:1.
+Quanto é 14 x 3? Resposta: 42. Acertou. Em 20/10/2024 @ 15:43:21.
+Quanto é 8^2? Resposta: 64. Acertou. Em 20/10/2024 @ 15:43:27.
+Quanto é 68 - 2? Resposta: 66. Acertou. Em 20/10/2024 @ 15:43:31.
+Quanto é 14 x 7? Resposta: 98. Acertou. Em 20/10/2024 @ 15:43:53.
+Quanto é 33 + 34? Resposta: 67. Acertou. Em 20/10/2024 @ 15:54:3.
+Quanto é 130 / 2? Resposta: 65. Acertou. Em 20/10/2024 @ 15:54:10.
+Quanto é 77 + 70? Resposta: 147. Acertou. Em 20/10/2024 @ 15:54:18.
+Quanto é 144 / 8? Resposta: 18. Acertou. Em 20/10/2024 @ 15:54:42.
+Quanto é 57 + 12? Resposta: 69. Acertou. Em 20/10/2024 @ 15:54:53.
+Quanto é 51 + 2? Resposta: 53. Acertou. Em 20/10/2024 @ 15:54:59.
+Quanto é 73 + 3? Resposta: 76. Acertou. Em 20/10/2024 @ 15:58:47.
+Quanto é 8^3? Resposta: 512. Acertou. Em 20/10/2024 @ 15:58:52.
+Quanto é 3 x 4? Resposta: 12. Acertou. Em 20/10/2024 @ 15:58:56.
+Quanto é 35 + 19? Resposta: 54. Acertou. Em 20/10/2024 @ 15:59:7.
+Quanto é 2 x 4? Resposta: 8. Acertou. Em 20/10/2024 @ 16:4:23.
+Quanto é 7 x 8? Resposta: 56. Acertou. Em 20/10/2024 @ 16:4:28.
+Quanto é 176 / 44? Resposta: 4. Acertou. Em 20/10/2024 @ 16:4:38.
+Quanto é 5^2? Resposta: 25. Acertou. Em 20/10/2024 @ 16:4:47.
+Quanto é 30 + 41? Resposta: 71. Acertou. Em 20/10/2024 @ 16:4:53.
+Quanto é 8 x 14? Resposta: 112. Acertou. Em 20/10/2024 @ 16:9:3.
+Quanto é 52 - 54? Resposta: -2. Acertou. Em 20/10/2024 @ 16:9:9.
+Quanto é 10^2? Resposta: 100. Acertou. Em 20/10/2024 @ 16:9:14.
+Quanto é 128 / 64? Resposta: 2. Acertou. Em 20/10/2024 @ 16:9:20.
+Quanto é 17 + 82? Resposta: 99. Acertou. Em 20/10/2024 @ 16:9:49.
+Quanto é 2 x 8? Resposta: 16. Acertou. Em 20/10/2024 @ 16:11:55.
+Quanto é 26 - 48? Resposta: -22. Acertou. Em 20/10/2024 @ 16:12:9.
+Quanto é 38 + 52? Resposta: 90. Acertou. Em 20/10/2024 @ 16:12:21.
+Quanto é 15 - 30? Resposta: -15. Acertou. Em 20/10/2024 @ 16:12:29.
+Quanto é 6^2? Resposta: 36. Acertou. Em 20/10/2024 @ 16:12:36.
+Quanto é 10 x 4? Resposta: 40. Acertou. Em 20/10/2024 @ 16:12:41.
+Quanto é 78 / 3? Resposta: 26. Acertou. Em 20/10/2024 @ 16:12:55.
