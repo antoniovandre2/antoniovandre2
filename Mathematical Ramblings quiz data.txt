@@ -1,4 +1,4 @@
-Número de acertos: 4779. Número de erros: 17. MD5sum: dfae5e75974502e458688b2718472a66.
+Número de acertos: 4794. Número de erros: 17. MD5sum: 4d857ffbac0242a778bebf3c728fd13e.
 Quanto é 26 + 28? Resposta: 54. Acertou. Em 17/10/2021 @ 19:45:22.
 Quanto é 39 - 66? Resposta: -27. Acertou. Em 17/10/2021 @ 19:45:36.
 Quanto é 44 - 11? Resposta: 33. Acertou. Em 17/10/2021 @ 21:44:6.
@@ -4795,3 +4795,18 @@ Quanto é 6^2? Resposta: 36. Acertou. Em 28/10/2024 @ 21:3:5.
 Quanto é 91 + 71? Resposta: 162. Acertou. Em 28/10/2024 @ 21:3:12.
 Quanto é 5 + 58? Resposta: 63. Acertou. Em 28/10/2024 @ 21:3:19.
 Quanto é 126 / 9? Resposta: 14. Acertou. Em 28/10/2024 @ 21:3:39.
+Quanto é 91 + 50? Resposta: 141. Acertou. Em 1/11/2024 @ 20:58:11.
+Quanto é 76 + 35? Resposta: 111. Acertou. Em 1/11/2024 @ 20:58:32.
+Quanto é 44 - 87? Resposta: -43. Acertou. Em 2/11/2024 @ 11:29:14.
+Quanto é 79 + 1? Resposta: 80. Acertou. Em 2/11/2024 @ 11:29:20.
+Quanto é 92 + 36? Resposta: 128. Acertou. Em 2/11/2024 @ 11:45:29.
+Quanto é 3 / 3? Resposta: 1. Acertou. Em 2/11/2024 @ 11:45:36.
+Quanto é 88 / 4? Resposta: 22. Acertou. Em 2/11/2024 @ 11:45:41.
+Quanto é 7 x 10? Resposta: 70. Acertou. Em 2/11/2024 @ 11:45:47.
+Quanto é 34 + 62? Resposta: 96. Acertou. Em 2/11/2024 @ 17:31:21.
+Quanto é 9 + 47? Resposta: 56. Acertou. Em 2/11/2024 @ 17:31:28.
+Quanto é 75 - 63? Resposta: 12. Acertou. Em 2/11/2024 @ 17:32:20.
+Quanto é 9^2? Resposta: 81. Acertou. Em 2/11/2024 @ 17:32:25.
+Quanto é 5^3? Resposta: 125. Acertou. Em 2/11/2024 @ 17:32:29.
+Quanto é 10 - 22? Resposta: -12. Acertou. Em 2/11/2024 @ 17:32:36.
+Quanto é 12 x 6? Resposta: 72. Acertou. Em 2/11/2024 @ 17:32:45.
