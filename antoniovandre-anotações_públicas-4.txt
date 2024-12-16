@@ -6,6 +6,20 @@ ____________________
 16-12-2024
 __
 
+Mantenho-me de pé se estou em equilíbrio, e tenho equilíbrio se estou em movimento, e meu principal agir é estudar, o que faço pouco a pouco.
+_____
+
+16-12-2024
+__
+
+Apesar de, como Matemático, ou ao menos como aspirante, ser superior aos Físicos, invejo-os um pouco, pois Física também é deliciosa de ser estudada.
+
+Analogamente os que se julgam superiores aos Matemáticos podem sentir o mesmo quanto a estes, senão pelo prazer que é o estudar M, por sua beleza e vasta aplicabilidade em quase tudo.
+_____
+
+16-12-2024
+__
+
 Já estou há bastante tempo utilizando o Debian, estável e confiável; com outras versões Linux, depois de certo tempo, problemas surgiam e tinha que reinstalar ou trocar de distribuição; um hábito que adquiri com isto foi fazer backup dos meus scripts, e hoje até tenho um diretório público para quem quiser os aproveitar para também criar os seus próprios.
 _____
 
