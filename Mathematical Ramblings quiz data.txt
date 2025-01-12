@@ -1,4 +1,4 @@
-Número de acertos: 4794. Número de erros: 17. MD5sum: 4d857ffbac0242a778bebf3c728fd13e.
+Número de acertos: 5294. Número de erros: 19. MD5sum: b1042ba26d46faf9e0d6f450d541e266.
 Quanto é 26 + 28? Resposta: 54. Acertou. Em 17/10/2021 @ 19:45:22.
 Quanto é 39 - 66? Resposta: -27. Acertou. Em 17/10/2021 @ 19:45:36.
 Quanto é 44 - 11? Resposta: 33. Acertou. Em 17/10/2021 @ 21:44:6.
@@ -4810,3 +4810,505 @@ Quanto é 9^2? Resposta: 81. Acertou. Em 2/11/2024 @ 17:32:25.
 Quanto é 5^3? Resposta: 125. Acertou. Em 2/11/2024 @ 17:32:29.
 Quanto é 10 - 22? Resposta: -12. Acertou. Em 2/11/2024 @ 17:32:36.
 Quanto é 12 x 6? Resposta: 72. Acertou. Em 2/11/2024 @ 17:32:45.
+Quanto é 81 - 77? Resposta: 4. Acertou. Em 8/11/2024 @ 12:25:17.
+Quanto é 59 + 92? Resposta: 144. Errou. Em 11/11/2024 @ 10:4:57.
+Quanto é 59 + 92? Resposta: 151. Acertou. Em 11/11/2024 @ 10:5:45.
+Quanto é 8^2? Resposta: 64. Acertou. Em 11/11/2024 @ 10:6:3.
+Quanto é 51 - 63? Resposta: -12. Acertou. Em 11/11/2024 @ 10:6:22.
+Quanto é 71 - 31? Resposta: 40. Acertou. Em 11/11/2024 @ 10:6:39.
+Quanto é 155 / 31? Resposta: 5. Acertou. Em 11/11/2024 @ 10:6:48.
+Quanto é 28 + 48? Resposta: 76. Acertou. Em 11/11/2024 @ 10:7:46.
+Quanto é 78 - 50? Resposta: 28. Acertou. Em 11/11/2024 @ 10:8:4.
+Quanto é 42 + 87? Resposta: 129. Acertou. Em 11/11/2024 @ 10:9:6.
+Quanto é 7^2? Resposta: 49. Acertou. Em 11/11/2024 @ 10:9:12.
+Quanto é 68 - 42? Resposta: 26. Acertou. Em 11/11/2024 @ 10:10:37.
+Quanto é 57 / 19? Resposta: 3. Acertou. Em 11/11/2024 @ 10:10:50.
+Quanto é 89 - 70? Resposta: 19. Acertou. Em 11/11/2024 @ 10:10:58.
+Quanto é 10^2? Resposta: 100. Acertou. Em 18/12/2024 @ 18:18:33.
+Quanto é 95 / 5? Resposta: 19. Acertou. Em 18/12/2024 @ 18:18:47.
+Quanto é 82 - 3? Resposta: 79. Acertou. Em 18/12/2024 @ 18:19:34.
+Quanto é 10^2? Resposta: 100. Acertou. Em 18/12/2024 @ 18:19:37.
+Quanto é 60 / 12? Resposta: 5. Acertou. Em 18/12/2024 @ 18:19:41.
+Quanto é 2^3? Resposta: 8. Acertou. Em 18/12/2024 @ 18:19:49.
+Quanto é 5^2? Resposta: 25. Acertou. Em 18/12/2024 @ 18:19:53.
+Quanto é 117 / 13? Resposta: 9. Acertou. Em 18/12/2024 @ 18:20:7.
+Quanto é 4^3? Resposta: 64. Acertou. Em 18/12/2024 @ 18:20:13.
+Quanto é 54 - 91? Resposta: -37. Acertou. Em 18/12/2024 @ 18:24:57.
+Quanto é 97 + 86? Resposta: 183. Acertou. Em 18/12/2024 @ 18:25:12.
+Quanto é 114 / 19? Resposta: 6. Acertou. Em 18/12/2024 @ 18:25:44.
+Quanto é 87 + 68? Resposta: 155. Acertou. Em 18/12/2024 @ 18:27:30.
+Quanto é 12 / 3? Resposta: 4. Acertou. Em 18/12/2024 @ 18:27:41.
+Quanto é 161 / 23? Resposta: 7. Acertou. Em 18/12/2024 @ 18:27:59.
+Quanto é 44 + 16? Resposta: 60. Acertou. Em 18/12/2024 @ 18:29:36.
+Quanto é 190 / 10? Resposta: 19. Acertou. Em 18/12/2024 @ 18:29:40.
+Quanto é 71 - 36? Resposta: 35. Acertou. Em 18/12/2024 @ 18:29:58.
+Quanto é 23 / 23? Resposta: 1. Acertou. Em 18/12/2024 @ 18:36:48.
+Quanto é 108 / 54? Resposta: 2. Acertou. Em 18/12/2024 @ 18:36:59.
+Quanto é 10 x 7? Resposta: 70. Acertou. Em 18/12/2024 @ 18:37:6.
+Quanto é 65 / 65? Resposta: 1. Acertou. Em 18/12/2024 @ 18:37:12.
+Quanto é 29 + 16? Resposta: 45. Acertou. Em 18/12/2024 @ 18:38:59.
+Quanto é 100 / 50? Resposta: 2. Acertou. Em 18/12/2024 @ 18:39:9.
+Quanto é 19 - 27? Resposta: -8. Acertou. Em 18/12/2024 @ 18:39:27.
+Quanto é 29 - 96? Resposta: -67. Acertou. Em 18/12/2024 @ 18:40:32.
+Quanto é 4^3? Resposta: 64. Acertou. Em 18/12/2024 @ 18:40:39.
+Quanto é 35 - 55? Resposta: -20. Acertou. Em 18/12/2024 @ 18:40:51.
+Quanto é 13 x 2? Resposta: 26. Acertou. Em 18/12/2024 @ 18:41:8.
+Quanto é 8 / 2? Resposta: 4. Acertou. Em 18/12/2024 @ 18:41:17.
+Quanto é 19 / 19? Resposta: 1. Acertou. Em 18/12/2024 @ 18:41:21.
+Quanto é 96 / 4? Resposta: 24. Acertou. Em 18/12/2024 @ 18:42:1.
+Quanto é 65 + 95? Resposta: 160. Acertou. Em 18/12/2024 @ 18:43:43.
+Quanto é 3^2? Resposta: 9. Acertou. Em 24/12/2024 @ 16:22:5.
+Quanto é 8 x 12? Resposta: 96. Acertou. Em 24/12/2024 @ 16:22:32.
+Quanto é 6 + 49? Resposta: 55. Acertou. Em 24/12/2024 @ 16:23:20.
+Quanto é 41 - 8? Resposta: 33. Acertou. Em 24/12/2024 @ 16:23:52.
+Quanto é 49 / 7? Resposta: 7. Acertou. Em 24/12/2024 @ 16:24:20.
+Quanto é 10 x 14? Resposta: 140. Acertou. Em 24/12/2024 @ 16:24:36.
+Quanto é 19 / 19? Resposta: 1. Acertou. Em 24/12/2024 @ 16:24:48.
+Quanto é 5 x 3? Resposta: 15. Acertou. Em 24/12/2024 @ 16:25:11.
+Quanto é 10 x 3? Resposta: 30. Acertou. Em 24/12/2024 @ 16:25:32.
+Quanto é 7^2? Resposta: 49. Acertou. Em 24/12/2024 @ 16:25:45.
+Quanto é 67 + 56? Resposta: 123. Acertou. Em 24/12/2024 @ 16:28:35.
+Quanto é 12^2? Resposta: 144. Acertou. Em 24/12/2024 @ 16:29:20.
+Quanto é 93 / 3? Resposta: 31. Acertou. Em 24/12/2024 @ 16:33:44.
+Quanto é 105 / 5? Resposta: 21. Acertou. Em 24/12/2024 @ 16:33:54.
+Quanto é 6^3? Resposta: 216. Acertou. Em 24/12/2024 @ 16:34:6.
+Quanto é 5 x 12? Resposta: 60. Acertou. Em 24/12/2024 @ 16:34:17.
+Quanto é 54 - 23? Resposta: 31. Acertou. Em 24/12/2024 @ 16:35:2.
+Quanto é 70 + 10? Resposta: 80. Acertou. Em 24/12/2024 @ 16:51:16.
+Quanto é 10 x 14? Resposta: 140. Acertou. Em 24/12/2024 @ 16:51:30.
+Quanto é 14^2? Resposta: 196. Acertou. Em 24/12/2024 @ 16:51:47.
+Quanto é 11^2? Resposta: 121. Acertou. Em 24/12/2024 @ 16:52:7.
+Quanto é 24 / 2? Resposta: 12. Acertou. Em 24/12/2024 @ 16:52:17.
+Quanto é 47 + 92? Resposta: 139. Acertou. Em 24/12/2024 @ 16:52:41.
+Quanto é 13 x 4? Resposta: 52. Acertou. Em 24/12/2024 @ 16:54:15.
+Quanto é 14^2? Resposta: 196. Acertou. Em 24/12/2024 @ 16:54:28.
+Quanto é 3 x 8? Resposta: 24. Acertou. Em 24/12/2024 @ 16:54:43.
+Quanto é 52 + 24? Resposta: 76. Acertou. Em 24/12/2024 @ 16:55:11.
+Quanto é 4 x 4? Resposta: 16. Acertou. Em 24/12/2024 @ 16:55:28.
+Quanto é 69 + 20? Resposta: 89. Acertou. Em 24/12/2024 @ 16:55:44.
+Quanto é 12^2? Resposta: 144. Acertou. Em 24/12/2024 @ 16:55:52.
+Quanto é 8 x 12? Resposta: 96. Acertou. Em 24/12/2024 @ 16:56:6.
+Quanto é 98 / 98? Resposta: 1. Acertou. Em 24/12/2024 @ 16:56:23.
+Quanto é 55 + 32? Resposta: 87. Acertou. Em 24/12/2024 @ 17:18:38.
+Quanto é 6^2? Resposta: 36. Acertou. Em 24/12/2024 @ 17:18:52.
+Quanto é 91 + 17? Resposta: 108. Acertou. Em 24/12/2024 @ 17:19:11.
+Quanto é 12 + 61? Resposta: 73. Acertou. Em 24/12/2024 @ 17:33:46.
+Quanto é 144 / 3? Resposta: 48. Acertou. Em 24/12/2024 @ 17:35:2.
+Quanto é 130 / 13? Resposta: 10. Acertou. Em 24/12/2024 @ 17:35:10.
+Quanto é 64 - 76? Resposta: -12. Acertou. Em 24/12/2024 @ 17:37:41.
+Quanto é 53 / 53? Resposta: 1. Acertou. Em 24/12/2024 @ 17:37:57.
+Quanto é 93 + 86? Resposta: 179. Acertou. Em 24/12/2024 @ 17:50:14.
+Quanto é 10^2? Resposta: 100. Acertou. Em 24/12/2024 @ 17:50:25.
+Quanto é 12 x 8? Resposta: 96. Acertou. Em 24/12/2024 @ 17:50:43.
+Quanto é 118 / 2? Resposta: 59. Acertou. Em 24/12/2024 @ 17:51:11.
+Quanto é 3^2? Resposta: 9. Acertou. Em 24/12/2024 @ 17:51:21.
+Quanto é 48 + 17? Resposta: 65. Acertou. Em 24/12/2024 @ 17:52:5.
+Quanto é 66 + 39? Resposta: 105. Acertou. Em 24/12/2024 @ 17:52:38.
+Quanto é 9 x 13? Resposta: 117. Acertou. Em 24/12/2024 @ 17:55:37.
+Quanto é 93 - 19? Resposta: 74. Acertou. Em 24/12/2024 @ 17:56:4.
+Quanto é 43 / 43? Resposta: 1. Acertou. Em 24/12/2024 @ 18:4:7.
+Quanto é 86 - 49? Resposta: 37. Acertou. Em 24/12/2024 @ 18:4:34.
+Quanto é 37 - 12? Resposta: 25. Acertou. Em 24/12/2024 @ 18:5:15.
+Quanto é 13 - 87? Resposta: -74. Acertou. Em 24/12/2024 @ 18:5:30.
+Quanto é 9 + 81? Resposta: 90. Acertou. Em 24/12/2024 @ 18:25:50.
+Quanto é 76 + 39? Resposta: 115. Acertou. Em 24/12/2024 @ 18:27:17.
+Quanto é 75 - 92? Resposta: -17. Acertou. Em 24/12/2024 @ 19:17:28.
+Quanto é 5^2? Resposta: 25. Acertou. Em 24/12/2024 @ 19:17:38.
+Quanto é 5^2? Resposta: 25. Acertou. Em 24/12/2024 @ 19:17:45.
+Quanto é 3^3? Resposta: 27. Acertou. Em 24/12/2024 @ 19:17:56.
+Quanto é 43 - 43? Resposta: 0. Acertou. Em 24/12/2024 @ 19:18:5.
+Quanto é 85 + 93? Resposta: 178. Acertou. Em 24/12/2024 @ 19:18:24.
+Quanto é 6 x 7? Resposta: 42. Acertou. Em 10/1/2025 @ 13:45:28.
+Quanto é 11 x 9? Resposta: 99. Acertou. Em 10/1/2025 @ 13:45:35.
+Quanto é 63 / 3? Resposta: 21. Acertou. Em 10/1/2025 @ 13:45:43.
+Quanto é 10 x 12? Resposta: 120. Acertou. Em 10/1/2025 @ 13:45:52.
+Quanto é 13 x 14? Resposta: 182. Acertou. Em 10/1/2025 @ 13:46:36.
+Quanto é 140 / 20? Resposta: 7. Acertou. Em 10/1/2025 @ 13:46:41.
+Quanto é 3 x 5? Resposta: 15. Acertou. Em 10/1/2025 @ 13:46:46.
+Quanto é 4 x 8? Resposta: 32. Acertou. Em 10/1/2025 @ 13:46:57.
+Quanto é 180 / 45? Resposta: 4. Acertou. Em 10/1/2025 @ 13:47:12.
+Quanto é 63 - 33? Resposta: 30. Acertou. Em 10/1/2025 @ 13:48:45.
+Quanto é 182 / 91? Resposta: 2. Acertou. Em 10/1/2025 @ 13:49:3.
+Quanto é 94 + 36? Resposta: 130. Acertou. Em 10/1/2025 @ 13:49:21.
+Quanto é 90 / 10? Resposta: 9. Acertou. Em 10/1/2025 @ 13:49:30.
+Quanto é 40 / 4? Resposta: 10. Acertou. Em 10/1/2025 @ 13:49:35.
+Quanto é 10 x 12? Resposta: 120. Acertou. Em 10/1/2025 @ 13:49:41.
+Quanto é 12^2? Resposta: 144. Acertou. Em 10/1/2025 @ 13:49:45.
+Quanto é 94 + 9? Resposta: 103. Acertou. Em 10/1/2025 @ 13:49:56.
+Quanto é 10 x 8? Resposta: 80. Acertou. Em 10/1/2025 @ 13:50:1.
+Quanto é 55 + 27? Resposta: 82. Acertou. Em 10/1/2025 @ 13:50:31.
+Quanto é 2 x 5? Resposta: 10. Acertou. Em 10/1/2025 @ 13:53:40.
+Quanto é 142 / 71? Resposta: 2. Acertou. Em 10/1/2025 @ 13:53:44.
+Quanto é 10 x 13? Resposta: 130. Acertou. Em 10/1/2025 @ 13:53:48.
+Quanto é 6^3? Resposta: 216. Acertou. Em 10/1/2025 @ 13:53:54.
+Quanto é 11 x 3? Resposta: 33. Acertou. Em 10/1/2025 @ 13:53:56.
+Quanto é 16 + 58? Resposta: 74. Acertou. Em 10/1/2025 @ 13:54:14.
+Quanto é 175 / 35? Resposta: 5. Acertou. Em 10/1/2025 @ 13:55:26.
+Quanto é 3^2? Resposta: 9. Acertou. Em 10/1/2025 @ 13:55:32.
+Quanto é 74 - 36? Resposta: 38. Acertou. Em 10/1/2025 @ 13:56:5.
+Quanto é 86 + 93? Resposta: 179. Acertou. Em 10/1/2025 @ 13:58:19.
+Quanto é 69 / 23? Resposta: 3. Acertou. Em 10/1/2025 @ 13:58:26.
+Quanto é 141 / 3? Resposta: 47. Acertou. Em 10/1/2025 @ 13:59:17.
+Quanto é 6 - 51? Resposta: -45. Acertou. Em 10/1/2025 @ 14:6:50.
+Quanto é 130 / 26? Resposta: 5. Acertou. Em 10/1/2025 @ 14:8:31.
+Quanto é 9 x 2? Resposta: 18. Acertou. Em 10/1/2025 @ 14:8:36.
+Quanto é 28 - 92? Resposta: -64. Acertou. Em 10/1/2025 @ 14:8:56.
+Quanto é 7 - 80? Resposta: -73. Acertou. Em 10/1/2025 @ 14:9:12.
+Quanto é 92 - 92? Resposta: 0. Acertou. Em 10/1/2025 @ 14:29:56.
+Quanto é 11^2? Resposta: 121. Acertou. Em 10/1/2025 @ 14:30:5.
+Quanto é 59 / 59? Resposta: 1. Acertou. Em 10/1/2025 @ 14:30:8.
+Quanto é 129 / 3? Resposta: 43. Acertou. Em 10/1/2025 @ 14:30:18.
+Quanto é 4 x 10? Resposta: 40. Acertou. Em 10/1/2025 @ 14:30:24.
+Quanto é 5^3? Resposta: 125. Acertou. Em 10/1/2025 @ 14:30:28.
+Quanto é 46 / 46? Resposta: 1. Acertou. Em 10/1/2025 @ 14:30:31.
+Quanto é 4 x 6? Resposta: 24. Acertou. Em 10/1/2025 @ 14:30:36.
+Quanto é 12 + 28? Resposta: 40. Acertou. Em 10/1/2025 @ 14:30:45.
+Quanto é 158 / 79? Resposta: 2. Acertou. Em 10/1/2025 @ 14:41:20.
+Quanto é 196 / 49? Resposta: 4. Acertou. Em 10/1/2025 @ 14:43:8.
+Quanto é 6 x 9? Resposta: 54. Acertou. Em 10/1/2025 @ 14:43:16.
+Quanto é 12 + 32? Resposta: 44. Acertou. Em 10/1/2025 @ 14:43:28.
+Quanto é 58 / 29? Resposta: 2. Acertou. Em 10/1/2025 @ 14:45:45.
+Quanto é 27 - 28? Resposta: -1. Acertou. Em 10/1/2025 @ 14:45:51.
+Quanto é 7 x 7? Resposta: 49. Acertou. Em 10/1/2025 @ 14:45:54.
+Quanto é 14 x 13? Resposta: 182. Acertou. Em 10/1/2025 @ 14:46:6.
+Quanto é 82 / 2? Resposta: 41. Acertou. Em 10/1/2025 @ 14:46:11.
+Quanto é 85 / 17? Resposta: 5. Acertou. Em 10/1/2025 @ 14:46:26.
+Quanto é 44 - 18? Resposta: 26. Acertou. Em 10/1/2025 @ 14:50:34.
+Quanto é 7^3? Resposta: 343. Acertou. Em 10/1/2025 @ 14:50:40.
+Quanto é 2 x 11? Resposta: 22. Acertou. Em 10/1/2025 @ 14:50:43.
+Quanto é 4^3? Resposta: 64. Acertou. Em 10/1/2025 @ 14:50:47.
+Quanto é 13 x 4? Resposta: 52. Acertou. Em 10/1/2025 @ 14:50:57.
+Quanto é 72 + 68? Resposta: 140. Acertou. Em 10/1/2025 @ 14:51:27.
+Quanto é 6 - 56? Resposta: -50. Acertou. Em 10/1/2025 @ 16:36:31.
+Quanto é 3 x 12? Resposta: 36. Acertou. Em 10/1/2025 @ 16:36:35.
+Quanto é 49 + 65? Resposta: 114. Acertou. Em 10/1/2025 @ 16:36:45.
+Quanto é 14^2? Resposta: 196. Acertou. Em 10/1/2025 @ 16:36:49.
+Quanto é 88 + 6? Resposta: 94. Acertou. Em 10/1/2025 @ 16:37:30.
+Quanto é 164 / 82? Resposta: 2. Acertou. Em 10/1/2025 @ 16:37:37.
+Quanto é 19 + 50? Resposta: 69. Acertou. Em 10/1/2025 @ 16:37:42.
+Quanto é 68 / 2? Resposta: 34. Acertou. Em 10/1/2025 @ 16:37:51.
+Quanto é 8^2? Resposta: 64. Acertou. Em 10/1/2025 @ 16:37:54.
+Quanto é 12^2? Resposta: 144. Acertou. Em 10/1/2025 @ 16:37:58.
+Quanto é 28 - 42? Resposta: -14. Acertou. Em 10/1/2025 @ 16:38:13.
+Quanto é 13 + 63? Resposta: 76. Acertou. Em 10/1/2025 @ 16:38:20.
+Quanto é 11^2? Resposta: 121. Acertou. Em 10/1/2025 @ 16:42:14.
+Quanto é 95 - 48? Resposta: 47. Acertou. Em 10/1/2025 @ 16:42:29.
+Quanto é 23 + 95? Resposta: 118. Acertou. Em 10/1/2025 @ 16:42:37.
+Quanto é 14 x 3? Resposta: 42. Acertou. Em 10/1/2025 @ 17:19:13.
+Quanto é 57 - 34? Resposta: 23. Acertou. Em 11/1/2025 @ 17:3:24.
+Quanto é 4^2? Resposta: 16. Acertou. Em 11/1/2025 @ 17:3:29.
+Quanto é 11^2? Resposta: 121. Acertou. Em 11/1/2025 @ 17:3:32.
+Quanto é 43 + 24? Resposta: 67. Acertou. Em 11/1/2025 @ 17:3:45.
+Quanto é 14 - 70? Resposta: -56. Acertou. Em 11/1/2025 @ 17:3:57.
+Quanto é 90 + 7? Resposta: 97. Acertou. Em 11/1/2025 @ 17:4:5.
+Quanto é 11^2? Resposta: 121. Acertou. Em 11/1/2025 @ 17:7:34.
+Quanto é 94 - 22? Resposta: 72. Acertou. Em 11/1/2025 @ 17:7:45.
+Quanto é 14 x 3? Resposta: 42. Acertou. Em 11/1/2025 @ 17:8:23.
+Quanto é 94 + 95? Resposta: 189. Acertou. Em 11/1/2025 @ 17:8:33.
+Quanto é 6 / 3? Resposta: 2. Acertou. Em 11/1/2025 @ 17:8:36.
+Quanto é 8 x 9? Resposta: 72. Acertou. Em 11/1/2025 @ 17:8:43.
+Quanto é 66 - 85? Resposta: -19. Acertou. Em 11/1/2025 @ 17:9:18.
+Quanto é 11 x 11? Resposta: 121. Acertou. Em 11/1/2025 @ 17:9:23.
+Quanto é 4 x 2? Resposta: 8. Acertou. Em 11/1/2025 @ 19:26:8.
+Quanto é 10^2? Resposta: 100. Acertou. Em 11/1/2025 @ 19:26:12.
+Quanto é 51 + 46? Resposta: 97. Acertou. Em 11/1/2025 @ 19:28:11.
+Quanto é 119 / 7? Resposta: 17. Acertou. Em 11/1/2025 @ 19:28:38.
+Quanto é 5 x 14? Resposta: 70. Acertou. Em 11/1/2025 @ 19:28:44.
+Quanto é 66 + 32? Resposta: 98. Acertou. Em 11/1/2025 @ 19:28:59.
+Quanto é 51 - 3? Resposta: 48. Acertou. Em 11/1/2025 @ 19:29:9.
+Quanto é 75 - 64? Resposta: 11. Acertou. Em 11/1/2025 @ 19:29:32.
+Quanto é 9 x 9? Resposta: 81. Acertou. Em 11/1/2025 @ 19:29:38.
+Quanto é 14 - 16? Resposta: -2. Acertou. Em 11/1/2025 @ 19:29:47.
+Quanto é 9^2? Resposta: 81. Acertou. Em 11/1/2025 @ 19:30:50.
+Quanto é 72 + 75? Resposta: 147. Acertou. Em 11/1/2025 @ 19:30:59.
+Quanto é 14^2? Resposta: 196. Acertou. Em 11/1/2025 @ 19:31:4.
+Quanto é 65 + 30? Resposta: 95. Acertou. Em 11/1/2025 @ 19:31:55.
+Quanto é 31 + 88? Resposta: 119. Acertou. Em 11/1/2025 @ 19:32:4.
+Quanto é 9 - 97? Resposta: -88. Acertou. Em 11/1/2025 @ 19:32:17.
+Quanto é 96 - 55? Resposta: 41. Acertou. Em 11/1/2025 @ 19:32:43.
+Quanto é 64 - 57? Resposta: 7. Acertou. Em 11/1/2025 @ 19:33:1.
+Quanto é 8^2? Resposta: 64. Acertou. Em 11/1/2025 @ 19:33:6.
+Quanto é 8 x 3? Resposta: 24. Acertou. Em 11/1/2025 @ 19:33:11.
+Quanto é 99 / 11? Resposta: 9. Acertou. Em 11/1/2025 @ 19:33:14.
+Quanto é 88 - 79? Resposta: 9. Acertou. Em 11/1/2025 @ 19:33:34.
+Quanto é 37 / 37? Resposta: 1. Acertou. Em 11/1/2025 @ 19:33:37.
+Quanto é 99 - 29? Resposta: 70. Acertou. Em 11/1/2025 @ 19:33:47.
+Quanto é 92 - 72? Resposta: 20. Acertou. Em 11/1/2025 @ 19:33:56.
+Quanto é 46 / 23? Resposta: 2. Acertou. Em 11/1/2025 @ 19:35:38.
+Quanto é 51 - 27? Resposta: 24. Acertou. Em 11/1/2025 @ 19:38:18.
+Quanto é 4 x 8? Resposta: 32. Acertou. Em 11/1/2025 @ 19:38:22.
+Quanto é 153 / 51? Resposta: 3. Acertou. Em 11/1/2025 @ 19:38:28.
+Quanto é 34 / 34? Resposta: 1. Acertou. Em 11/1/2025 @ 19:38:47.
+Quanto é 48 + 93? Resposta: 141. Acertou. Em 11/1/2025 @ 19:39:10.
+Quanto é 8 - 23? Resposta: -15. Acertou. Em 11/1/2025 @ 19:39:18.
+Quanto é 4^2? Resposta: 16. Acertou. Em 11/1/2025 @ 19:39:24.
+Quanto é 141 / 47? Resposta: 3. Acertou. Em 11/1/2025 @ 19:39:46.
+Quanto é 6^3? Resposta: 216. Acertou. Em 11/1/2025 @ 19:39:52.
+Quanto é 6^2? Resposta: 36. Acertou. Em 11/1/2025 @ 19:39:55.
+Quanto é 8 x 2? Resposta: 16. Acertou. Em 11/1/2025 @ 19:40:1.
+Quanto é 98 + 1? Resposta: 99. Acertou. Em 11/1/2025 @ 19:40:5.
+Quanto é 83 + 68? Resposta: 151. Acertou. Em 11/1/2025 @ 19:40:45.
+Quanto é 57 / 19? Resposta: 3. Acertou. Em 11/1/2025 @ 19:41:6.
+Quanto é 81 / 9? Resposta: 9. Acertou. Em 11/1/2025 @ 19:41:10.
+Quanto é 38 + 18? Resposta: 56. Acertou. Em 11/1/2025 @ 19:41:22.
+Quanto é 180 / 20? Resposta: 9. Acertou. Em 11/1/2025 @ 19:41:27.
+Quanto é 10 x 8? Resposta: 80. Acertou. Em 11/1/2025 @ 19:41:34.
+Quanto é 44 - 79? Resposta: -35. Acertou. Em 11/1/2025 @ 19:48:2.
+Quanto é 7^2? Resposta: 49. Acertou. Em 11/1/2025 @ 19:48:50.
+Quanto é 29 + 31? Resposta: 60. Acertou. Em 11/1/2025 @ 19:52:29.
+Quanto é 8^2? Resposta: 64. Acertou. Em 11/1/2025 @ 19:52:41.
+Quanto é 4 x 13? Resposta: 52. Acertou. Em 11/1/2025 @ 19:52:49.
+Quanto é 33 - 50? Resposta: -17. Acertou. Em 11/1/2025 @ 19:53:0.
+Quanto é 5^2? Resposta: 25. Acertou. Em 11/1/2025 @ 19:53:11.
+Quanto é 11 x 10? Resposta: 110. Acertou. Em 11/1/2025 @ 19:53:17.
+Quanto é 60 + 75? Resposta: 135. Acertou. Em 11/1/2025 @ 19:58:45.
+Quanto é 40 - 79? Resposta: -39. Acertou. Em 11/1/2025 @ 19:58:58.
+Quanto é 68 + 62? Resposta: 130. Acertou. Em 11/1/2025 @ 19:59:25.
+Quanto é 3^2? Resposta: 9. Acertou. Em 11/1/2025 @ 19:59:31.
+Quanto é 57 - 20? Resposta: 37. Acertou. Em 11/1/2025 @ 19:59:40.
+Quanto é 3^2? Resposta: 9. Acertou. Em 11/1/2025 @ 19:59:46.
+Quanto é 7 - 81? Resposta: -74. Acertou. Em 11/1/2025 @ 20:0:3.
+Quanto é 7 x 10? Resposta: 70. Acertou. Em 11/1/2025 @ 20:0:14.
+Quanto é 2^3? Resposta: 8. Acertou. Em 11/1/2025 @ 20:0:28.
+Quanto é 38 - 25? Resposta: 13. Acertou. Em 11/1/2025 @ 20:1:8.
+Quanto é 34 + 87? Resposta: 121. Acertou. Em 11/1/2025 @ 20:2:4.
+Quanto é 48 - 76? Resposta: -28. Acertou. Em 11/1/2025 @ 20:4:53.
+Quanto é 5 x 11? Resposta: 55. Acertou. Em 11/1/2025 @ 20:4:59.
+Quanto é 16 - 21? Resposta: -5. Acertou. Em 11/1/2025 @ 20:5:14.
+Quanto é 14 x 7? Resposta: 98. Acertou. Em 11/1/2025 @ 20:5:25.
+Quanto é 2^2? Resposta: 4. Acertou. Em 11/1/2025 @ 20:5:29.
+Quanto é 4^3? Resposta: 64. Acertou. Em 11/1/2025 @ 20:5:35.
+Quanto é 2 x 13? Resposta: 26. Acertou. Em 11/1/2025 @ 20:5:41.
+Quanto é 57 - 42? Resposta: 15. Acertou. Em 11/1/2025 @ 20:6:11.
+Quanto é 9 x 8? Resposta: 72. Acertou. Em 11/1/2025 @ 20:6:17.
+Quanto é 77 - 67? Resposta: 10. Acertou. Em 11/1/2025 @ 20:6:23.
+Quanto é 10 + 99? Resposta: 109. Acertou. Em 11/1/2025 @ 20:6:31.
+Quanto é 6 x 3? Resposta: 18. Acertou. Em 11/1/2025 @ 20:6:37.
+Quanto é 66 - 87? Resposta: -21. Acertou. Em 11/1/2025 @ 20:7:10.
+Quanto é 86 - 99? Resposta: -13. Acertou. Em 11/1/2025 @ 20:7:39.
+Quanto é 133 / 19? Resposta: 7. Acertou. Em 11/1/2025 @ 20:12:54.
+Quanto é 25 + 39? Resposta: 64. Acertou. Em 11/1/2025 @ 20:13:44.
+Quanto é 40 + 95? Resposta: 135. Acertou. Em 11/1/2025 @ 20:13:55.
+Quanto é 59 + 54? Resposta: 113. Acertou. Em 11/1/2025 @ 20:14:21.
+Quanto é 59 - 20? Resposta: 39. Acertou. Em 11/1/2025 @ 20:14:31.
+Quanto é 63 / 9? Resposta: 7. Acertou. Em 11/1/2025 @ 20:14:37.
+Quanto é 7 + 47? Resposta: 54. Acertou. Em 11/1/2025 @ 20:14:57.
+Quanto é 56 - 45? Resposta: 11. Acertou. Em 11/1/2025 @ 20:15:49.
+Quanto é 6^2? Resposta: 36. Acertou. Em 11/1/2025 @ 20:15:57.
+Quanto é 68 + 75? Resposta: 143. Acertou. Em 11/1/2025 @ 20:16:59.
+Quanto é 2 - 58? Resposta: -56. Acertou. Em 11/1/2025 @ 20:17:11.
+Quanto é 3 + 6? Resposta: 9. Acertou. Em 11/1/2025 @ 20:17:16.
+Quanto é 6 x 12? Resposta: 72. Acertou. Em 11/1/2025 @ 20:17:29.
+Quanto é 136 / 2? Resposta: 68. Acertou. Em 11/1/2025 @ 20:17:50.
+Quanto é 2^2? Resposta: 4. Acertou. Em 11/1/2025 @ 20:17:54.
+Quanto é 51 / 17? Resposta: 3. Acertou. Em 11/1/2025 @ 20:18:9.
+Quanto é 90 - 3? Resposta: 87. Acertou. Em 11/1/2025 @ 20:18:25.
+Quanto é 58 / 58? Resposta: 1. Acertou. Em 11/1/2025 @ 20:18:28.
+Quanto é 8 x 13? Resposta: 104. Acertou. Em 11/1/2025 @ 20:18:38.
+Quanto é 99 / 11? Resposta: 9. Acertou. Em 11/1/2025 @ 20:26:23.
+Quanto é 67 - 51? Resposta: 16. Acertou. Em 11/1/2025 @ 20:26:55.
+Quanto é 39 + 9? Resposta: 48. Acertou. Em 11/1/2025 @ 20:27:4.
+Quanto é 2^2? Resposta: 4. Acertou. Em 11/1/2025 @ 20:27:9.
+Quanto é 65 - 58? Resposta: 7. Acertou. Em 11/1/2025 @ 20:38:37.
+Quanto é 117 / 9? Resposta: 13. Acertou. Em 11/1/2025 @ 20:40:9.
+Quanto é 4^2? Resposta: 16. Acertou. Em 11/1/2025 @ 20:40:28.
+Quanto é 80 - 23? Resposta: 57. Acertou. Em 11/1/2025 @ 20:40:44.
+Quanto é 7 x 8? Resposta: 56. Acertou. Em 11/1/2025 @ 20:40:49.
+Quanto é 56 + 66? Resposta: 122. Acertou. Em 11/1/2025 @ 20:41:7.
+Quanto é 19 - 40? Resposta: -21. Acertou. Em 11/1/2025 @ 20:41:20.
+Quanto é 50 - 98? Resposta: -48. Acertou. Em 11/1/2025 @ 20:42:12.
+Quanto é 110 / 5? Resposta: 22. Acertou. Em 11/1/2025 @ 20:42:22.
+Quanto é 11 x 3? Resposta: 33. Acertou. Em 11/1/2025 @ 20:42:26.
+Quanto é 78 / 3? Resposta: 26. Acertou. Em 11/1/2025 @ 20:42:39.
+Quanto é 14^2? Resposta: 196. Acertou. Em 11/1/2025 @ 20:42:49.
+Quanto é 159 / 53? Resposta: 3. Acertou. Em 11/1/2025 @ 20:42:58.
+Quanto é 33 + 44? Resposta: 77. Acertou. Em 11/1/2025 @ 20:47:16.
+Quanto é 11 x 10? Resposta: 110. Acertou. Em 11/1/2025 @ 20:47:33.
+Quanto é 5^3? Resposta: 125. Acertou. Em 11/1/2025 @ 20:47:38.
+Quanto é 66 - 76? Resposta: -10. Acertou. Em 11/1/2025 @ 20:47:59.
+Quanto é 98 / 2? Resposta: 49. Acertou. Em 11/1/2025 @ 20:48:12.
+Quanto é 7^3? Resposta: 343. Acertou. Em 11/1/2025 @ 20:48:22.
+Quanto é 93 / 3? Resposta: 31. Acertou. Em 11/1/2025 @ 20:48:31.
+Quanto é 195 / 39? Resposta: 5. Acertou. Em 11/1/2025 @ 20:49:46.
+Quanto é 10 + 57? Resposta: 67. Acertou. Em 11/1/2025 @ 20:49:56.
+Quanto é 7 x 2? Resposta: 14. Acertou. Em 11/1/2025 @ 20:50:2.
+Quanto é 67 - 98? Resposta: -31. Acertou. Em 11/1/2025 @ 20:50:37.
+Quanto é 3 x 11? Resposta: 33. Acertou. Em 11/1/2025 @ 20:50:41.
+Quanto é 9 x 12? Resposta: 108. Acertou. Em 11/1/2025 @ 20:50:52.
+Quanto é 141 / 47? Resposta: 3. Acertou. Em 11/1/2025 @ 21:5:40.
+Quanto é 4^2? Resposta: 16. Acertou. Em 11/1/2025 @ 21:5:46.
+Quanto é 159 / 3? Resposta: 53. Acertou. Em 11/1/2025 @ 21:6:1.
+Quanto é 2^2? Resposta: 4. Acertou. Em 11/1/2025 @ 21:36:27.
+Quanto é 81 / 3? Resposta: 27. Acertou. Em 11/1/2025 @ 21:36:31.
+Quanto é 8 x 2? Resposta: 16. Acertou. Em 11/1/2025 @ 21:36:38.
+Quanto é 49 - 13? Resposta: 36. Acertou. Em 11/1/2025 @ 21:36:55.
+Quanto é 38 - 12? Resposta: 26. Acertou. Em 11/1/2025 @ 21:37:2.
+Quanto é 34 + 75? Resposta: 109. Acertou. Em 11/1/2025 @ 21:37:10.
+Quanto é 12 x 14? Resposta: 168. Acertou. Em 11/1/2025 @ 21:37:29.
+Quanto é 14 x 14? Resposta: 196. Acertou. Em 11/1/2025 @ 21:39:12.
+Quanto é 105 / 7? Resposta: 15. Acertou. Em 11/1/2025 @ 21:39:37.
+Quanto é 108 / 54? Resposta: 2. Acertou. Em 11/1/2025 @ 21:39:46.
+Quanto é 59 + 87? Resposta: 148. Errou. Em 11/1/2025 @ 21:40:13.
+Quanto é 59 + 87? Resposta: 146. Acertou. Em 11/1/2025 @ 21:41:22.
+Quanto é 2 x 8? Resposta: 16. Acertou. Em 11/1/2025 @ 21:41:26.
+Quanto é 11 x 6? Resposta: 66. Acertou. Em 11/1/2025 @ 21:41:29.
+Quanto é 7 x 8? Resposta: 56. Acertou. Em 11/1/2025 @ 21:41:33.
+Quanto é 6^3? Resposta: 216. Acertou. Em 11/1/2025 @ 21:41:38.
+Quanto é 6^3? Resposta: 216. Acertou. Em 11/1/2025 @ 21:41:45.
+Quanto é 14 x 7? Resposta: 98. Acertou. Em 11/1/2025 @ 21:42:0.
+Quanto é 77 - 54? Resposta: 23. Acertou. Em 11/1/2025 @ 21:42:16.
+Quanto é 12 x 3? Resposta: 36. Acertou. Em 11/1/2025 @ 21:42:22.
+Quanto é 18 - 87? Resposta: -69. Acertou. Em 11/1/2025 @ 21:43:42.
+Quanto é 36 / 3? Resposta: 12. Acertou. Em 11/1/2025 @ 21:43:46.
+Quanto é 23 + 62? Resposta: 85. Acertou. Em 11/1/2025 @ 21:43:58.
+Quanto é 51 / 3? Resposta: 17. Acertou. Em 11/1/2025 @ 21:44:6.
+Quanto é 7 x 5? Resposta: 35. Acertou. Em 11/1/2025 @ 21:44:11.
+Quanto é 67 + 50? Resposta: 117. Acertou. Em 11/1/2025 @ 21:44:27.
+Quanto é 150 / 2? Resposta: 75. Acertou. Em 11/1/2025 @ 21:44:37.
+Quanto é 104 / 4? Resposta: 26. Acertou. Em 11/1/2025 @ 21:44:55.
+Quanto é 2^2? Resposta: 4. Acertou. Em 11/1/2025 @ 21:46:33.
+Quanto é 37 + 52? Resposta: 89. Acertou. Em 11/1/2025 @ 21:46:41.
+Quanto é 99 - 7? Resposta: 92. Acertou. Em 11/1/2025 @ 21:46:48.
+Quanto é 46 + 19? Resposta: 65. Acertou. Em 11/1/2025 @ 21:47:10.
+Quanto é 150 / 2? Resposta: 75. Acertou. Em 11/1/2025 @ 21:50:3.
+Quanto é 196 / 2? Resposta: 98. Acertou. Em 11/1/2025 @ 21:50:23.
+Quanto é 8 x 2? Resposta: 16. Acertou. Em 11/1/2025 @ 21:50:30.
+Quanto é 85 + 48? Resposta: 133. Acertou. Em 11/1/2025 @ 21:50:56.
+Quanto é 94 + 22? Resposta: 116. Acertou. Em 11/1/2025 @ 21:53:40.
+Quanto é 6 x 9? Resposta: 54. Acertou. Em 11/1/2025 @ 21:53:46.
+Quanto é 40 / 5? Resposta: 8. Acertou. Em 11/1/2025 @ 21:53:50.
+Quanto é 8^3? Resposta: 512. Acertou. Em 11/1/2025 @ 21:54:1.
+Quanto é 45 / 9? Resposta: 5. Acertou. Em 11/1/2025 @ 21:54:7.
+Quanto é 20 + 17? Resposta: 37. Acertou. Em 11/1/2025 @ 21:54:22.
+Quanto é 6 x 8? Resposta: 48. Acertou. Em 11/1/2025 @ 21:54:28.
+Quanto é 11 x 2? Resposta: 22. Acertou. Em 11/1/2025 @ 21:54:31.
+Quanto é 14 x 12? Resposta: 168. Acertou. Em 11/1/2025 @ 21:54:56.
+Quanto é 14 x 13? Resposta: 182. Acertou. Em 11/1/2025 @ 21:55:41.
+Quanto é 30 + 87? Resposta: 117. Acertou. Em 11/1/2025 @ 21:55:53.
+Quanto é 89 - 64? Resposta: 25. Acertou. Em 11/1/2025 @ 21:56:10.
+Quanto é 51 - 94? Resposta: -43. Acertou. Em 11/1/2025 @ 21:56:24.
+Quanto é 13 x 11? Resposta: 143. Acertou. Em 11/1/2025 @ 21:56:51.
+Quanto é 5^3? Resposta: 125. Acertou. Em 11/1/2025 @ 21:56:57.
+Quanto é 114 / 38? Resposta: 3. Acertou. Em 11/1/2025 @ 21:58:3.
+Quanto é 4^3? Resposta: 64. Acertou. Em 11/1/2025 @ 21:58:8.
+Quanto é 9^2? Resposta: 81. Acertou. Em 11/1/2025 @ 21:58:14.
+Quanto é 28 / 7? Resposta: 4. Acertou. Em 11/1/2025 @ 21:58:19.
+Quanto é 7 - 16? Resposta: -9. Acertou. Em 11/1/2025 @ 21:58:25.
+Quanto é 12^2? Resposta: 144. Acertou. Em 11/1/2025 @ 21:58:29.
+Quanto é 35 - 43? Resposta: -8. Acertou. Em 11/1/2025 @ 21:58:39.
+Quanto é 9 x 7? Resposta: 63. Acertou. Em 11/1/2025 @ 21:58:46.
+Quanto é 35 / 7? Resposta: 5. Acertou. Em 11/1/2025 @ 21:58:52.
+Quanto é 44 + 96? Resposta: 140. Acertou. Em 11/1/2025 @ 21:59:3.
+Quanto é 7 - 36? Resposta: -29. Acertou. Em 11/1/2025 @ 21:59:16.
+Quanto é 83 / 83? Resposta: 1. Acertou. Em 11/1/2025 @ 21:59:19.
+Quanto é 10 x 12? Resposta: 120. Acertou. Em 11/1/2025 @ 21:59:23.
+Quanto é 8 x 10? Resposta: 80. Acertou. Em 11/1/2025 @ 21:59:28.
+Quanto é 22 + 74? Resposta: 96. Acertou. Em 11/1/2025 @ 21:59:53.
+Quanto é 13 - 50? Resposta: -37. Acertou. Em 11/1/2025 @ 22:0:2.
+Quanto é 1 + 51? Resposta: 52. Acertou. Em 11/1/2025 @ 22:0:16.
+Quanto é 5^3? Resposta: 125. Acertou. Em 11/1/2025 @ 22:0:24.
+Quanto é 26 - 64? Resposta: -38. Acertou. Em 11/1/2025 @ 22:1:4.
+Quanto é 27 + 63? Resposta: 90. Acertou. Em 11/1/2025 @ 22:1:18.
+Quanto é 4 x 6? Resposta: 24. Acertou. Em 11/1/2025 @ 22:1:29.
+Quanto é 13 x 2? Resposta: 26. Acertou. Em 11/1/2025 @ 22:1:36.
+Quanto é 83 - 10? Resposta: 73. Acertou. Em 11/1/2025 @ 22:1:46.
+Quanto é 42 + 84? Resposta: 126. Acertou. Em 11/1/2025 @ 22:2:14.
+Quanto é 23 - 98? Resposta: -75. Acertou. Em 11/1/2025 @ 22:2:37.
+Quanto é 49 + 56? Resposta: 105. Acertou. Em 11/1/2025 @ 22:6:2.
+Quanto é 169 / 13? Resposta: 13. Acertou. Em 11/1/2025 @ 22:6:7.
+Quanto é 9 x 8? Resposta: 72. Acertou. Em 11/1/2025 @ 22:6:24.
+Quanto é 78 + 28? Resposta: 106. Acertou. Em 11/1/2025 @ 22:10:44.
+Quanto é 3^3? Resposta: 27. Acertou. Em 11/1/2025 @ 22:10:49.
+Quanto é 16 / 8? Resposta: 2. Acertou. Em 11/1/2025 @ 22:10:54.
+Quanto é 38 + 90? Resposta: 128. Acertou. Em 11/1/2025 @ 22:11:0.
+Quanto é 47 - 92? Resposta: -45. Acertou. Em 11/1/2025 @ 22:11:26.
+Quanto é 14 + 58? Resposta: 72. Acertou. Em 11/1/2025 @ 22:11:46.
+Quanto é 12 - 96? Resposta: -84. Acertou. Em 11/1/2025 @ 22:12:9.
+Quanto é 76 - 32? Resposta: 44. Acertou. Em 11/1/2025 @ 22:12:48.
+Quanto é 136 / 68? Resposta: 2. Acertou. Em 11/1/2025 @ 22:13:14.
+Quanto é 69 - 67? Resposta: 2. Acertou. Em 11/1/2025 @ 22:13:21.
+Quanto é 2 x 9? Resposta: 18. Acertou. Em 11/1/2025 @ 22:13:42.
+Quanto é 95 / 5? Resposta: 19. Acertou. Em 11/1/2025 @ 22:13:54.
+Quanto é 5^3? Resposta: 125. Acertou. Em 11/1/2025 @ 22:14:4.
+Quanto é 38 - 50? Resposta: -12. Acertou. Em 11/1/2025 @ 22:14:23.
+Quanto é 25 + 13? Resposta: 38. Acertou. Em 11/1/2025 @ 22:19:32.
+Quanto é 5 x 11? Resposta: 55. Acertou. Em 11/1/2025 @ 22:19:35.
+Quanto é 12 x 14? Resposta: 168. Acertou. Em 11/1/2025 @ 22:19:53.
+Quanto é 4 x 11? Resposta: 44. Acertou. Em 11/1/2025 @ 22:19:58.
+Quanto é 87 + 77? Resposta: 164. Acertou. Em 11/1/2025 @ 22:20:12.
+Quanto é 6^3? Resposta: 216. Acertou. Em 11/1/2025 @ 22:20:17.
+Quanto é 53 + 85? Resposta: 138. Acertou. Em 11/1/2025 @ 22:20:51.
+Quanto é 4^3? Resposta: 64. Acertou. Em 11/1/2025 @ 22:21:0.
+Quanto é 114 / 38? Resposta: 3. Acertou. Em 11/1/2025 @ 22:21:23.
+Quanto é 8 x 12? Resposta: 96. Acertou. Em 11/1/2025 @ 22:21:40.
+Quanto é 3^2? Resposta: 9. Acertou. Em 11/1/2025 @ 22:21:47.
+Quanto é 24 / 24? Resposta: 1. Acertou. Em 11/1/2025 @ 22:21:50.
+Quanto é 6^3? Resposta: 216. Acertou. Em 11/1/2025 @ 22:21:56.
+Quanto é 9 - 68? Resposta: -59. Acertou. Em 11/1/2025 @ 22:22:7.
+Quanto é 3 x 12? Resposta: 36. Acertou. Em 11/1/2025 @ 22:22:15.
+Quanto é 9^2? Resposta: 81. Acertou. Em 11/1/2025 @ 22:22:23.
+Quanto é 6^2? Resposta: 36. Acertou. Em 11/1/2025 @ 22:22:28.
+Quanto é 49 - 34? Resposta: 15. Acertou. Em 11/1/2025 @ 22:22:55.
+Quanto é 8^3? Resposta: 512. Acertou. Em 11/1/2025 @ 22:23:0.
+Quanto é 9 + 90? Resposta: 99. Acertou. Em 11/1/2025 @ 22:23:4.
+Quanto é 60 + 59? Resposta: 119. Acertou. Em 11/1/2025 @ 22:23:14.
+Quanto é 73 + 37? Resposta: 110. Acertou. Em 11/1/2025 @ 22:23:25.
+Quanto é 82 + 22? Resposta: 104. Acertou. Em 11/1/2025 @ 22:23:34.
+Quanto é 8^3? Resposta: 512. Acertou. Em 11/1/2025 @ 22:23:40.
+Quanto é 32 - 38? Resposta: -6. Acertou. Em 11/1/2025 @ 22:23:47.
+Quanto é 4^3? Resposta: 64. Acertou. Em 11/1/2025 @ 22:23:52.
+Quanto é 71 / 71? Resposta: 1. Acertou. Em 11/1/2025 @ 22:23:54.
+Quanto é 14 x 3? Resposta: 42. Acertou. Em 11/1/2025 @ 22:24:6.
+Quanto é 25 / 5? Resposta: 5. Acertou. Em 11/1/2025 @ 22:24:9.
+Quanto é 5 - 50? Resposta: -45. Acertou. Em 11/1/2025 @ 22:24:14.
+Quanto é 14 x 10? Resposta: 140. Acertou. Em 11/1/2025 @ 22:28:36.
+Quanto é 9 / 3? Resposta: 3. Acertou. Em 11/1/2025 @ 22:28:43.
+Quanto é 14 - 71? Resposta: -57. Acertou. Em 11/1/2025 @ 22:29:12.
+Quanto é 85 - 49? Resposta: 36. Acertou. Em 11/1/2025 @ 22:30:7.
+Quanto é 28 + 76? Resposta: 104. Acertou. Em 11/1/2025 @ 22:30:36.
+Quanto é 24 / 2? Resposta: 12. Acertou. Em 11/1/2025 @ 22:30:42.
+Quanto é 64 + 85? Resposta: 149. Acertou. Em 11/1/2025 @ 22:30:56.
+Quanto é 50 + 6? Resposta: 56. Acertou. Em 11/1/2025 @ 22:31:0.
+Quanto é 88 - 39? Resposta: 49. Acertou. Em 11/1/2025 @ 22:31:12.
+Quanto é 35 / 35? Resposta: 1. Acertou. Em 11/1/2025 @ 22:31:16.
+Quanto é 72 + 42? Resposta: 114. Acertou. Em 11/1/2025 @ 22:31:29.
+Quanto é 47 + 31? Resposta: 78. Acertou. Em 11/1/2025 @ 22:31:38.
+Quanto é 5 x 6? Resposta: 30. Acertou. Em 11/1/2025 @ 22:31:42.
+Quanto é 6 x 3? Resposta: 18. Acertou. Em 11/1/2025 @ 22:31:47.
+Quanto é 6 x 13? Resposta: 78. Acertou. Em 11/1/2025 @ 22:32:0.
+Quanto é 156 / 52? Resposta: 3. Acertou. Em 11/1/2025 @ 22:32:12.
+Quanto é 13^2? Resposta: 169. Acertou. Em 11/1/2025 @ 22:32:17.
+Quanto é 4 - 77? Resposta: -73. Acertou. Em 11/1/2025 @ 22:32:28.
+Quanto é 82 / 41? Resposta: 2. Acertou. Em 11/1/2025 @ 22:32:34.
+Quanto é 28 + 53? Resposta: 81. Acertou. Em 11/1/2025 @ 22:32:52.
+Quanto é 12^2? Resposta: 144. Acertou. Em 11/1/2025 @ 22:33:3.
+Quanto é 61 + 17? Resposta: 78. Acertou. Em 11/1/2025 @ 22:33:23.
+Quanto é 8^2? Resposta: 64. Acertou. Em 11/1/2025 @ 22:33:30.
+Quanto é 4 x 11? Resposta: 44. Acertou. Em 11/1/2025 @ 22:33:33.
+Quanto é 54 + 25? Resposta: 79. Acertou. Em 11/1/2025 @ 22:33:56.
+Quanto é 6 x 3? Resposta: 18. Acertou. Em 11/1/2025 @ 22:34:1.
+Quanto é 3^2? Resposta: 9. Acertou. Em 11/1/2025 @ 22:34:6.
+Quanto é 35 + 63? Resposta: 98. Acertou. Em 11/1/2025 @ 22:34:17.
+Quanto é 8 x 4? Resposta: 32. Acertou. Em 11/1/2025 @ 22:34:24.
+Quanto é 44 + 35? Resposta: 79. Acertou. Em 11/1/2025 @ 22:34:45.
+Quanto é 7 - 35? Resposta: -28. Acertou. Em 11/1/2025 @ 22:35:1.
+Quanto é 87 - 47? Resposta: 40. Acertou. Em 11/1/2025 @ 22:35:9.
+Quanto é 11 - 77? Resposta: -66. Acertou. Em 11/1/2025 @ 22:35:16.
+Quanto é 8 - 6? Resposta: 2. Acertou. Em 11/1/2025 @ 22:35:27.
+Quanto é 69 + 83? Resposta: 152. Acertou. Em 11/1/2025 @ 22:35:53.
+Quanto é 74 - 66? Resposta: 8. Acertou. Em 11/1/2025 @ 22:36:38.
+Quanto é 58 + 45? Resposta: 103. Acertou. Em 11/1/2025 @ 22:40:15.
+Quanto é 92 - 60? Resposta: 32. Acertou. Em 11/1/2025 @ 22:40:23.
+Quanto é 12 x 10? Resposta: 120. Acertou. Em 11/1/2025 @ 22:40:32.
+Quanto é 5 x 7? Resposta: 35. Acertou. Em 11/1/2025 @ 22:40:43.
+Quanto é 40 + 29? Resposta: 69. Acertou. Em 11/1/2025 @ 22:41:26.
+Quanto é 23 + 91? Resposta: 114. Acertou. Em 11/1/2025 @ 22:41:50.
+Quanto é 10^2? Resposta: 100. Acertou. Em 11/1/2025 @ 22:41:57.
+Quanto é 30 / 5? Resposta: 6. Acertou. Em 11/1/2025 @ 22:42:8.
+Quanto é 11 + 44? Resposta: 55. Acertou. Em 11/1/2025 @ 22:42:12.
+Quanto é 4^2? Resposta: 16. Acertou. Em 11/1/2025 @ 22:42:17.
+Quanto é 62 / 31? Resposta: 2. Acertou. Em 11/1/2025 @ 22:42:22.
+Quanto é 4 x 2? Resposta: 8. Acertou. Em 11/1/2025 @ 22:42:26.
+Quanto é 51 + 64? Resposta: 115. Acertou. Em 11/1/2025 @ 22:42:40.
+Quanto é 7 x 12? Resposta: 84. Acertou. Em 11/1/2025 @ 22:42:51.
+Quanto é 27 + 73? Resposta: 100. Acertou. Em 11/1/2025 @ 22:43:44.
