@@ -3,6 +3,66 @@ Proprietário: Antonio Vandré Pedrosa Furtunato Gomes (bit.ly/antoniovandre_leg
 Arquivo de anotações públicas #4.
 ____________________
 
+26-02-2025
+__
+
+Ter escritos softwares ajuda bastante no caminhar bem e tranquilamente na Matemática Superior, pois as exigências são semelhantes.
+_____
+
+26-02-2025
+__
+
+Comentário em rede social sobre IA geradores de softwares:
+
+I'm proud for never used yet.
+_____
+
+26-02-2025
+__
+
+Os dias em que aprendo um pouco mais de Matemática, não somente faço revisões, são celestiais, pois tenho meu orgulho bem alimentado.
+_____
+
+26-02-2025
+__
+
+Demonstrar teoremas de Matemática Superior é de dificuldade semelhante a escrever algoritmos.
+_____
+
+25-02-2025
+__
+
+Escrever para organizar a mente.
+_____
+
+25-02-2025
+__
+
+No meu algoritmo de Z-Buffer o que importa é comparar distâncias, então, para cada polígono, basta calcular o produto escalar, que tem uma operação a menos.
+_____
+
+25-02-2025
+__
+
+Desligado de problemas, tenho muito mais tempo para mim.
+_____
+
+25-02-2025
+__
+
+Atualizei as bibliotecas do MR, jQuery 3.7.1, Plotly 3.0.1 e HackTimer.js.
+
+Como previ, o Plotly 3.0.0 veio com uma falha, então fui na página de releases e já havia o 3.0.1, ainda não divulgado na homepage.
+
+Queria também atualizar o GIFEncoder, mas o autor parece ter falecido, pois a última atualização foi há 8 anos atrás; fui nos forks onde haviam mais de 100, porém apenas 2 listados, acho que o restante para repositórios não públicos.
+_____
+
+25-02-2025
+__
+
+Todos os dias estudar um pouco para não sofrer do mal da inveja.
+_____
+
 25-02-2025
 __
 

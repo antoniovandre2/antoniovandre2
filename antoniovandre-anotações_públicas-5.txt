@@ -2,37 +2,3 @@ Proprietário: Antonio Vandré Pedrosa Furtunato Gomes (bit.ly/antoniovandre_leg
 
 Arquivo de anotações públicas #5.
 ____________________
-
-25-02-2025
-__
-
-Escrever para organizar a mente.
-_____
-
-25-02-2025
-__
-
-No meu algoritmo de Z-Buffer o que importa é comparar distâncias, então, para cada polígono, basta calcular o produto escalar, que tem uma operação a menos.
-_____
-
-25-02-2025
-__
-
-Desligado de problemas, tenho muito mais tempo para mim.
-_____
-
-25-02-2025
-__
-
-Atualizei as bibliotecas do MR, jQuery 3.7.1, Plotly 3.0.1 e HackTimer.js.
-
-Como previ, o Plotly 3.0.0 veio com uma falha, então fui na página de releases e já havia o 3.0.1, ainda não divulgado na homepage.
-
-Queria também atualizar o GIFEncoder, mas o autor parece ter falecido, pois a última atualização foi há 8 anos atrás; fui nos forks onde haviam mais de 100, porém apenas 2 listados, acho que o restante para repositórios não públicos.
-_____
-
-25-02-2025
-__
-
-Todos os dias estudar um pouco para não sofrer do mal da inveja.
-_____
