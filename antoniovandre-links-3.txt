@@ -3,13 +3,6 @@ Proprietário: Antonio Vandré Pedrosa Furtunato Gomes.
 Última atualização: 10-03-2025.
 ________________________________________
 
-Antonio Vandré - Software logs:
-
-https://www.dropbox.com/scl/fo/ftrvcy4ye7wz63oo81ape/AIgxI5o_SUkrS5X8rRFLdgI?rlkey=45zwftwfxab42apg9hi3lbvz1&st=y3wf2g9w&dl=0
-
-https://bit.ly/antoniovandre_softwarelogs
-_____
-
 YouTube channel:
 
 https://www.youtube.com/c/AntonioVandréPedrosaFurtunatoGomes
@@ -18,20 +11,6 @@ _____
 Brilliant profile page:
 
 https://brilliant.org/profile/antonio%20vandr%C3%A9-bnab2s/?preview=true
-_____
-
-Currículo:
-
-https://sites.google.com/site/antoniovandrepfgomescurriculo/
-
-bit.ly/antoniovandre_curriculo
-_____
-
-Currículo resumido:
-
-https://sites.google.com/site/antoniovandrepfgcurriculores/
-
-bit.ly/antoniovandre_curriculoresumido
 _____
 
 Facebook profile page:
@@ -345,42 +324,6 @@ __
 Box 2 copy:
 
 https://app.box.com/s/btb2hpk304mdd1scz2qy7s6lvjor1izf
-_____
-
-Shell scripts public folder:
-
-https://www.dropbox.com/sh/q9xuwsgw5yumxsm/AABq-mid0PThTigmWWBnw_KEa
-
-bit.ly/antoniovandre_shell_scripts_public_folder
-
-bit.ly/166gcAQ
-__
-
-Google Drive copy:
-
-https://drive.google.com/open?id=0B1w_D-iaFmSdcmhOZVFISzZGZGc
-__
-
-OneDrive copy:
-
-https://onedrive.live.com/redir?resid=1546ECE95EBE5E00!3345&authkey=!AGeqLFalK5EH0yw&ithint=folder%2c
-__
-
-Box copy:
-
-https://app.box.com/s/8kzo2ipeoaniqi7pingrzfef24jl8s6a
-__
-
-Box 2 copy:
-
-https://app.box.com/s/p4jf23tmjy79z7xfseeqclofntvdinx8
-_____
-
-To donate [ para doar quantias monetárias ]:
-
-https://sites.google.com/site/antoniovandretodonate/
-
-bit.ly/antoniovandre_todonate
 _____
 
 Twitch profile page:
@@ -842,33 +785,6 @@ _____
 Geogebra profile page:
 
 https://www.geogebra.org/u/antoniovandre
-_____
-
-software_sources_public:
-
-https://www.dropbox.com/sh/n8pfdknte3h5vs2/AAAj14MC5nOdpBopDjs_Amhpa?dl=0
-
-bit.ly/antoniovandre_softwaresources
-__
-
-Google Drive copy:
-
-https://drive.google.com/drive/folders/1hpbOqTH7ko4IMn0eJCDBoGsJhacEhyLM?usp=sharing
-__
-
-Onedrive copy:
-
-https://1drv.ms/f/s!AgBevl7p7EYVgZ8hBg_rIT9Zy8tfSg
-__
-
-Box copy:
-
-https://app.box.com/s/96hibnyyl5r3cm0jffc654mok541mztr
-__
-
-Box 2 copy:
-
-https://app.box.com/s/o41jqxkqb9mg413zuqt1vqiu76skdvz1
 _____
 
 Stackoverflow profile:
