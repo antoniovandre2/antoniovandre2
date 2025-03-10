@@ -1,6 +1,6 @@
-Proprietário: Antonio Vandré Pedrosa Furtunato Gomes (bit.ly/antoniovandre_legadoontologico).
+Proprietário: Antonio Vandré Pedrosa Furtunato Gomes.
 
-Última atualização: 09-03-2025.
+Última atualização: 10-03-2025.
 ________________________________________
 
 Prefácio:
@@ -27,27 +27,6 @@ _____
 YouTube channel:
 
 https://www.youtube.com/c/AntonioVandréPedrosaFurtunatoGomes
-_____
-
-Legado ontológico:
-
-https://www.dropbox.com/sh/u2a2ktt7jdm95i8/AADHhmtXGsWvqjxAAy6aWrU2a
-
-bit.ly/antoniovandre_legadoontologico
-_____
-
-Personal math weblogs:
-
-https://sites.google.com/site/antoniovandrepersmathweblogs/
-_____
-
-Cartão de visita ID-1:
-
-https://www.dropbox.com/sh/6m3pu2c02h86mmv/AAC3L6tk4wI4POcMlpGtmfvla?dl=0
-
-bit.ly/antoniovandre_public
-
-bit.ly/2AzXiO6
 _____
 
 Brilliant profile page:
@@ -688,24 +667,6 @@ Instagram profile page:
 https://www.instagram.com/a.vandre.g/
 _____
 
-Legado ontológico livro:
-
-https://sites.google.com/site/antoniovandrelolivro/
-
-bit.ly/antoniovandre_legadoontologico_livro
-
-https://bit.ly/av_legadoontologicolivro_uiclap
-
-https://bit.ly/av_legadoontologicolivro_scribd
-_____
-
-Legado ontologico arquivo:
-
-https://sites.google.com/site/antoniovandreloarquivo/
-
-bit.ly/antoniovandre_legadoontologico_arquivo
-_____
-
 Playfire profile page:
 
 https://www.playfire.com/antoniovandre
@@ -1017,31 +978,6 @@ _____
 BASH antoniovandre_mathgame no SourceForge:
 
 https://sourceforge.net/projects/bash-antoniovandre-mathgame/
-_____
-
-BASH antoniovandre_mathgame mensagem:
-
-https://www.dropbox.com/s/jnsz6lxdq2vcpur/antoniovandre_mathgame_mensagem.txt?dl=0
-
-bit.ly/avmgmensagem
-_____
-
-BASH antoniovandre_mathgame mensagem dl:
-
-https://dl.dropbox.com/s/jnsz6lxdq2vcpur/antoniovandre_mathgame_mensagem.txt
-
-bit.ly/avmgmensagemdl
-_____
-
-Portfólio:
-
-https://sites.google.com/site/mathematicalramblings/antonio-vandre---portfolio
-
-bit.ly/antoniovandreportfolio
-
-https://github.com/users/antoniovandre/projects/2
-
-bit.ly/antoniovandreportfolio_github
 _____
 
 TikTok profile page:
