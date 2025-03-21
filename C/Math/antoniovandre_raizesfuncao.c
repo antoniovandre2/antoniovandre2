@@ -1,6 +1,6 @@
-// Proprietário: Antonio Vandré Pedrosa Furtunato Gomes (bit.ly/antoniovandre_legadoontologico).
+// Proprietário: Antonio Vandré Pedrosa Furtunato Gomes.
 
-// Projeto Mathematical Ramblings (bit.ly/mathematicalramblings_github).
+// Projeto Mathematical Ramblings.
 
 // Retorna as raízes por aproximação de uma função passada como argumento.
 

@@ -1,6 +1,6 @@
-// Proprietário: Antonio Vandré Pedrosa Furtunato Gomes (bit.ly/antoniovandre_legadoontologico).
+// Proprietário: Antonio Vandré Pedrosa Furtunato Gomes.
 
-// Projeto Mathematical Ramblings (bit.ly/mathematicalramblings_github).
+// Projeto Mathematical Ramblings.
 
 // Retorna a função mais próxima das passadas como argumento, dados os pontos também passados como argumento. Leia o arquivo "README_antoniovandre_funcaomaisproxima.txt".
 

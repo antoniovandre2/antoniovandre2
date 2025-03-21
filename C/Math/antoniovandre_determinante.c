@@ -1,6 +1,6 @@
-// Proprietário: Antonio Vandré Pedrosa Furtunato Gomes (bit.ly/antoniovandre_legadoontologico).
+// Proprietário: Antonio Vandré Pedrosa Furtunato Gomes.
 
-// Projeto Mathematical Ramblings (bit.ly/mathematicalramblings_github).
+// Projeto Mathematical Ramblings.
 
 // Retorna o determinante da matriz passada como argumento.
 
