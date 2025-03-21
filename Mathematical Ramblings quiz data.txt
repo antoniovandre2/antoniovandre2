@@ -1,4 +1,4 @@
-Número de acertos: 6740. Número de erros: 21. MD5sum: 6a778ab0da86d1820419c4cc58c21123.
+Número de acertos: 6772. Número de erros: 21. MD5sum: c3521e746c2f9131b49d7df174042379.
 Quanto é 26 + 28? Resposta: 54. Acertou. Em 17/10/2021 @ 19:45:22.
 Quanto é 39 - 66? Resposta: -27. Acertou. Em 17/10/2021 @ 19:45:36.
 Quanto é 44 - 11? Resposta: 33. Acertou. Em 17/10/2021 @ 21:44:6.
@@ -6760,3 +6760,35 @@ Quanto é 162 / 6? Resposta: 27. Acertou. Em 21/3/2025 @ 19:6:32.
 Quanto é 7^3? Resposta: 343. Acertou. Em 21/3/2025 @ 19:6:40.
 Quanto é 4^2? Resposta: 16. Acertou. Em 21/3/2025 @ 19:6:47.
 Quanto é 79 - 82? Resposta: -3. Acertou. Em 21/3/2025 @ 19:6:58.
+Quanto é 36 / 3? Resposta: 12. Acertou. Em 21/3/2025 @ 19:10:17.
+Quanto é 44 + 62? Resposta: 106. Acertou. Em 21/3/2025 @ 19:10:29.
+Quanto é 14^2? Resposta: 196. Acertou. Em 21/3/2025 @ 19:10:35.
+Quanto é 9 - 91? Resposta: -82. Acertou. Em 21/3/2025 @ 19:10:45.
+Quanto é 6 + 72? Resposta: 78. Acertou. Em 21/3/2025 @ 19:10:55.
+Quanto é 28 + 92? Resposta: 120. Acertou. Em 21/3/2025 @ 19:11:5.
+Quanto é 11 x 10? Resposta: 110. Acertou. Em 21/3/2025 @ 19:11:9.
+Quanto é 51 + 22? Resposta: 73. Acertou. Em 21/3/2025 @ 19:11:23.
+Quanto é 9 x 8? Resposta: 72. Acertou. Em 21/3/2025 @ 19:11:27.
+Quanto é 5^2? Resposta: 25. Acertou. Em 21/3/2025 @ 19:11:30.
+Quanto é 3^2? Resposta: 9. Acertou. Em 21/3/2025 @ 19:11:37.
+Quanto é 88 / 44? Resposta: 2. Acertou. Em 21/3/2025 @ 19:11:40.
+Quanto é 8 x 7? Resposta: 56. Acertou. Em 21/3/2025 @ 19:11:43.
+Quanto é 13 x 13? Resposta: 169. Acertou. Em 21/3/2025 @ 19:11:48.
+Quanto é 76 + 32? Resposta: 108. Acertou. Em 21/3/2025 @ 19:12:0.
+Quanto é 29 + 49? Resposta: 78. Acertou. Em 21/3/2025 @ 19:12:18.
+Quanto é 8 x 8? Resposta: 64. Acertou. Em 21/3/2025 @ 19:12:22.
+Quanto é 6^3? Resposta: 216. Acertou. Em 21/3/2025 @ 19:12:26.
+Quanto é 9 x 12? Resposta: 108. Acertou. Em 21/3/2025 @ 19:12:46.
+Quanto é 25 + 64? Resposta: 89. Acertou. Em 21/3/2025 @ 19:14:49.
+Quanto é 5 - 3? Resposta: 2. Acertou. Em 21/3/2025 @ 19:14:51.
+Quanto é 88 + 38? Resposta: 126. Acertou. Em 21/3/2025 @ 19:15:8.
+Quanto é 13^2? Resposta: 169. Acertou. Em 21/3/2025 @ 19:15:16.
+Quanto é 67 + 41? Resposta: 108. Acertou. Em 21/3/2025 @ 19:15:27.
+Quanto é 16 - 13? Resposta: 3. Acertou. Em 21/3/2025 @ 19:15:31.
+Quanto é 174 / 6? Resposta: 29. Acertou. Em 21/3/2025 @ 19:15:43.
+Quanto é 3^2? Resposta: 9. Acertou. Em 21/3/2025 @ 19:38:11.
+Quanto é 5^3? Resposta: 125. Acertou. Em 21/3/2025 @ 19:38:18.
+Quanto é 4 x 10? Resposta: 40. Acertou. Em 21/3/2025 @ 19:38:24.
+Quanto é 134 / 2? Resposta: 67. Acertou. Em 21/3/2025 @ 19:38:54.
+Quanto é 104 / 13? Resposta: 8. Acertou. Em 21/3/2025 @ 19:39:5.
+Quanto é 142 / 71? Resposta: 2. Acertou. Em 21/3/2025 @ 19:39:11.
