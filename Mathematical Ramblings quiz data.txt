@@ -1,4 +1,4 @@
-Número de acertos: 6817. Número de erros: 22. MD5sum: 26e646f5487f98e361b3c6ee3c9a7162.
+Número de acertos: 6827. Número de erros: 22. MD5sum: 5ca608e5ef551339d605083785231034.
 Quanto é 26 + 28? Resposta: 54. Acertou. Em 17/10/2021 @ 19:45:22.
 Quanto é 39 - 66? Resposta: -27. Acertou. Em 17/10/2021 @ 19:45:36.
 Quanto é 44 - 11? Resposta: 33. Acertou. Em 17/10/2021 @ 21:44:6.
@@ -6838,3 +6838,13 @@ Quanto é 6^2? Resposta: 36. Acertou. Em 21/3/2025 @ 23:12:45.
 Quanto é 12 / 12? Resposta: 1. Acertou. Em 21/3/2025 @ 23:12:50.
 Quanto é 8^3? Resposta: 512. Acertou. Em 21/3/2025 @ 23:12:58.
 Quanto é 7^3? Resposta: 343. Acertou. Em 21/3/2025 @ 23:13:5.
+Quanto é 2 - 32? Resposta: -30. Acertou. Em 22/3/2025 @ 12:43:54.
+Quanto é 2^3? Resposta: 8. Acertou. Em 22/3/2025 @ 12:43:57.
+Quanto é 170 / 2? Resposta: 85. Acertou. Em 22/3/2025 @ 12:44:6.
+Quanto é 13^2? Resposta: 169. Acertou. Em 22/3/2025 @ 12:44:9.
+Quanto é 75 + 2? Resposta: 77. Acertou. Em 22/3/2025 @ 12:44:19.
+Quanto é 8^3? Resposta: 512. Acertou. Em 22/3/2025 @ 12:44:23.
+Quanto é 5 x 6? Resposta: 30. Acertou. Em 22/3/2025 @ 12:44:25.
+Quanto é 55 - 9? Resposta: 46. Acertou. Em 22/3/2025 @ 12:44:36.
+Quanto é 5 x 12? Resposta: 60. Acertou. Em 22/3/2025 @ 12:44:40.
+Quanto é 25 + 37? Resposta: 62. Acertou. Em 22/3/2025 @ 12:44:55.
