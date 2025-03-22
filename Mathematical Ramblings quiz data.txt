@@ -1,4 +1,4 @@
-Número de acertos: 6779. Número de erros: 21. MD5sum: 7c4c9539dd6f6c476e05cd8ad0358f81.
+Número de acertos: 6783. Número de erros: 21. MD5sum: 7f494bc9deec06b5431f3964e2cb13a8.
 Quanto é 26 + 28? Resposta: 54. Acertou. Em 17/10/2021 @ 19:45:22.
 Quanto é 39 - 66? Resposta: -27. Acertou. Em 17/10/2021 @ 19:45:36.
 Quanto é 44 - 11? Resposta: 33. Acertou. Em 17/10/2021 @ 21:44:6.
@@ -6799,3 +6799,7 @@ Quanto é 8 x 5? Resposta: 40. Acertou. Em 21/3/2025 @ 20:24:18.
 Quanto é 195 / 3? Resposta: 65. Acertou. Em 21/3/2025 @ 20:24:28.
 Quanto é 11^2? Resposta: 121. Acertou. Em 21/3/2025 @ 20:24:31.
 Quanto é 21 - 74? Resposta: -53. Acertou. Em 21/3/2025 @ 20:24:48.
+Quanto é 38 - 19? Resposta: 19. Acertou. Em 21/3/2025 @ 21:8:9.
+Quanto é 76 + 2? Resposta: 78. Acertou. Em 21/3/2025 @ 21:8:15.
+Quanto é 115 / 23? Resposta: 5. Acertou. Em 21/3/2025 @ 21:8:27.
+Quanto é 29 + 22? Resposta: 51. Acertou. Em 21/3/2025 @ 21:8:47.
