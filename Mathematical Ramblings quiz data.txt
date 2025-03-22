@@ -1,4 +1,4 @@
-Número de acertos: 6839. Número de erros: 22. MD5sum: ac175725238626abe9d2327ad002f442.
+Número de acertos: 6862. Número de erros: 22. MD5sum: cd77547c73a22da623faf4f88e4bc42e.
 Quanto é 26 + 28? Resposta: 54. Acertou. Em 17/10/2021 @ 19:45:22.
 Quanto é 39 - 66? Resposta: -27. Acertou. Em 17/10/2021 @ 19:45:36.
 Quanto é 44 - 11? Resposta: 33. Acertou. Em 17/10/2021 @ 21:44:6.
@@ -6860,3 +6860,26 @@ Quanto é 2^2? Resposta: 4. Acertou. Em 22/3/2025 @ 19:12:35.
 Quanto é 8^2? Resposta: 64. Acertou. Em 22/3/2025 @ 19:12:38.
 Quanto é 108 / 6? Resposta: 18. Acertou. Em 22/3/2025 @ 19:12:56.
 Quanto é 55 + 79? Resposta: 134. Acertou. Em 22/3/2025 @ 19:13:39.
+Quanto é 82 - 65? Resposta: 17. Acertou. Em 22/3/2025 @ 19:16:24.
+Quanto é 189 / 3? Resposta: 63. Acertou. Em 22/3/2025 @ 19:17:43.
+Quanto é 3^2? Resposta: 9. Acertou. Em 22/3/2025 @ 19:17:50.
+Quanto é 8 x 6? Resposta: 48. Acertou. Em 22/3/2025 @ 19:17:54.
+Quanto é 6^2? Resposta: 36. Acertou. Em 22/3/2025 @ 19:18:1.
+Quanto é 7 + 17? Resposta: 24. Acertou. Em 22/3/2025 @ 19:18:7.
+Quanto é 3 x 6? Resposta: 18. Acertou. Em 22/3/2025 @ 19:19:27.
+Quanto é 146 / 2? Resposta: 73. Acertou. Em 22/3/2025 @ 19:19:53.
+Quanto é 81 - 31? Resposta: 50. Acertou. Em 22/3/2025 @ 19:20:0.
+Quanto é 88 / 11? Resposta: 8. Acertou. Em 22/3/2025 @ 19:20:3.
+Quanto é 4 x 5? Resposta: 20. Acertou. Em 22/3/2025 @ 19:20:7.
+Quanto é 8^2? Resposta: 64. Acertou. Em 22/3/2025 @ 19:20:12.
+Quanto é 9^2? Resposta: 81. Acertou. Em 22/3/2025 @ 19:20:19.
+Quanto é 62 / 31? Resposta: 2. Acertou. Em 22/3/2025 @ 19:20:22.
+Quanto é 15 - 1? Resposta: 14. Acertou. Em 22/3/2025 @ 19:20:26.
+Quanto é 6 / 2? Resposta: 3. Acertou. Em 22/3/2025 @ 19:20:29.
+Quanto é 143 / 13? Resposta: 11. Acertou. Em 22/3/2025 @ 19:20:59.
+Quanto é 14^2? Resposta: 196. Acertou. Em 22/3/2025 @ 19:21:5.
+Quanto é 99 / 99? Resposta: 1. Acertou. Em 22/3/2025 @ 19:21:7.
+Quanto é 10^2? Resposta: 100. Acertou. Em 22/3/2025 @ 19:21:11.
+Quanto é 89 - 65? Resposta: 24. Acertou. Em 22/3/2025 @ 19:21:47.
+Quanto é 10^2? Resposta: 100. Acertou. Em 22/3/2025 @ 19:21:52.
+Quanto é 111 / 37? Resposta: 3. Acertou. Em 22/3/2025 @ 19:42:23.
