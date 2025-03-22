@@ -1,4 +1,4 @@
-Número de acertos: 6794. Número de erros: 22. MD5sum: 407a3abf7d8941996a50c6350527ca19.
+Número de acertos: 6817. Número de erros: 22. MD5sum: 26e646f5487f98e361b3c6ee3c9a7162.
 Quanto é 26 + 28? Resposta: 54. Acertou. Em 17/10/2021 @ 19:45:22.
 Quanto é 39 - 66? Resposta: -27. Acertou. Em 17/10/2021 @ 19:45:36.
 Quanto é 44 - 11? Resposta: 33. Acertou. Em 17/10/2021 @ 21:44:6.
@@ -6815,3 +6815,26 @@ Quanto é 28 - 22? Resposta: 6. Acertou. Em 21/3/2025 @ 21:45:19.
 Quanto é 96 / 24? Resposta: 4. Acertou. Em 21/3/2025 @ 21:47:45.
 Quanto é 3^3? Resposta: 27. Acertou. Em 21/3/2025 @ 21:49:32.
 Quanto é 5 x 9? Resposta: 45. Acertou. Em 21/3/2025 @ 21:50:2.
+Quanto é 14 x 8? Resposta: 112. Acertou. Em 21/3/2025 @ 23:7:42.
+Quanto é 2^3? Resposta: 8. Acertou. Em 21/3/2025 @ 23:7:53.
+Quanto é 99 + 62? Resposta: 161. Acertou. Em 21/3/2025 @ 23:8:14.
+Quanto é 4 x 4? Resposta: 16. Acertou. Em 21/3/2025 @ 23:8:22.
+Quanto é 7 x 11? Resposta: 77. Acertou. Em 21/3/2025 @ 23:8:30.
+Quanto é 29 - 61? Resposta: -32. Acertou. Em 21/3/2025 @ 23:9:28.
+Quanto é 54 - 63? Resposta: -9. Acertou. Em 21/3/2025 @ 23:9:54.
+Quanto é 88 - 12? Resposta: 76. Acertou. Em 21/3/2025 @ 23:10:16.
+Quanto é 16 + 21? Resposta: 37. Acertou. Em 21/3/2025 @ 23:10:35.
+Quanto é 2 - 95? Resposta: -93. Acertou. Em 21/3/2025 @ 23:10:50.
+Quanto é 4 x 4? Resposta: 16. Acertou. Em 21/3/2025 @ 23:11:1.
+Quanto é 5^3? Resposta: 125. Acertou. Em 21/3/2025 @ 23:11:9.
+Quanto é 10 x 11? Resposta: 110. Acertou. Em 21/3/2025 @ 23:11:20.
+Quanto é 99 / 11? Resposta: 9. Acertou. Em 21/3/2025 @ 23:11:26.
+Quanto é 79 + 12? Resposta: 91. Acertou. Em 21/3/2025 @ 23:11:53.
+Quanto é 2 x 13? Resposta: 26. Acertou. Em 21/3/2025 @ 23:12:1.
+Quanto é 6^3? Resposta: 216. Acertou. Em 21/3/2025 @ 23:12:9.
+Quanto é 68 + 47? Resposta: 115. Acertou. Em 21/3/2025 @ 23:12:19.
+Quanto é 9^2? Resposta: 81. Acertou. Em 21/3/2025 @ 23:12:33.
+Quanto é 6^2? Resposta: 36. Acertou. Em 21/3/2025 @ 23:12:45.
+Quanto é 12 / 12? Resposta: 1. Acertou. Em 21/3/2025 @ 23:12:50.
+Quanto é 8^3? Resposta: 512. Acertou. Em 21/3/2025 @ 23:12:58.
+Quanto é 7^3? Resposta: 343. Acertou. Em 21/3/2025 @ 23:13:5.
