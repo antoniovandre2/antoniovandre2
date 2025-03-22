@@ -1,4 +1,4 @@
-Número de acertos: 6827. Número de erros: 22. MD5sum: 5ca608e5ef551339d605083785231034.
+Número de acertos: 6839. Número de erros: 22. MD5sum: ac175725238626abe9d2327ad002f442.
 Quanto é 26 + 28? Resposta: 54. Acertou. Em 17/10/2021 @ 19:45:22.
 Quanto é 39 - 66? Resposta: -27. Acertou. Em 17/10/2021 @ 19:45:36.
 Quanto é 44 - 11? Resposta: 33. Acertou. Em 17/10/2021 @ 21:44:6.
@@ -6848,3 +6848,15 @@ Quanto é 5 x 6? Resposta: 30. Acertou. Em 22/3/2025 @ 12:44:25.
 Quanto é 55 - 9? Resposta: 46. Acertou. Em 22/3/2025 @ 12:44:36.
 Quanto é 5 x 12? Resposta: 60. Acertou. Em 22/3/2025 @ 12:44:40.
 Quanto é 25 + 37? Resposta: 62. Acertou. Em 22/3/2025 @ 12:44:55.
+Quanto é 36 - 37? Resposta: -1. Acertou. Em 22/3/2025 @ 19:9:46.
+Quanto é 196 / 14? Resposta: 14. Acertou. Em 22/3/2025 @ 19:9:56.
+Quanto é 21 + 27? Resposta: 48. Acertou. Em 22/3/2025 @ 19:11:15.
+Quanto é 58 - 27? Resposta: 31. Acertou. Em 22/3/2025 @ 19:11:34.
+Quanto é 35 + 71? Resposta: 106. Acertou. Em 22/3/2025 @ 19:12:1.
+Quanto é 20 - 92? Resposta: -72. Acertou. Em 22/3/2025 @ 19:12:9.
+Quanto é 155 / 31? Resposta: 5. Acertou. Em 22/3/2025 @ 19:12:15.
+Quanto é 6 x 12? Resposta: 72. Acertou. Em 22/3/2025 @ 19:12:31.
+Quanto é 2^2? Resposta: 4. Acertou. Em 22/3/2025 @ 19:12:35.
+Quanto é 8^2? Resposta: 64. Acertou. Em 22/3/2025 @ 19:12:38.
+Quanto é 108 / 6? Resposta: 18. Acertou. Em 22/3/2025 @ 19:12:56.
+Quanto é 55 + 79? Resposta: 134. Acertou. Em 22/3/2025 @ 19:13:39.
