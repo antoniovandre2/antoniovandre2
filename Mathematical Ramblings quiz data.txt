@@ -1,4 +1,4 @@
-Número de acertos: 7140. Número de erros: 22. MD5sum: 5d0c73c397628b042669e101b4f4a080.
+Número de acertos: 7152. Número de erros: 22. MD5sum: 95c75ff876fff033c48623159d180f6e.
 Quanto é 26 + 28? Resposta: 54. Acertou. Em 17/10/2021 @ 19:45:22.
 Quanto é 39 - 66? Resposta: -27. Acertou. Em 17/10/2021 @ 19:45:36.
 Quanto é 44 - 11? Resposta: 33. Acertou. Em 17/10/2021 @ 21:44:6.
@@ -7161,3 +7161,15 @@ Quanto é 54 + 41? Resposta: 95. Acertou. Em 28/3/2025 @ 21:7:44.
 Quanto é 3 x 5? Resposta: 15. Acertou. Em 28/3/2025 @ 21:7:50.
 Quanto é 44 - 14? Resposta: 30. Acertou. Em 28/3/2025 @ 21:8:0.
 Quanto é 43 - 53? Resposta: -10. Acertou. Em 28/3/2025 @ 21:8:10.
+Quanto é 3 x 4? Resposta: 12. Acertou. Em 1/4/2025 @ 19:28:30.
+Quanto é 4 x 8? Resposta: 32. Acertou. Em 1/4/2025 @ 19:28:36.
+Quanto é 3 + 87? Resposta: 90. Acertou. Em 1/4/2025 @ 19:28:42.
+Quanto é 10 x 6? Resposta: 60. Acertou. Em 1/4/2025 @ 19:28:49.
+Quanto é 12 x 8? Resposta: 96. Acertou. Em 1/4/2025 @ 19:28:55.
+Quanto é 4^2? Resposta: 16. Acertou. Em 1/4/2025 @ 19:28:59.
+Quanto é 21 - 97? Resposta: -76. Acertou. Em 1/4/2025 @ 19:29:11.
+Quanto é 37 + 27? Resposta: 64. Acertou. Em 1/4/2025 @ 19:29:22.
+Quanto é 96 + 22? Resposta: 118. Acertou. Em 1/4/2025 @ 19:29:36.
+Quanto é 34 / 2? Resposta: 17. Acertou. Em 1/4/2025 @ 19:29:41.
+Quanto é 177 / 3? Resposta: 59. Acertou. Em 1/4/2025 @ 19:29:57.
+Quanto é 36 - 71? Resposta: -35. Acertou. Em 1/4/2025 @ 19:30:30.
