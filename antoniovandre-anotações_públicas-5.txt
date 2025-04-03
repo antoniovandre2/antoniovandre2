@@ -3,6 +3,12 @@ Proprietário: Antonio Vandré Pedrosa Furtunato Gomes.
 Arquivo de anotações públicas #5.
 ____________________
 
+03-04-2025
+__
+
+Ainda bem que fui insistente para corrigir bugs e falhas em softwares; assim solucionando-os, mais que construir programas perfeitos, mantenho a sensação de elevação do ego.
+_____
+
 02-04-2025
 __
 
@@ -12,5 +18,5 @@ _____
 02-04-2025
 __
 
-Os softwares podem ser deletados, acidentalmente ou incidentalmente, o que fica é a inteligência desenvolvida e a autoestima por os criar.
+Os softwares podem ser deletados, acidentalmente ou incidentalmente, o que fica são a inteligência desenvolvida e a autoestima por os criar.
 _____
