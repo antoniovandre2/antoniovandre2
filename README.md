@@ -1,12 +1,12 @@
 Repositórios:
 
-MathematicalRamblingsjs -> https://github.com/antoniovandre2/MathematicalRamblingsjs2
+MathematicalRamblingsjs -> https://github.com/antoniovandre/MathematicalRamblingsjs
 
 antoniovandre_maxima_tools -> https://github.com/antoniovandre2/antoniovandre_maxima_tools
 
-antoniovandre_mathgame_bash -> https://github.com/antoniovandre2/antoniovandre_mathgame_bash2
+antoniovandre_mathgame_bash -> https://github.com/antoniovandre/antoniovandre_mathgame_bash
 
-antoniovandre_eval_GUI -> https://github.com/antoniovandre2/antoniovandre_eval_GUI2
+antoniovandre_eval_GUI -> https://github.com/antoniovandre/antoniovandre_eval_GUI
 
 JavaAntonioVandreEvalGUI -> https://github.com/antoniovandre2/JavaAntonioVandreEvalGUI
 
