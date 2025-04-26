@@ -17,10 +17,10 @@ AV3DNavigator -> https://github.com/antoniovandre/AV3DNavigator
 AV3DSpaceCatch -> https://github.com/antoniovandre2/AV3DSpaceCatch
 
 AV3DSpaceWar -> https://github.com/antoniovandre2/AV3DSpaceWar
-<hl>
+<hr>
 
 BASH mathgame estatísticas -> https://github.com/antoniovandre2/antoniovandre2/tree/main/antoniovandre_mathgame
-<hl>
+<hr>
 
 GitHubs:
 
@@ -29,7 +29,7 @@ https://github.com/antoniovandre
 https://github.com/antoniovandre2
 
 https://github.com/antoniovandre3
-<hl>
+<hr>
 
 <!-- ### Hi there 👋 -->
 
