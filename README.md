@@ -19,6 +19,9 @@ AV3DSpaceCatch -> https://github.com/antoniovandre2/AV3DSpaceCatch
 AV3DSpaceWar -> https://github.com/antoniovandre2/AV3DSpaceWar
 _____
 
+BASH mathgame estatísticas -> https://github.com/antoniovandre2/antoniovandre2/tree/main/antoniovandre_mathgame
+_____
+
 GitHubs:
 
 https://github.com/antoniovandre
