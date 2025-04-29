@@ -1,7 +1,7 @@
 Arquivo de estatísticas do jogo.
 _____
-Total de respostas: 3438.
-Total de acertos: 3429.
+Total de respostas: 3819.
+Total de acertos: 3810.
 Total de erros: 9.
-Percentual de acerto: 99.73821989528795811518 %.
-Percentual de erro: .26178010471204188481 %.
+Percentual de acerto: 99.76433621366849960722 %.
+Percentual de erro: .23566378633150039277 %.
