@@ -1,6 +1,6 @@
 Proprietário: Antonio Vandré Pedrosa Furtunato Gomes.
 
-Última atualização: 08-04-2025.
+Última atualização: 07-06-2025.
 ________________________________________
 
 YouTube channel:
@@ -370,15 +370,6 @@ Kiwi profile page:
 https://kiwi.qa/antoniovandre
 _____
 
-Dropbox antoniovandre_public:
-
-https://www.dropbox.com/sh/6m3pu2c02h86mmv/AAC3L6tk4wI4POcMlpGtmfvla?dl=0
-
-bit.ly/antoniovandre_public
-
-bit.ly/2AzXiO6
-_____
-
 MatsuPlayer:
 
 https://www.dropbox.com/sh/19an9yp61st55fw/AAAfVE0hVS6bnP7ga8K7k4o6a?dl=0
@@ -456,42 +447,12 @@ _____
 
 BASH antoniovandre_mathgame:
 
-bit.ly/avmathgameghpg
-
 https://antoniovandre.github.io/antoniovandre_mathgame_bash
-_____
-
-BASH antoniovandre_mathgame 2:
-
-https://antoniovandre2.github.io/antoniovandre_mathgame_bash2
 _____
 
 BASH antoniovandre_mathgame (english):
 
-bit.ly/avmathgameghpgen
-
 https://antoniovandre.github.io/antoniovandre_mathgame_bash/index_en.html
-_____
-
-BASH antoniovandre_mathgame 2 (english):
-
-bit.ly/avmathgame2ghpgen
-
-https://antoniovandre2.github.io/antoniovandre_mathgame_bash2/index_en.html
-_____
-
-BASH antoniovandre_mathgame no Dropbox:
-
-https://www.dropbox.com/s/xsvnrhs4adtz36r/antoniovandre_mathgame.zip?dl=0
-
-bit.ly/antoniovandre_mathgame_bash
-_____
-
-BASH antoniovandre_mathgame, minhas estatísticas:
-
-https://sites.google.com/site/mathematicalramblings/bash-antoniovandre_mathgame
-
-bit.ly/avmathgamebashstats
 _____
 
 BASH antoniovandre_mathgame no GitHub:
@@ -518,151 +479,42 @@ antoniovandre_eval GUI (calculadora):
 
 GitHub page:
 
-bit.ly/antoniovandreevalguigithubpages
-
 https://antoniovandre.github.io/antoniovandre_eval_GUI/
 __
 
 Hospedado no GitHub:
 
-bit.ly/antoniovandreevalgui_github
-
 https://github.com/antoniovandre/antoniovandre_eval_GUI
-__
-
-Hospedado no Dropbox:
-
-bit.ly/antoniovandreevalgui
-
-https://www.dropbox.com/s/75hm156b4s6mx87/antoniovandre_eval%20GUI.zip?dl=0
 _____
 
 antoniovandre_eval GUI (calculator) (English):
-
-bit.ly/antoniovandreevalguigithubpages_english
 
 https://antoniovandre.github.io/antoniovandre_eval_GUI/index_en.html
 _____
 
 antoniovandre_eval GUI (計算器) (中文):
 
-bit.ly/antoniovandreevalguigithubpages_中文
-
 https://antoniovandre.github.io/antoniovandre_eval_GUI/index_cn.html
 _____
 
 antoniovandre_eval GUI (calculadora) (Español):
-
-bit.ly/antoniovandreevalguigithubpages_español
 
 https://antoniovandre.github.io/antoniovandre_eval_GUI/index_es.html
 _____
 
 antoniovandre_eval GUI (कैलकुलेटर) (हिन्दी):
 
-bit.ly/antoniovandreevalguigithubpages_हिन्दी
-
 https://antoniovandre.github.io/antoniovandre_eval_GUI/index_in.html
 _____
 
 antoniovandre_eval GUI (آلة حاسبة) (عربى)
-
-bit.ly/antoniovandreevalguigithubpages_عربى
 
 https://antoniovandre.github.io/antoniovandre_eval_GUI/index_ar.html
 _____
 
 antoniovandre_eval GUI (калькулятор) (русский):
 
-bit.ly/antoniovandreevalguigithubpages_русский
-
 https://antoniovandre.github.io/antoniovandre_eval_GUI/index_ru.html
-_____
-
-antoniovandre_eval GUI mensagem de Antonio Vandré:
-
-bit.ly/antoniovandreevalguimensagem
-
-https://www.dropbox.com/s/dj0s35csmd7z0k6/antoniovandre_eval%20GUI%20-%20Mensagem%20de%20Antonio%20Vandr%C3%A9%20Pedrosa%20Furtunato%20Gomes.txt?dl=0
-_____
-
-antoniovandre_eval GUI mensagem de Antonio Vandré dl:
-
-bit.ly/antoniovandreevalguimensagemdl
-
-https://dl.dropboxusercontent.com/s/dj0s35csmd7z0k6/antoniovandre_eval%20GUI%20-%20Mensagem%20de%20Antonio%20Vandr%C3%A9%20Pedrosa%20Furtunato%20Gomes.txt
-_____
-
-antoniovandre_eval GUI 2 (calculadora):
-
-GitHub page:
-
-https://bit.ly/antoniovandreevalgui2githubpages
-
-https://antoniovandre2.github.io/antoniovandre_eval_GUI2/
-__
-
-Hospedado no GitHub:
-
-https://bit.ly/antoniovandreevalgui2_github_linkv2
-
-https://github.com/antoniovandre2/antoniovandre_eval_GUI2
-__
-
-Hospedado no Dropbox:
-
-bit.ly/antoniovandreevalgui
-
-https://www.dropbox.com/s/75hm156b4s6mx87/antoniovandre_eval%20GUI.zip?dl=0
-_____
-
-antoniovandre_eval GUI 2 (calculator) (English):
-
-https://bit.ly/antoniovandreevalgui2githubpages_english
-
-https://antoniovandre2.github.io/antoniovandre_eval_GUI2/index_en.html
-_____
-
-antoniovandre_eval GUI 2 (計算器) (中文):
-
-https://bit.ly/antoniovandreevalgui2githubpages_中文
-
-https://antoniovandre2.github.io/antoniovandre_eval_GUI2/index_cn.html
-_____
-
-antoniovandre_eval GUI 2 (calculadora) (Español):
-
-bit.ly/antoniovandreevalgui2githubpages_español_linkv2
-
-https://antoniovandre2.github.io/antoniovandre_eval_GUI2/index_es.html
-_____
-
-antoniovandre_eval GUI 2 (कैलकुलेटर) (हिन्दी):
-
-bit.ly/antoniovandreevalguigithubpages_हिन्दी
-
-https://antoniovandre2.github.io/antoniovandre_eval_GUI2/index_in.html
-_____
-
-antoniovandre_eval GUI 2 (آلة حاسبة) (عربى)
-
-bit.ly/antoniovandreevalgui2githubpages_عربى
-
-https://antoniovandre2.github.io/antoniovandre_eval_GUI2/index_ar.html
-_____
-
-antoniovandre_eval GUI 2 (калькулятор) (русский):
-
-bit.ly/antoniovandreevalgui2githubpages_русский
-
-https://antoniovandre2.github.io/antoniovandre_eval_GUI2/index_ru.html
-_____
-
-Antonio Vandré - Publicidade / reclames / propagandas / comerciais / business / agradecimentos:
-
-bit.ly/antoniovandre_publicidade
-
-https://sites.google.com/view/antoniovandre-publicidade
 _____
 
 FPse data:
@@ -688,20 +540,6 @@ __
 Box 2 copy:
 
 https://app.box.com/s/e7l50z3bvlnicvj01vrgjccu0ys74wr3
-_____
-
-Public archive:
-
-https://www.dropbox.com/s/z8civx2yu32ygqv/Antonio%20Vandr%C3%A9%20Pedrosa%20Furtunato%20Gomes%20-%20Public.zip?dl=0
-
-bit.ly/publicarchive
-__
-
-Direct link:
-
-https://dl.dropbox.com/s/z8civx2yu32ygqv/Antonio%20Vandr%C3%A9%20Pedrosa%20Furtunato%20Gomes%20-%20Public.zip
-
-bit.ly/publicarchivedl
 _____
 
 Freedoom data:
@@ -923,13 +761,6 @@ Box 2 copy:
 
 https://app.box.com/s/qv99zej722ohy8iqmj98nmzo78r03xib
 ____
-
-Software dist packages:
-
-https://drive.google.com/drive/folders/18dfwJCgr7uBbBnHnKX25caKdaM5NVVWQ?usp=sharing
-
-https://bit.ly/avsoftwaredistpackages
-_____
 
 SigmaGeek profile page:
 
