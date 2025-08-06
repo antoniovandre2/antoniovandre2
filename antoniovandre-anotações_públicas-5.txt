@@ -2,37 +2,3 @@ Proprietário: Antonio Vandré Pedrosa Furtunato Gomes.
 
 Arquivo de anotações públicas #5.
 ____________________
-
-05-08-2025
-__
-
-Eu quebrando a cabeça por algumas falhas que surgem no AV3DNavigator, apesar de analisar minusciosamente tudo, algo me veio à mente: o problema pode ser do Java, pois utilizo recursos não apropriados para 3D, como o awt; também as funções trigonométricas podem não ser tão precisas.
-
-Matematicamente perfeito, lavo minhas mãos.
-_____
-
-05-08-2025
-__
-
-Com o AV3DNavigator perfeito, especialmente quanto às mais diversas rotações, quanto a todas as possíveis rotações, agora assisto aos games 3D orgulhando-me de mim, de que também sou capaz de criar uma engine com quase todos os recursos.
-_____
-
-05-08-2025
-__
-
-No AV3DNavigator, ao menos deixei perfeitas as rotações da câmera e movimentação com o mouse, apenas não consegui implementar corretamente strafes, logo não implementei com Rot diferente de zero, assim o conjunto é perfeito no que faz, e faz bastante.
-_____
-
-05-08-2025
-__
-
-Diante de bloqueios e ameaças de bloqueios em subs de Matemática e relacionados no Reddit, criei meu próprio sub "r/theMathematics".
-
-Estou bem mais tranquilo agora, sentindo-me incluso.
-_____
-
-05-08-2025
-__
-
-Tenho total liberdade em meus subs no Reddit com ressalvas, há a moderação do site.
-_____
