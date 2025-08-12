@@ -3,6 +3,92 @@ Proprietário: Antonio Vandré Pedrosa Furtunato Gomes.
 Arquivo de anotações públicas #4.
 ____________________
 
+12-08-2025
+__
+
+Pode-se estudar e deter profundos conhecimentos sobre outras coisas, e ter uma inteligência mais elevada que o necessário para ser um Geômetra. Semelhantemente como pode-se cursar universidades se a paixão da vida é um jogo de cartas ou tabuleiro.
+_____
+
+12-08-2025
+__
+
+Ou se ama acima de tudo a Álgebra, ou acima de tudo a Geometria; como disse Jesus, não podemos ter dois senhores.
+_____
+
+12-08-2025
+__
+
+Minha obra-prima, o AV3DNavigator, é escrito em várias linguagens, e a principal é Java; fui verificar no Reddit se não tenho nenhuma restrição para publicar no r/java, e não há nenhuma, ainda bem.
+
+Adquiri algumas restrições no passado por ter sido um pouco spammer.
+_____
+
+12-08-2025
+__
+
+No AV3DNavigator desenvolvi um sofisticado installer, primeiramente ele lê de uma URL os arquivos que farão parte da instalação, e baixa os da lista.
+
+Procurei deixar na lista apenas os essenciais, pois nos demais podem haver configurações pessoais, e não quero que o usuário, se as editou, perca-as.
+_____
+
+12-08-2025
+__
+
+A Geometria é simples diante de outros campos da Matemática, mas com ela infinitos mundos e combinações podem ser criados, posso contemplar a todos, considerar a todos sagrados.
+_____
+
+12-08-2025
+__
+
+Há o fato de que também sou vítima de agressões por conta dos meus próximos, agresssões que podem ser bastantes frequentes, logo é importante ter algo fácil de amar e sempre disponível, para ajudar-me a manter-me harmonizado.
+_____
+
+12-08-2025
+__
+
+Se já estou tão feliz, satisfeito e realizado com Geometria, por que ei de querer identificar-me com outra coisa?
+
+Vejo pessoas sofrendo por falta de amor, e amor tenho em abundância com as atuais escolhas, pode não ser bom escolher outras coisas.
+_____
+
+12-08-2025
+__
+
+Sinto-me profundamente realizado com o AV3DNavigator, meu principal software de Geometria, minha obra-prima.
+_____
+
+12-08-2025
+__
+
+O que principalmente motivava o meu muito filosofar era o desconforto, especialmente por estar longe, desconectado, dos objetos de afetos.
+
+Estou até pensando em deixar a Geometria e a contemplação de tudo que posso ver à minha volta para filosofar mais e mais profundamente, voltando a identificar-me como um Algebrista; há inclusive mais honra, pois é algo mais intelectualmente exigente.
+_____
+
+12-08-2025
+__
+
+Posso continuar Geômetra e progredir com certa constância nos estudos, só tenho a ganhar; os objetos geométricos tem como maior utilidade servirem-me de afetos, satisfazer as afetividades, e assim também a sociabilidade.
+_____
+
+11-08-2025
+__
+
+O meu ser Geômetra inclui também muitos estudos de diversos campos, como de programação e outros campos da Matemática, e até de outras disciplinas como Física, além da necessária Filosofia para o bem-estar emocional diante das inevitáveis adversidades da vida.
+
+Já me julgo detentor de muitos saberes ao ponto de relaxar com mais estudos.
+
+Antes, o meu compulsivamente estudar mais era mais pela necessidade de manter-me em contato com o que amo, que era a Matemática em seus livros; agora é a Geometria com a qual posso conectar-me em simplesmente olhar o que há à minha volta.
+_____
+
+11-08-2025
+__
+
+Poderia manter-me com o absolutamente estável Debian 12, mas não queria ficar de "fora da festa" dos desenvolvedores, quero participar enviando feedbacks para a melhoria do sistema recém-lançado, pequenas falhas são praticamente inevitáveis no início; assim sinto-me mais útil.
+
+Algo bom que percebi foi a melhoria do desempenho gráfico de games 3D.
+_____
+
 10-08-2025
 __
 
