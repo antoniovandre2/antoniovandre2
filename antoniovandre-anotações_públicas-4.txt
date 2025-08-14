@@ -3,6 +3,92 @@ Proprietário: Antonio Vandré Pedrosa Furtunato Gomes.
 Arquivo de anotações públicas #4.
 ____________________
 
+13-08-2025
+__
+
+O quê de melhor fazer em dias perfeitos em sem tarefas pendentes a realizar? Se ainda com o que interiormente curar, ocupar-se com mais meditações.
+_____
+
+13-08-2025
+__
+
+Sendo um Geômetra, as simples formas disponíveis em um fechado e pequeno recinto já me satisfazem, já contemplo-as.
+_____
+
+13-08-2025
+__
+
+Como disse Jesus, a boca fala do que está cheio o coração; os corações dos fofoqueiros estão cheios de pessoas e personalidades, procuro manter meu coração cheio de ciências e artes.
+_____
+
+13-08-2025
+__
+
+Fundamentado na Álgebra, eu estaria sendo um tanto hipócrita, pois a adotei tendo dela parcos conhecimentos, era mais movido pelo orgulho de querer estar ligado a algo intelectualmente elevado; com a Geometria não, pois a conheço com bastante profundiade, inclusive de campos adjacentes e não tão adjacentes.
+_____
+
+13-08-2025
+__
+
+Assim como há alguns anos iniciei a construção de minha vida fundamentado na Matemática com especialização em Álgebra, atualmente estou dando início a uma promissora e feliz vida ao lado da Geometria; posso ter pouco com ela atualmente, mas, aos poucos, vou enriquecendo o relacionamento, tal como fiz com a Álgebra.
+_____
+
+13-08-2025
+__
+
+Por muito tempo sofri de uma grande vergonha que procurava ocultar até de mim mesmo: das crises de ansiedade e perda de autocontrole no final da adolescência, não porque eu era fraco, era forte, mas as adversidades foram pesadas demais.
+
+Hoje estou bem mais maduro e com força psíquica bem mais desenvolvida.
+_____
+
+13-08-2025
+__
+
+Às vezes, quando corrijo bugs em meus softwares, deixando-os, ao menos segundo minha atual visão, perfeitos, costumo comemorar escutando músicas.
+_____
+
+13-08-2025
+__
+
+Acho que não preciso desenvolver mais força psíquica para viver bem, mas, se os softwares demandam mais atenções, é bom crescer mais um pouco neste aspecto, futuros grandes desafios emocionais podem vir.
+
+Em geral, desenvolvendo softwares ou estudando, desenvolvo mais força psíquica e adquiro mais imunidade a estresses, pelas circunstâncias em que eles aparecem passo mais ileso.
+_____
+
+13-08-2025
+__
+
+Ainda sinto algumas dores de alguns ódios adquiridos, porém bem menos intensas que no passado, graças aos meus hábitos saudáveis como meditação e o filosofar, o que inclui escrever registros como este.
+
+Aos poucos vou me curando mais e mais...
+_____
+
+13-08-2025
+__
+
+Antes o orgulho era algo importante para mim; hoje, satisfeito com meus objetos de afeto, nem nele penso, talvez tenha me tornado humilde, sou indiferente quanto a isto.
+
+Acho bom porque o espiritismo diz que o orgulho pode trazer muitos problemas; não concordo, mas, se alguns dizem, é bom evitar.
+_____
+
+13-08-2025
+__
+
+Estudo mais opcionalmente, filosofo mais opcionalmente, contemplando e amando às geometrias do mundo que me cerca, minha alma já se encontra satisfeita e feliz.
+_____
+
+13-08-2025
+__
+
+Removi aqui do Debian o pesado e bastante ocupador de espaço Plasma; para os outros usuários coloquei o Cinnamon; estou utilizando o Gnome.
+_____
+
+13-08-2025
+__
+
+Sim, há muitas evidências de que o Java, linguagem predominante no AV3DNavigator, comete alguns erros de cálculos matemáticos, que, quando bastantes exigidos, distorcem as corretas movimentações da câmera. Provavelmente devido à falta de necessária precisão das funções trigonométricas.
+_____
+
 12-08-2025
 __
 
