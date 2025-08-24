@@ -52203,3 +52203,4588 @@ Fri Jul 25 17:17:03 -03 2025
 Pergunta: Quanto é 10 / 14, arredondado com 0 casas decimais? 
 Resposta: 1
 Eval: acertou.
+_____
+Mon Jul 28 18:40:31 -03 2025
+Pergunta: Quanto é 9 x 10? 
+Resposta: 90
+Eval: acertou.
+_____
+Mon Jul 28 18:40:34 -03 2025
+Pergunta: Quanto é 4 x 3? 
+Resposta: 12
+Eval: acertou.
+_____
+Mon Jul 28 18:40:37 -03 2025
+Pergunta: Quanto é 6 - 3? 
+Resposta: 3
+Eval: acertou.
+_____
+Mon Jul 28 21:52:04 -03 2025
+Pergunta: Quanto é 1 - 12? 
+Resposta: -11
+Eval: acertou.
+_____
+Mon Jul 28 21:52:06 -03 2025
+Pergunta: Quanto é 11 / 11? 
+Resposta: 1
+Eval: acertou.
+_____
+Mon Jul 28 21:52:11 -03 2025
+Pergunta: Quanto é 6 - 14? 
+Resposta: -8
+Eval: acertou.
+_____
+Mon Jul 28 21:52:13 -03 2025
+Pergunta: Quanto é 3 / 3? 
+Resposta: 1
+Eval: acertou.
+_____
+Mon Jul 28 21:52:16 -03 2025
+Pergunta: Quanto é 5 / 3, arredondado com 0 casas decimais? 
+Resposta: 2
+Eval: acertou.
+_____
+Mon Jul 28 21:52:22 -03 2025
+Pergunta: Quanto é 4 + 7? 
+Resposta: 11
+Eval: acertou.
+_____
+Mon Jul 28 21:52:24 -03 2025
+Pergunta: Quanto é 7 + 0? 
+Resposta: 7
+Eval: acertou.
+_____
+Mon Jul 28 21:52:28 -03 2025
+Pergunta: Quanto é 7 / 12, arredondado com 0 casas decimais? 
+Resposta: 1
+Eval: acertou.
+_____
+Mon Jul 28 21:52:38 -03 2025
+Pergunta: Quanto é 8 / 3, arredondado com 0 casas decimais? 
+Resposta: 3
+Eval: acertou.
+_____
+Mon Jul 28 21:52:39 -03 2025
+Pergunta: Quanto é 5 - 5? 
+Resposta: 
+Eval: acertou.
+_____
+Mon Jul 28 21:52:43 -03 2025
+Pergunta: Quanto é 7 - 5? 
+Resposta: 2
+Eval: acertou.
+_____
+Mon Jul 28 21:52:45 -03 2025
+Pergunta: Quanto é 11 / 10, arredondado com 0 casas decimais? 
+Resposta: 1
+Eval: acertou.
+_____
+Mon Jul 28 21:52:57 -03 2025
+Pergunta: Quanto é 6 - 3? 
+Resposta: 3
+Eval: acertou.
+_____
+Mon Jul 28 21:53:01 -03 2025
+Pergunta: Quanto é 10 + 10? 
+Resposta: 20
+Eval: acertou.
+_____
+Mon Jul 28 21:53:06 -03 2025
+Pergunta: Quanto é 15 x 5? 
+Resposta: 75
+Eval: acertou.
+_____
+Mon Jul 28 21:53:14 -03 2025
+Pergunta: Quanto é 7 / 2, arredondado com 0 casas decimais? 
+Resposta: 4
+Eval: acertou.
+_____
+Mon Jul 28 21:53:16 -03 2025
+Pergunta: Quanto é 1 / 7, arredondado com 0 casas decimais? 
+Resposta: 
+Eval: acertou.
+_____
+Mon Jul 28 21:53:24 -03 2025
+Pergunta: Quanto é 10 - 11? 
+Resposta: -1
+Eval: acertou.
+_____
+Mon Jul 28 21:53:26 -03 2025
+Pergunta: Quanto é 0 x 5? 
+Resposta: 
+Eval: acertou.
+_____
+Mon Jul 28 21:53:29 -03 2025
+Pergunta: Quanto é 7 + 0? 
+Resposta: 7
+Eval: acertou.
+_____
+Mon Jul 28 21:53:31 -03 2025
+Pergunta: Quanto é 11 / 10, arredondado com 0 casas decimais? 
+Resposta: 1
+Eval: acertou.
+_____
+Mon Jul 28 21:53:35 -03 2025
+Pergunta: Quanto é 14 x 5? 
+Resposta: 70
+Eval: acertou.
+_____
+Mon Jul 28 21:53:42 -03 2025
+Pergunta: Quanto é 1 - 11? 
+Resposta: -10
+Eval: acertou.
+_____
+Mon Jul 28 21:53:46 -03 2025
+Pergunta: Quanto é 11 x 9? 
+Resposta: 99
+Eval: acertou.
+_____
+Mon Jul 28 21:53:47 -03 2025
+Pergunta: Quanto é 10 - 10? 
+Resposta: 
+Eval: acertou.
+_____
+Mon Jul 28 21:53:53 -03 2025
+Pergunta: Quanto é 11 + 2? 
+Resposta: 13
+Eval: acertou.
+_____
+Mon Jul 28 21:54:02 -03 2025
+Pergunta: Quanto é 14 - 8? 
+Resposta: 6
+Eval: acertou.
+_____
+Mon Jul 28 21:54:04 -03 2025
+Pergunta: Quanto é 15 x 0? 
+Resposta: 
+Eval: acertou.
+_____
+Mon Jul 28 21:54:20 -03 2025
+Pergunta: Quanto é 15 / 9, arredondado com 0 casas decimais? 
+Resposta: 2
+Eval: acertou.
+_____
+Mon Jul 28 21:54:23 -03 2025
+Pergunta: Quanto é 3 x 8? 
+Resposta: 24
+Eval: acertou.
+_____
+Mon Jul 28 21:54:27 -03 2025
+Pergunta: Quanto é 7 / 13, arredondado com 0 casas decimais? 
+Resposta: 1
+Eval: acertou.
+_____
+Mon Jul 28 21:54:31 -03 2025
+Pergunta: Quanto é 7 x 4? 
+Resposta: 28
+Eval: acertou.
+_____
+Mon Jul 28 21:54:36 -03 2025
+Pergunta: Quanto é 15 + 6? 
+Resposta: 21
+Eval: acertou.
+_____
+Mon Jul 28 21:54:39 -03 2025
+Pergunta: Quanto é 11 + 15? 
+Resposta: 26
+Eval: acertou.
+_____
+Mon Jul 28 22:00:35 -03 2025
+Pergunta: Quanto é 15 - 2? 
+Resposta: 13
+Eval: acertou.
+_____
+Mon Jul 28 22:00:43 -03 2025
+Pergunta: Quanto é 13 / 4, arredondado com 0 casas decimais? 
+Resposta: 3
+Eval: acertou.
+_____
+Mon Jul 28 22:00:46 -03 2025
+Pergunta: Quanto é 7 / 14, arredondado com 0 casas decimais? 
+Resposta: 1
+Eval: acertou.
+_____
+Mon Jul 28 22:00:49 -03 2025
+Pergunta: Quanto é 0 + 3? 
+Resposta: 3
+Eval: acertou.
+_____
+Mon Jul 28 22:00:55 -03 2025
+Pergunta: Quanto é 8 x 12? 
+Resposta: 96
+Eval: acertou.
+_____
+Mon Jul 28 22:00:59 -03 2025
+Pergunta: Quanto é 1 + 12? 
+Resposta: 13
+Eval: acertou.
+_____
+Mon Jul 28 22:01:01 -03 2025
+Pergunta: Quanto é 1 x 10? 
+Resposta: 10
+Eval: acertou.
+_____
+Mon Jul 28 22:01:06 -03 2025
+Pergunta: Quanto é 15 / 7, arredondado com 0 casas decimais? 
+Resposta: 2
+Eval: acertou.
+_____
+Mon Jul 28 22:01:12 -03 2025
+Pergunta: Quanto é 12 + 9? 
+Resposta: 21
+Eval: acertou.
+_____
+Mon Jul 28 22:01:14 -03 2025
+Pergunta: Quanto é 1 x 6? 
+Resposta: 6
+Eval: acertou.
+_____
+Mon Jul 28 22:01:19 -03 2025
+Pergunta: Quanto é 11 + 2? 
+Resposta: 13
+Eval: acertou.
+_____
+Mon Jul 28 22:01:24 -03 2025
+Pergunta: Quanto é 6 x 1? 
+Resposta: 6
+Eval: acertou.
+_____
+Mon Jul 28 22:01:26 -03 2025
+Pergunta: Quanto é 0 x 13? 
+Resposta: 
+Eval: acertou.
+_____
+Mon Jul 28 22:01:30 -03 2025
+Pergunta: Quanto é 15 + 12? 
+Resposta: 27
+Eval: acertou.
+_____
+Mon Jul 28 22:01:33 -03 2025
+Pergunta: Quanto é 9 / 1? 
+Resposta: 9
+Eval: acertou.
+_____
+Mon Jul 28 22:01:37 -03 2025
+Pergunta: Quanto é 4 / 10, arredondado com 0 casas decimais? 
+Resposta: 
+Eval: acertou.
+_____
+Mon Jul 28 22:01:38 -03 2025
+Pergunta: Quanto é 14 - 14? 
+Resposta: 
+Eval: acertou.
+_____
+Mon Jul 28 22:01:51 -03 2025
+Pergunta: Quanto é 15 / 11, arredondado com 0 casas decimais? 
+Resposta: 1
+Eval: acertou.
+_____
+Mon Jul 28 22:01:54 -03 2025
+Pergunta: Quanto é 4 + 8? 
+Resposta: 12
+Eval: acertou.
+_____
+Mon Jul 28 22:01:59 -03 2025
+Pergunta: Quanto é 2 - 12? 
+Resposta: -10
+Eval: acertou.
+_____
+Mon Jul 28 22:02:07 -03 2025
+Pergunta: Quanto é 9 + 5? 
+Resposta: 14
+Eval: acertou.
+_____
+Mon Jul 28 22:02:13 -03 2025
+Pergunta: Quanto é 9 - 12? 
+Resposta: -3
+Eval: acertou.
+_____
+Mon Jul 28 22:02:27 -03 2025
+Pergunta: Quanto é 7 + 5? 
+Resposta: 12
+Eval: acertou.
+_____
+Mon Jul 28 22:02:30 -03 2025
+Pergunta: Quanto é 7 x 8? 
+Resposta: 56
+Eval: acertou.
+_____
+Mon Jul 28 22:02:32 -03 2025
+Pergunta: Quanto é 1 x 3? 
+Resposta: 3
+Eval: acertou.
+_____
+Mon Jul 28 22:02:36 -03 2025
+Pergunta: Quanto é 0 - 13? 
+Resposta: -13
+Eval: acertou.
+_____
+Mon Jul 28 22:02:39 -03 2025
+Pergunta: Quanto é 11 + 7? 
+Resposta: 18
+Eval: acertou.
+_____
+Mon Jul 28 22:02:48 -03 2025
+Pergunta: Quanto é 7 x 13? 
+Resposta: 91
+Eval: acertou.
+_____
+Mon Jul 28 22:02:54 -03 2025
+Pergunta: Quanto é 4 x 12? 
+Resposta: 48
+Eval: acertou.
+_____
+Mon Jul 28 22:02:59 -03 2025
+Pergunta: Quanto é 8 + 4? 
+Resposta: 12
+Eval: acertou.
+_____
+Mon Jul 28 22:03:01 -03 2025
+Pergunta: Quanto é 8 x 3? 
+Resposta: 24
+Eval: acertou.
+_____
+Mon Jul 28 22:03:03 -03 2025
+Pergunta: Quanto é 13 / 13? 
+Resposta: 1
+Eval: acertou.
+_____
+Mon Jul 28 22:03:06 -03 2025
+Pergunta: Quanto é 0 - 2? 
+Resposta: -2
+Eval: acertou.
+_____
+Mon Jul 28 22:03:10 -03 2025
+Pergunta: Quanto é 9 + 10? 
+Resposta: 19
+Eval: acertou.
+_____
+Mon Jul 28 22:03:14 -03 2025
+Pergunta: Quanto é 15 / 4, arredondado com 0 casas decimais? 
+Resposta: 4
+Eval: acertou.
+_____
+Mon Jul 28 22:03:18 -03 2025
+Pergunta: Quanto é 3 + 7? 
+Resposta: 10
+Eval: acertou.
+_____
+Mon Jul 28 22:03:21 -03 2025
+Pergunta: Quanto é 4 / 5, arredondado com 0 casas decimais? 
+Resposta: 1
+Eval: acertou.
+_____
+Mon Jul 28 22:03:27 -03 2025
+Pergunta: Quanto é 7 + 13? 
+Resposta: 20
+Eval: acertou.
+_____
+Mon Jul 28 22:03:31 -03 2025
+Pergunta: Quanto é 13 - 2? 
+Resposta: 11
+Eval: acertou.
+_____
+Mon Jul 28 22:03:33 -03 2025
+Pergunta: Quanto é 1 x 4? 
+Resposta: 4
+Eval: acertou.
+_____
+Mon Jul 28 22:03:36 -03 2025
+Pergunta: Quanto é 4 + 8? 
+Resposta: 12
+Eval: acertou.
+_____
+Mon Jul 28 22:03:43 -03 2025
+Pergunta: Quanto é 9 x 2? 
+Resposta: 18
+Eval: acertou.
+_____
+Mon Jul 28 22:03:44 -03 2025
+Pergunta: Quanto é 0 x 15? 
+Resposta: 
+Eval: acertou.
+_____
+Mon Jul 28 22:03:47 -03 2025
+Pergunta: Quanto é 10 x 1? 
+Resposta: 10
+Eval: acertou.
+_____
+Mon Jul 28 22:03:50 -03 2025
+Pergunta: Quanto é 1 - 10? 
+Resposta: -9
+Eval: acertou.
+_____
+Mon Jul 28 22:04:10 -03 2025
+Pergunta: Quanto é 4 + 9? 
+Resposta: 13
+Eval: acertou.
+_____
+Mon Jul 28 22:04:14 -03 2025
+Pergunta: Quanto é 7 - 4? 
+Resposta: 3
+Eval: acertou.
+_____
+Mon Jul 28 22:04:16 -03 2025
+Pergunta: Quanto é 2 x 2? 
+Resposta: 4
+Eval: acertou.
+_____
+Mon Jul 28 22:04:19 -03 2025
+Pergunta: Quanto é 12 + 8? 
+Resposta: 20
+Eval: acertou.
+_____
+Mon Jul 28 22:04:21 -03 2025
+Pergunta: Quanto é 0 + 0? 
+Resposta: 
+Eval: acertou.
+_____
+Mon Jul 28 22:04:24 -03 2025
+Pergunta: Quanto é 4 x 10? 
+Resposta: 40
+Eval: acertou.
+_____
+Mon Jul 28 22:04:29 -03 2025
+Pergunta: Quanto é 5 + 10? 
+Resposta: 15
+Eval: acertou.
+_____
+Mon Jul 28 22:04:37 -03 2025
+Pergunta: Quanto é 7 / 3, arredondado com 0 casas decimais? 
+Resposta: 2
+Eval: acertou.
+_____
+Mon Jul 28 22:04:43 -03 2025
+Pergunta: Quanto é 12 + 15? 
+Resposta: 27
+Eval: acertou.
+_____
+Mon Jul 28 22:04:48 -03 2025
+Pergunta: Quanto é 10 + 11? 
+Resposta: 21
+Eval: acertou.
+_____
+Mon Jul 28 22:04:51 -03 2025
+Pergunta: Quanto é 7 / 12, arredondado com 0 casas decimais? 
+Resposta: 1
+Eval: acertou.
+_____
+Mon Jul 28 22:04:54 -03 2025
+Pergunta: Quanto é 9 x 5? 
+Resposta: 45
+Eval: acertou.
+_____
+Mon Jul 28 22:04:58 -03 2025
+Pergunta: Quanto é 1 + 11? 
+Resposta: 12
+Eval: acertou.
+_____
+Mon Jul 28 22:11:07 -03 2025
+Pergunta: Quanto é 6 / 12, arredondado com 0 casas decimais? 
+Resposta: 1
+Eval: acertou.
+_____
+Mon Jul 28 22:11:11 -03 2025
+Pergunta: Quanto é 14 / 2? 
+Resposta: 7
+Eval: acertou.
+_____
+Mon Jul 28 22:11:15 -03 2025
+Pergunta: Quanto é 9 / 11, arredondado com 0 casas decimais? 
+Resposta: 1
+Eval: acertou.
+_____
+Mon Jul 28 22:11:23 -03 2025
+Pergunta: Quanto é 11 x 12? 
+Resposta: 132
+Eval: acertou.
+_____
+Mon Jul 28 22:11:28 -03 2025
+Pergunta: Quanto é 10 x 4? 
+Resposta: 40
+Eval: acertou.
+_____
+Mon Jul 28 22:11:44 -03 2025
+Pergunta: Quanto é 5 + 13? 
+Resposta: 18
+Eval: acertou.
+_____
+Mon Jul 28 22:11:50 -03 2025
+Pergunta: Quanto é 9 / 11, arredondado com 0 casas decimais? 
+Resposta: 1
+Eval: acertou.
+_____
+Mon Jul 28 22:11:55 -03 2025
+Pergunta: Quanto é 8 - 10? 
+Resposta: -2
+Eval: acertou.
+_____
+Mon Jul 28 22:11:59 -03 2025
+Pergunta: Quanto é 5 x 9? 
+Resposta: 45
+Eval: acertou.
+_____
+Mon Jul 28 22:12:06 -03 2025
+Pergunta: Quanto é 3 - 13? 
+Resposta: -10
+Eval: acertou.
+_____
+Mon Jul 28 22:12:14 -03 2025
+Pergunta: Quanto é 6 / 10, arredondado com 0 casas decimais? 
+Resposta: 1
+Eval: acertou.
+_____
+Mon Jul 28 22:12:16 -03 2025
+Pergunta: Quanto é 2 / 11, arredondado com 0 casas decimais? 
+Resposta: 
+Eval: acertou.
+_____
+Mon Jul 28 22:12:21 -03 2025
+Pergunta: Quanto é 4 + 8? 
+Resposta: 12
+Eval: acertou.
+_____
+Mon Jul 28 22:12:30 -03 2025
+Pergunta: Quanto é 1 / 2, arredondado com 0 casas decimais? 
+Resposta: 1
+Eval: acertou.
+_____
+Mon Jul 28 22:12:34 -03 2025
+Pergunta: Quanto é 10 x 10? 
+Resposta: 100
+Eval: acertou.
+_____
+Mon Jul 28 22:12:45 -03 2025
+Pergunta: Quanto é 9 + 14? 
+Resposta: 23
+Eval: acertou.
+_____
+Mon Jul 28 22:12:49 -03 2025
+Pergunta: Quanto é 13 x 13? 
+Resposta: 169
+Eval: acertou.
+_____
+Mon Jul 28 22:12:54 -03 2025
+Pergunta: Quanto é 6 / 10, arredondado com 0 casas decimais? 
+Resposta: 1
+Eval: acertou.
+_____
+Mon Jul 28 22:12:56 -03 2025
+Pergunta: Quanto é 12 - 12? 
+Resposta: 
+Eval: acertou.
+_____
+Mon Jul 28 22:12:59 -03 2025
+Pergunta: Quanto é 1 - 6? 
+Resposta: -5
+Eval: acertou.
+_____
+Mon Jul 28 22:13:37 -03 2025
+Pergunta: Quanto é 3 x 8? 
+Resposta: 24
+Eval: acertou.
+_____
+Mon Jul 28 22:13:41 -03 2025
+Pergunta: Quanto é 4 x 4? 
+Resposta: 16
+Eval: acertou.
+_____
+Mon Jul 28 22:14:06 -03 2025
+Pergunta: Quanto é 6 - 11? 
+Resposta: -5
+Eval: acertou.
+_____
+Wed Aug 20 22:03:47 -03 2025
+Pergunta: Quanto é 15 + 2? 
+Resposta: 17
+Eval: acertou.
+_____
+Wed Aug 20 22:04:01 -03 2025
+Pergunta: Quanto é 8 x 5? 
+Resposta: 40
+Eval: acertou.
+_____
+Wed Aug 20 22:04:45 -03 2025
+Pergunta: Quanto é 10 x 6? 
+Resposta: 60
+Eval: acertou.
+_____
+Wed Aug 20 22:05:44 -03 2025
+Pergunta: Quanto é 15 + 9? 
+Resposta: 24
+Eval: acertou.
+_____
+Wed Aug 20 22:05:56 -03 2025
+Pergunta: Quanto é 3 + 1? 
+Resposta: 4
+Eval: acertou.
+_____
+Wed Aug 20 22:06:08 -03 2025
+Pergunta: Quanto é 1 - 13? 
+Resposta: -12
+Eval: acertou.
+_____
+Wed Aug 20 22:08:52 -03 2025
+Pergunta: Quanto é 4 / 8, arredondado com 0 casas decimais? 
+Resposta: 1
+Eval: acertou.
+_____
+Wed Aug 20 22:09:11 -03 2025
+Pergunta: Quanto é 1 - 3? 
+Resposta: -2
+Eval: acertou.
+_____
+Wed Aug 20 22:09:23 -03 2025
+Pergunta: Quanto é 8 - 4? 
+Resposta: 4
+Eval: acertou.
+_____
+Wed Aug 20 22:09:33 -03 2025
+Pergunta: Quanto é 8 / 4? 
+Resposta: 2
+Eval: acertou.
+_____
+Wed Aug 20 22:09:43 -03 2025
+Pergunta: Quanto é 3 x 8? 
+Resposta: 24
+Eval: acertou.
+_____
+Wed Aug 20 22:18:23 -03 2025
+Pergunta: Quanto é 5 + 12? 
+Resposta: 17
+Eval: acertou.
+_____
+Wed Aug 20 22:18:36 -03 2025
+Pergunta: Quanto é 6 x 10? 
+Resposta: 60
+Eval: acertou.
+_____
+Wed Aug 20 22:37:49 -03 2025
+Pergunta: Quanto é 7 + 8? 
+Resposta: 15
+Eval: acertou.
+_____
+Sat Aug 23 12:28:18 -03 2025
+Pergunta: Quanto é 9 - 4? 
+Resposta: 5
+Eval: acertou.
+_____
+Sat Aug 23 12:28:20 -03 2025
+Pergunta: Quanto é 0 x 11? 
+Resposta: 
+Eval: acertou.
+_____
+Sat Aug 23 12:28:23 -03 2025
+Pergunta: Quanto é 3 / 6, arredondado com 0 casas decimais? 
+Resposta: 1
+Eval: acertou.
+_____
+Sat Aug 23 12:28:28 -03 2025
+Pergunta: Quanto é 0 - 4? 
+Resposta: -4
+Eval: acertou.
+_____
+Sat Aug 23 12:28:33 -03 2025
+Pergunta: Quanto é 0 - 15? 
+Resposta: -15
+Eval: acertou.
+_____
+Sat Aug 23 12:28:45 -03 2025
+Pergunta: Quanto é 4 x 9? 
+Resposta: 36
+Eval: acertou.
+_____
+Sat Aug 23 12:28:47 -03 2025
+Pergunta: Quanto é 14 / 15, arredondado com 0 casas decimais? 
+Resposta: 1
+Eval: acertou.
+_____
+Sat Aug 23 12:28:49 -03 2025
+Pergunta: Quanto é 0 + 0? 
+Resposta: 
+Eval: acertou.
+_____
+Sat Aug 23 12:28:54 -03 2025
+Pergunta: Quanto é 4 + 8? 
+Resposta: 12
+Eval: acertou.
+_____
+Sat Aug 23 12:28:56 -03 2025
+Pergunta: Quanto é 8 - 8? 
+Resposta: 
+Eval: acertou.
+_____
+Sat Aug 23 12:29:00 -03 2025
+Pergunta: Quanto é 4 x 12? 
+Resposta: 48
+Eval: acertou.
+_____
+Sat Aug 23 12:29:05 -03 2025
+Pergunta: Quanto é 2 - 3? 
+Resposta: -1
+Eval: acertou.
+_____
+Sat Aug 23 12:29:07 -03 2025
+Pergunta: Quanto é 1 / 4, arredondado com 0 casas decimais? 
+Resposta: 
+Eval: acertou.
+_____
+Sat Aug 23 12:29:10 -03 2025
+Pergunta: Quanto é 4 + 6? 
+Resposta: 10
+Eval: acertou.
+_____
+Sat Aug 23 12:31:12 -03 2025
+Pergunta: Quanto é 0 - 13? 
+Resposta: -13
+Eval: acertou.
+_____
+Sat Aug 23 12:31:17 -03 2025
+Pergunta: Quanto é 11 + 10? 
+Resposta: 21
+Eval: acertou.
+_____
+Sat Aug 23 12:31:20 -03 2025
+Pergunta: Quanto é 7 / 1? 
+Resposta: 7
+Eval: acertou.
+_____
+Sat Aug 23 12:31:26 -03 2025
+Pergunta: Quanto é 10 - 15? 
+Resposta: -5
+Eval: acertou.
+_____
+Sat Aug 23 12:31:29 -03 2025
+Pergunta: Quanto é 11 x 11? 
+Resposta: 121
+Eval: acertou.
+_____
+Sat Aug 23 12:31:32 -03 2025
+Pergunta: Quanto é 13 - 0? 
+Resposta: 13
+Eval: acertou.
+_____
+Sat Aug 23 12:31:39 -03 2025
+Pergunta: Quanto é 5 - 12? 
+Resposta: -7
+Eval: acertou.
+_____
+Sat Aug 23 12:31:50 -03 2025
+Pergunta: Quanto é 15 - 12? 
+Resposta: 3
+Eval: acertou.
+_____
+Sat Aug 23 12:31:53 -03 2025
+Pergunta: Quanto é 8 - 8? 
+Resposta: 
+Eval: acertou.
+_____
+Sat Aug 23 12:31:57 -03 2025
+Pergunta: Quanto é 5 - 2? 
+Resposta: 3
+Eval: acertou.
+_____
+Sat Aug 23 12:32:00 -03 2025
+Pergunta: Quanto é 7 + 3? 
+Resposta: 10
+Eval: acertou.
+_____
+Sat Aug 23 12:32:08 -03 2025
+Pergunta: Quanto é 14 x 4? 
+Resposta: 56
+Eval: acertou.
+_____
+Sat Aug 23 12:32:12 -03 2025
+Pergunta: Quanto é 5 / 8, arredondado com 0 casas decimais? 
+Resposta: 1
+Eval: acertou.
+_____
+Sat Aug 23 12:32:16 -03 2025
+Pergunta: Quanto é 4 / 3, arredondado com 0 casas decimais? 
+Resposta: 1
+Eval: acertou.
+_____
+Sat Aug 23 12:38:04 -03 2025
+Pergunta: Quanto é 8 - 10? 
+Resposta: -2
+Eval: acertou.
+_____
+Sat Aug 23 12:38:14 -03 2025
+Pergunta: Quanto é 5 x 13? 
+Resposta: 65
+Eval: acertou.
+_____
+Sat Aug 23 12:38:20 -03 2025
+Pergunta: Quanto é 8 + 15? 
+Resposta: 23
+Eval: acertou.
+_____
+Sat Aug 23 12:38:24 -03 2025
+Pergunta: Quanto é 3 + 4? 
+Resposta: 7
+Eval: acertou.
+_____
+Sat Aug 23 12:38:35 -03 2025
+Pergunta: Quanto é 15 x 14? 
+Resposta: 210
+Eval: acertou.
+_____
+Sat Aug 23 12:41:55 -03 2025
+Pergunta: Quanto é 4 - 9? 
+Resposta: -5
+Eval: acertou.
+_____
+Sat Aug 23 12:41:59 -03 2025
+Pergunta: Quanto é 10 + 10? 
+Resposta: 20
+Eval: acertou.
+_____
+Sat Aug 23 12:42:02 -03 2025
+Pergunta: Quanto é 11 x 7? 
+Resposta: 77
+Eval: acertou.
+_____
+Sat Aug 23 12:42:13 -03 2025
+Pergunta: Quanto é 5 - 13? 
+Resposta: -8
+Eval: acertou.
+_____
+Sat Aug 23 12:42:22 -03 2025
+Pergunta: Quanto é 15 x 5? 
+Resposta: 75
+Eval: acertou.
+_____
+Sat Aug 23 12:42:23 -03 2025
+Pergunta: Quanto é 1 / 10, arredondado com 0 casas decimais? 
+Resposta: 
+Eval: acertou.
+_____
+Sat Aug 23 12:42:31 -03 2025
+Pergunta: Quanto é 2 x 14? 
+Resposta: 28
+Eval: acertou.
+_____
+Sat Aug 23 13:07:39 -03 2025
+Pergunta: Quanto é 3 + 15? 
+Resposta: 18
+Eval: acertou.
+_____
+Sat Aug 23 13:07:42 -03 2025
+Pergunta: Quanto é 15 / 8, arredondado com 0 casas decimais? 
+Resposta: 2
+Eval: acertou.
+_____
+Sat Aug 23 13:07:44 -03 2025
+Pergunta: Quanto é 7 / 9, arredondado com 0 casas decimais? 
+Resposta: 1
+Eval: acertou.
+_____
+Sat Aug 23 13:07:48 -03 2025
+Pergunta: Quanto é 10 x 9? 
+Resposta: 90
+Eval: acertou.
+_____
+Sat Aug 23 13:07:51 -03 2025
+Pergunta: Quanto é 9 x 1? 
+Resposta: 9
+Eval: acertou.
+_____
+Sat Aug 23 13:07:55 -03 2025
+Pergunta: Quanto é 6 + 1? 
+Resposta: 7
+Eval: acertou.
+_____
+Sat Aug 23 13:07:59 -03 2025
+Pergunta: Quanto é 1 x 13? 
+Resposta: 13
+Eval: acertou.
+_____
+Sat Aug 23 13:08:01 -03 2025
+Pergunta: Quanto é 10 + 2? 
+Resposta: 12
+Eval: acertou.
+_____
+Sat Aug 23 13:08:13 -03 2025
+Pergunta: Quanto é 5 + 3? 
+Resposta: 8
+Eval: acertou.
+_____
+Sat Aug 23 13:08:16 -03 2025
+Pergunta: Quanto é 9 + 5? 
+Resposta: 14
+Eval: acertou.
+_____
+Sat Aug 23 13:08:18 -03 2025
+Pergunta: Quanto é 4 + 0? 
+Resposta: 4
+Eval: acertou.
+_____
+Sat Aug 23 13:08:22 -03 2025
+Pergunta: Quanto é 7 - 8? 
+Resposta: -1
+Eval: acertou.
+_____
+Sat Aug 23 13:08:27 -03 2025
+Pergunta: Quanto é 14 - 7? 
+Resposta: 7
+Eval: acertou.
+_____
+Sat Aug 23 13:08:29 -03 2025
+Pergunta: Quanto é 1 x 1? 
+Resposta: 1
+Eval: acertou.
+_____
+Sat Aug 23 13:08:33 -03 2025
+Pergunta: Quanto é 7 / 11, arredondado com 0 casas decimais? 
+Resposta: 1
+Eval: acertou.
+_____
+Sat Aug 23 13:08:36 -03 2025
+Pergunta: Quanto é 1 - 5? 
+Resposta: -4
+Eval: acertou.
+_____
+Sat Aug 23 13:08:41 -03 2025
+Pergunta: Quanto é 3 - 9? 
+Resposta: -6
+Eval: acertou.
+_____
+Sat Aug 23 13:08:45 -03 2025
+Pergunta: Quanto é 5 x 14? 
+Resposta: 70
+Eval: acertou.
+_____
+Sat Aug 23 13:12:08 -03 2025
+Pergunta: Quanto é 9 x 5? 
+Resposta: 45
+Eval: acertou.
+_____
+Sat Aug 23 13:12:11 -03 2025
+Pergunta: Quanto é 6 x 10? 
+Resposta: 60
+Eval: acertou.
+_____
+Sat Aug 23 13:12:15 -03 2025
+Pergunta: Quanto é 2 + 14? 
+Resposta: 16
+Eval: acertou.
+_____
+Sat Aug 23 13:12:23 -03 2025
+Pergunta: Quanto é 11 + 9? 
+Resposta: 20
+Eval: acertou.
+_____
+Sat Aug 23 13:12:25 -03 2025
+Pergunta: Quanto é 1 + 7? 
+Resposta: 8
+Eval: acertou.
+_____
+Sat Aug 23 13:12:29 -03 2025
+Pergunta: Quanto é 8 + 14? 
+Resposta: 22
+Eval: acertou.
+_____
+Sat Aug 23 13:12:31 -03 2025
+Pergunta: Quanto é 11 / 11? 
+Resposta: 1
+Eval: acertou.
+_____
+Sat Aug 23 13:12:34 -03 2025
+Pergunta: Quanto é 1 - 12? 
+Resposta: -11
+Eval: acertou.
+_____
+Sat Aug 23 13:12:36 -03 2025
+Pergunta: Quanto é 11 + 0? 
+Resposta: 11
+Eval: acertou.
+_____
+Sat Aug 23 13:12:39 -03 2025
+Pergunta: Quanto é 15 - 13? 
+Resposta: 2
+Eval: acertou.
+_____
+Sat Aug 23 13:12:54 -03 2025
+Pergunta: Quanto é 3 x 14? 
+Resposta: 42
+Eval: acertou.
+_____
+Sat Aug 23 13:13:00 -03 2025
+Pergunta: Quanto é 7 + 5? 
+Resposta: 12
+Eval: acertou.
+_____
+Sat Aug 23 13:13:04 -03 2025
+Pergunta: Quanto é 14 + 15? 
+Resposta: 29
+Eval: acertou.
+_____
+Sat Aug 23 13:13:08 -03 2025
+Pergunta: Quanto é 12 x 10? 
+Resposta: 120
+Eval: acertou.
+_____
+Sat Aug 23 13:13:13 -03 2025
+Pergunta: Quanto é 4 + 7? 
+Resposta: 11
+Eval: acertou.
+_____
+Sat Aug 23 13:13:17 -03 2025
+Pergunta: Quanto é 4 x 12? 
+Resposta: 48
+Eval: acertou.
+_____
+Sat Aug 23 13:13:22 -03 2025
+Pergunta: Quanto é 15 x 1? 
+Resposta: 15
+Eval: acertou.
+_____
+Sat Aug 23 13:13:23 -03 2025
+Pergunta: Quanto é 13 x 0? 
+Resposta: 
+Eval: acertou.
+_____
+Sat Aug 23 13:13:30 -03 2025
+Pergunta: Quanto é 9 x 15? 
+Resposta: 135
+Eval: acertou.
+_____
+Sat Aug 23 13:13:33 -03 2025
+Pergunta: Quanto é 10 + 0? 
+Resposta: 10
+Eval: acertou.
+_____
+Sat Aug 23 13:13:48 -03 2025
+Pergunta: Quanto é 5 + 4? 
+Resposta: 9
+Eval: acertou.
+_____
+Sat Aug 23 13:15:30 -03 2025
+Pergunta: Quanto é 13 x 3? 
+Resposta: 39
+Eval: acertou.
+_____
+Sat Aug 23 13:15:35 -03 2025
+Pergunta: Quanto é 5 + 13? 
+Resposta: 18
+Eval: acertou.
+_____
+Sat Aug 23 13:15:39 -03 2025
+Pergunta: Quanto é 7 x 7? 
+Resposta: 49
+Eval: acertou.
+_____
+Sat Aug 23 13:15:41 -03 2025
+Pergunta: Quanto é 9 + 1? 
+Resposta: 10
+Eval: acertou.
+_____
+Sat Aug 23 13:15:45 -03 2025
+Pergunta: Quanto é 10 - 15? 
+Resposta: -5
+Eval: acertou.
+_____
+Sat Aug 23 13:15:50 -03 2025
+Pergunta: Quanto é 11 + 6? 
+Resposta: 17
+Eval: acertou.
+_____
+Sat Aug 23 13:15:54 -03 2025
+Pergunta: Quanto é 8 - 2? 
+Resposta: 6
+Eval: acertou.
+_____
+Sat Aug 23 13:19:45 -03 2025
+Pergunta: Quanto é 2 x 8? 
+Resposta: 16
+Eval: acertou.
+_____
+Sat Aug 23 13:19:48 -03 2025
+Pergunta: Quanto é 5 + 10? 
+Resposta: 15
+Eval: acertou.
+_____
+Sat Aug 23 13:19:50 -03 2025
+Pergunta: Quanto é 9 / 9? 
+Resposta: 1
+Eval: acertou.
+_____
+Sat Aug 23 13:19:55 -03 2025
+Pergunta: Quanto é 8 - 4? 
+Resposta: 4
+Eval: acertou.
+_____
+Sat Aug 23 13:19:58 -03 2025
+Pergunta: Quanto é 12 / 6? 
+Resposta: 2
+Eval: acertou.
+_____
+Sat Aug 23 13:20:01 -03 2025
+Pergunta: Quanto é 4 x 7? 
+Resposta: 28
+Eval: acertou.
+_____
+Sat Aug 23 13:20:06 -03 2025
+Pergunta: Quanto é 8 - 14? 
+Resposta: -6
+Eval: acertou.
+_____
+Sat Aug 23 13:20:08 -03 2025
+Pergunta: Quanto é 8 / 4? 
+Resposta: 2
+Eval: acertou.
+_____
+Sat Aug 23 13:20:11 -03 2025
+Pergunta: Quanto é 10 x 10? 
+Resposta: 100
+Eval: acertou.
+_____
+Sat Aug 23 13:20:16 -03 2025
+Pergunta: Quanto é 5 - 13? 
+Resposta: -8
+Eval: acertou.
+_____
+Sat Aug 23 13:20:21 -03 2025
+Pergunta: Quanto é 9 + 10? 
+Resposta: 19
+Eval: acertou.
+_____
+Sat Aug 23 13:20:25 -03 2025
+Pergunta: Quanto é 3 / 2, arredondado com 0 casas decimais? 
+Resposta: 2
+Eval: acertou.
+_____
+Sat Aug 23 13:20:27 -03 2025
+Pergunta: Quanto é 10 - 10? 
+Resposta: 
+Eval: acertou.
+_____
+Sat Aug 23 13:20:31 -03 2025
+Pergunta: Quanto é 7 / 2, arredondado com 0 casas decimais? 
+Resposta: 4
+Eval: acertou.
+_____
+Sat Aug 23 13:20:35 -03 2025
+Pergunta: Quanto é 8 x 7? 
+Resposta: 56
+Eval: acertou.
+_____
+Sat Aug 23 13:20:37 -03 2025
+Pergunta: Quanto é 0 + 11? 
+Resposta: 11
+Eval: acertou.
+_____
+Sat Aug 23 13:20:48 -03 2025
+Pergunta: Quanto é 12 - 9? 
+Resposta: 3
+Eval: acertou.
+_____
+Sat Aug 23 13:20:51 -03 2025
+Pergunta: Quanto é 5 + 6? 
+Resposta: 11
+Eval: acertou.
+_____
+Sat Aug 23 13:25:17 -03 2025
+Pergunta: Quanto é 11 / 2, arredondado com 0 casas decimais? 
+Resposta: 6
+Eval: acertou.
+_____
+Sat Aug 23 13:25:21 -03 2025
+Pergunta: Quanto é 13 / 11, arredondado com 0 casas decimais? 
+Resposta: 1
+Eval: acertou.
+_____
+Sat Aug 23 13:25:24 -03 2025
+Pergunta: Quanto é 1 - 11? 
+Resposta: -10
+Eval: acertou.
+_____
+Sat Aug 23 13:25:27 -03 2025
+Pergunta: Quanto é 0 + 9? 
+Resposta: 9
+Eval: acertou.
+_____
+Sat Aug 23 13:25:30 -03 2025
+Pergunta: Quanto é 5 x 4? 
+Resposta: 20
+Eval: acertou.
+_____
+Sat Aug 23 13:25:33 -03 2025
+Pergunta: Quanto é 4 + 10? 
+Resposta: 14
+Eval: acertou.
+_____
+Sat Aug 23 13:25:45 -03 2025
+Pergunta: Quanto é 4 - 14? 
+Resposta: -10
+Eval: acertou.
+_____
+Sat Aug 23 13:25:54 -03 2025
+Pergunta: Quanto é 15 - 4? 
+Resposta: 11
+Eval: acertou.
+_____
+Sat Aug 23 13:26:00 -03 2025
+Pergunta: Quanto é 15 / 5? 
+Resposta: 3
+Eval: acertou.
+_____
+Sat Aug 23 13:26:04 -03 2025
+Pergunta: Quanto é 3 / 12, arredondado com 0 casas decimais? 
+Resposta: 
+Eval: acertou.
+_____
+Sat Aug 23 13:26:10 -03 2025
+Pergunta: Quanto é 3 - 13? 
+Resposta: -10
+Eval: acertou.
+_____
+Sat Aug 23 13:26:12 -03 2025
+Pergunta: Quanto é 15 x 0? 
+Resposta: 
+Eval: acertou.
+_____
+Sat Aug 23 13:26:19 -03 2025
+Pergunta: Quanto é 10 x 13? 
+Resposta: 130
+Eval: acertou.
+_____
+Sat Aug 23 13:26:22 -03 2025
+Pergunta: Quanto é 2 - 0? 
+Resposta: 2
+Eval: acertou.
+_____
+Sat Aug 23 13:26:26 -03 2025
+Pergunta: Quanto é 2 x 11? 
+Resposta: 22
+Eval: acertou.
+_____
+Sat Aug 23 13:26:28 -03 2025
+Pergunta: Quanto é 11 / 13, arredondado com 0 casas decimais? 
+Resposta: 1
+Eval: acertou.
+_____
+Sat Aug 23 13:26:30 -03 2025
+Pergunta: Quanto é 14 - 13? 
+Resposta: 1
+Eval: acertou.
+_____
+Sat Aug 23 13:26:34 -03 2025
+Pergunta: Quanto é 14 / 10, arredondado com 0 casas decimais? 
+Resposta: 1
+Eval: acertou.
+_____
+Sat Aug 23 13:26:37 -03 2025
+Pergunta: Quanto é 5 - 10? 
+Resposta: -5
+Eval: acertou.
+_____
+Sat Aug 23 13:26:42 -03 2025
+Pergunta: Quanto é 12 - 5? 
+Resposta: 7
+Eval: acertou.
+_____
+Sat Aug 23 13:32:29 -03 2025
+Pergunta: Quanto é 12 - 1? 
+Resposta: 11
+Eval: acertou.
+_____
+Sat Aug 23 13:32:44 -03 2025
+Pergunta: Quanto é 9 + 5? 
+Resposta: 14
+Eval: acertou.
+_____
+Sat Aug 23 13:32:46 -03 2025
+Pergunta: Quanto é 1 x 0? 
+Resposta: 
+Eval: acertou.
+_____
+Sat Aug 23 13:32:47 -03 2025
+Pergunta: Quanto é 0 x 15? 
+Resposta: 
+Eval: acertou.
+_____
+Sat Aug 23 15:41:33 -03 2025
+Pergunta: Quanto é 13 + 7? 
+Resposta: 20
+Eval: acertou.
+_____
+Sat Aug 23 15:41:35 -03 2025
+Pergunta: Quanto é 2 / 2? 
+Resposta: 1
+Eval: acertou.
+_____
+Sat Aug 23 15:41:39 -03 2025
+Pergunta: Quanto é 15 - 1? 
+Resposta: 14
+Eval: acertou.
+_____
+Sat Aug 23 15:41:44 -03 2025
+Pergunta: Quanto é 11 x 14? 
+Resposta: 154
+Eval: acertou.
+_____
+Sat Aug 23 15:41:50 -03 2025
+Pergunta: Quanto é 2 - 11? 
+Resposta: -9
+Eval: acertou.
+_____
+Sat Aug 23 15:41:54 -03 2025
+Pergunta: Quanto é 14 / 11, arredondado com 0 casas decimais? 
+Resposta: 1
+Eval: acertou.
+_____
+Sat Aug 23 15:41:56 -03 2025
+Pergunta: Quanto é 4 - 2? 
+Resposta: 2
+Eval: acertou.
+_____
+Sat Aug 23 15:41:59 -03 2025
+Pergunta: Quanto é 2 x 9? 
+Resposta: 18
+Eval: acertou.
+_____
+Sat Aug 23 15:42:02 -03 2025
+Pergunta: Quanto é 6 / 10, arredondado com 0 casas decimais? 
+Resposta: 1
+Eval: acertou.
+_____
+Sat Aug 23 15:42:10 -03 2025
+Pergunta: Quanto é 7 x 14? 
+Resposta: 98
+Eval: acertou.
+_____
+Sat Aug 23 15:42:15 -03 2025
+Pergunta: Quanto é 9 + 10? 
+Resposta: 19
+Eval: acertou.
+_____
+Sat Aug 23 15:57:48 -03 2025
+Pergunta: Quanto é 1 x 5? 
+Resposta: 5
+Eval: acertou.
+_____
+Sat Aug 23 15:57:52 -03 2025
+Pergunta: Quanto é 5 x 7? 
+Resposta: 35
+Eval: acertou.
+_____
+Sat Aug 23 15:57:56 -03 2025
+Pergunta: Quanto é 12 + 10? 
+Resposta: 22
+Eval: acertou.
+_____
+Sat Aug 23 15:57:58 -03 2025
+Pergunta: Quanto é 3 / 5, arredondado com 0 casas decimais? 
+Resposta: 1
+Eval: acertou.
+_____
+Sat Aug 23 15:58:01 -03 2025
+Pergunta: Quanto é 6 - 3? 
+Resposta: 3
+Eval: acertou.
+_____
+Sat Aug 23 15:58:03 -03 2025
+Pergunta: Quanto é 10 - 10? 
+Resposta: 
+Eval: acertou.
+_____
+Sat Aug 23 15:58:34 -03 2025
+Pergunta: Quanto é 3 / 9, arredondado com 0 casas decimais? 
+Resposta: 
+Eval: acertou.
+_____
+Sat Aug 23 15:58:37 -03 2025
+Pergunta: Quanto é 7 / 12, arredondado com 0 casas decimais? 
+Resposta: 1
+Eval: acertou.
+_____
+Sat Aug 23 15:58:43 -03 2025
+Pergunta: Quanto é 12 + 3? 
+Resposta: 15
+Eval: acertou.
+_____
+Sat Aug 23 15:58:46 -03 2025
+Pergunta: Quanto é 5 + 6? 
+Resposta: 11
+Eval: acertou.
+_____
+Sat Aug 23 15:58:53 -03 2025
+Pergunta: Quanto é 11 + 8? 
+Resposta: 19
+Eval: acertou.
+_____
+Sat Aug 23 15:58:56 -03 2025
+Pergunta: Quanto é 2 x 9? 
+Resposta: 18
+Eval: acertou.
+_____
+Sat Aug 23 15:58:58 -03 2025
+Pergunta: Quanto é 14 - 14? 
+Resposta: 
+Eval: acertou.
+_____
+Sat Aug 23 15:58:59 -03 2025
+Pergunta: Quanto é 1 / 13, arredondado com 0 casas decimais? 
+Resposta: 
+Eval: acertou.
+_____
+Sat Aug 23 15:59:02 -03 2025
+Pergunta: Quanto é 2 x 9? 
+Resposta: 18
+Eval: acertou.
+_____
+Sat Aug 23 15:59:06 -03 2025
+Pergunta: Quanto é 6 - 8? 
+Resposta: -2
+Eval: acertou.
+_____
+Sat Aug 23 15:59:11 -03 2025
+Pergunta: Quanto é 3 + 12? 
+Resposta: 15
+Eval: acertou.
+_____
+Sat Aug 23 15:59:13 -03 2025
+Pergunta: Quanto é 11 / 1? 
+Resposta: 11
+Eval: acertou.
+_____
+Sat Aug 23 15:59:15 -03 2025
+Pergunta: Quanto é 6 x 2? 
+Resposta: 12
+Eval: acertou.
+_____
+Sat Aug 23 15:59:29 -03 2025
+Pergunta: Quanto é 13 - 5? 
+Resposta: 8
+Eval: acertou.
+_____
+Sat Aug 23 15:59:40 -03 2025
+Pergunta: Quanto é 5 + 2? 
+Resposta: 7
+Eval: acertou.
+_____
+Sat Aug 23 15:59:42 -03 2025
+Pergunta: Quanto é 1 x 5? 
+Resposta: 5
+Eval: acertou.
+_____
+Sat Aug 23 15:59:44 -03 2025
+Pergunta: Quanto é 1 / 7, arredondado com 0 casas decimais? 
+Resposta: 
+Eval: acertou.
+_____
+Sat Aug 23 15:59:46 -03 2025
+Pergunta: Quanto é 0 x 1? 
+Resposta: 
+Eval: acertou.
+_____
+Sat Aug 23 15:59:49 -03 2025
+Pergunta: Quanto é 10 x 4? 
+Resposta: 40
+Eval: acertou.
+_____
+Sat Aug 23 15:59:55 -03 2025
+Pergunta: Quanto é 14 - 9? 
+Resposta: 5
+Eval: acertou.
+_____
+Sat Aug 23 15:59:57 -03 2025
+Pergunta: Quanto é 11 x 5? 
+Resposta: 55
+Eval: acertou.
+_____
+Sat Aug 23 15:59:59 -03 2025
+Pergunta: Quanto é 2 / 1? 
+Resposta: 2
+Eval: acertou.
+_____
+Sat Aug 23 16:00:02 -03 2025
+Pergunta: Quanto é 1 - 3? 
+Resposta: -2
+Eval: acertou.
+_____
+Sat Aug 23 16:00:03 -03 2025
+Pergunta: Quanto é 1 / 6, arredondado com 0 casas decimais? 
+Resposta: 
+Eval: acertou.
+_____
+Sat Aug 23 16:00:07 -03 2025
+Pergunta: Quanto é 3 / 6, arredondado com 0 casas decimais? 
+Resposta: 1
+Eval: acertou.
+_____
+Sat Aug 23 16:00:12 -03 2025
+Pergunta: Quanto é 13 x 4? 
+Resposta: 52
+Eval: acertou.
+_____
+Sat Aug 23 16:00:14 -03 2025
+Pergunta: Quanto é 4 - 3? 
+Resposta: 1
+Eval: acertou.
+_____
+Sat Aug 23 16:05:07 -03 2025
+Pergunta: Quanto é 6 / 13, arredondado com 0 casas decimais? 
+Resposta: 
+Eval: acertou.
+_____
+Sat Aug 23 16:05:11 -03 2025
+Pergunta: Quanto é 8 + 10? 
+Resposta: 18
+Eval: acertou.
+_____
+Sat Aug 23 16:05:43 -03 2025
+Pergunta: Quanto é 12 / 4? 
+Resposta: 3
+Eval: acertou.
+_____
+Sat Aug 23 16:05:44 -03 2025
+Pergunta: Quanto é 0 / 15? 
+Resposta: 
+Eval: acertou.
+_____
+Sat Aug 23 16:05:50 -03 2025
+Pergunta: Quanto é 4 / 15, arredondado com 0 casas decimais? 
+Resposta: 
+Eval: acertou.
+_____
+Sat Aug 23 16:05:54 -03 2025
+Pergunta: Quanto é 6 - 9? 
+Resposta: -3
+Eval: acertou.
+_____
+Sat Aug 23 16:05:56 -03 2025
+Pergunta: Quanto é 9 x 1? 
+Resposta: 9
+Eval: acertou.
+_____
+Sat Aug 23 16:06:13 -03 2025
+Pergunta: Quanto é 8 + 9? 
+Resposta: 17
+Eval: acertou.
+_____
+Sat Aug 23 16:06:18 -03 2025
+Pergunta: Quanto é 11 - 15? 
+Resposta: -4
+Eval: acertou.
+_____
+Sat Aug 23 16:06:20 -03 2025
+Pergunta: Quanto é 13 x 0? 
+Resposta: 
+Eval: acertou.
+_____
+Sat Aug 23 16:06:24 -03 2025
+Pergunta: Quanto é 14 / 12, arredondado com 0 casas decimais? 
+Resposta: 1
+Eval: acertou.
+_____
+Sat Aug 23 16:06:27 -03 2025
+Pergunta: Quanto é 1 - 4? 
+Resposta: -3
+Eval: acertou.
+_____
+Sat Aug 23 16:06:38 -03 2025
+Pergunta: Quanto é 5 / 13, arredondado com 0 casas decimais? 
+Resposta: 
+Eval: acertou.
+_____
+Sat Aug 23 16:06:57 -03 2025
+Pergunta: Quanto é 15 / 10, arredondado com 0 casas decimais? 
+Resposta: 2
+Eval: acertou.
+_____
+Sat Aug 23 16:07:04 -03 2025
+Pergunta: Quanto é 4 - 10? 
+Resposta: -6
+Eval: acertou.
+_____
+Sat Aug 23 16:07:05 -03 2025
+Pergunta: Quanto é 0 x 6? 
+Resposta: 
+Eval: acertou.
+_____
+Sat Aug 23 16:07:09 -03 2025
+Pergunta: Quanto é 11 x 10? 
+Resposta: 110
+Eval: acertou.
+_____
+Sat Aug 23 16:07:22 -03 2025
+Pergunta: Quanto é 10 - 15? 
+Resposta: -5
+Eval: acertou.
+_____
+Sat Aug 23 16:07:26 -03 2025
+Pergunta: Quanto é 3 / 6, arredondado com 0 casas decimais? 
+Resposta: 1
+Eval: acertou.
+_____
+Sat Aug 23 16:07:29 -03 2025
+Pergunta: Quanto é 3 - 2? 
+Resposta: 1
+Eval: acertou.
+_____
+Sat Aug 23 16:07:31 -03 2025
+Pergunta: Quanto é 5 - 0? 
+Resposta: 5
+Eval: acertou.
+_____
+Sat Aug 23 16:07:35 -03 2025
+Pergunta: Quanto é 8 / 7, arredondado com 0 casas decimais? 
+Resposta: 1
+Eval: acertou.
+_____
+Sat Aug 23 16:07:38 -03 2025
+Pergunta: Quanto é 6 / 10, arredondado com 0 casas decimais? 
+Resposta: 1
+Eval: acertou.
+_____
+Sat Aug 23 16:07:41 -03 2025
+Pergunta: Quanto é 11 + 9? 
+Resposta: 20
+Eval: acertou.
+_____
+Sat Aug 23 16:36:47 -03 2025
+Pergunta: Quanto é 12 x 1? 
+Resposta: 12
+Eval: acertou.
+_____
+Sat Aug 23 16:36:50 -03 2025
+Pergunta: Quanto é 6 x 10? 
+Resposta: 60
+Eval: acertou.
+_____
+Sat Aug 23 16:36:52 -03 2025
+Pergunta: Quanto é 11 + 11? 
+Resposta: 22
+Eval: acertou.
+_____
+Sat Aug 23 16:36:55 -03 2025
+Pergunta: Quanto é 11 x 11? 
+Resposta: 121
+Eval: acertou.
+_____
+Sat Aug 23 16:36:58 -03 2025
+Pergunta: Quanto é 4 / 5, arredondado com 0 casas decimais? 
+Resposta: 1
+Eval: acertou.
+_____
+Sat Aug 23 16:37:02 -03 2025
+Pergunta: Quanto é 15 x 5? 
+Resposta: 75
+Eval: acertou.
+_____
+Sat Aug 23 16:37:05 -03 2025
+Pergunta: Quanto é 12 + 12? 
+Resposta: 24
+Eval: acertou.
+_____
+Sat Aug 23 16:37:14 -03 2025
+Pergunta: Quanto é 14 - 10? 
+Resposta: 4
+Eval: acertou.
+_____
+Sat Aug 23 16:37:16 -03 2025
+Pergunta: Quanto é 1 / 1? 
+Resposta: 1
+Eval: acertou.
+_____
+Sat Aug 23 16:38:24 -03 2025
+Pergunta: Quanto é 6 - 15? 
+Resposta: -9
+Eval: acertou.
+_____
+Sat Aug 23 16:38:35 -03 2025
+Pergunta: Quanto é 13 / 8, arredondado com 0 casas decimais? 
+Resposta: 2
+Eval: acertou.
+_____
+Sat Aug 23 16:38:42 -03 2025
+Pergunta: Quanto é 11 x 12? 
+Resposta: 132
+Eval: acertou.
+_____
+Sat Aug 23 16:38:51 -03 2025
+Pergunta: Quanto é 9 - 11? 
+Resposta: -2
+Eval: acertou.
+_____
+Sat Aug 23 16:38:55 -03 2025
+Pergunta: Quanto é 15 - 13? 
+Resposta: 2
+Eval: acertou.
+_____
+Sat Aug 23 16:39:00 -03 2025
+Pergunta: Quanto é 15 / 10, arredondado com 0 casas decimais? 
+Resposta: 2
+Eval: acertou.
+_____
+Sat Aug 23 16:39:01 -03 2025
+Pergunta: Quanto é 0 / 5? 
+Resposta: 
+Eval: acertou.
+_____
+Sat Aug 23 16:39:06 -03 2025
+Pergunta: Quanto é 1 x 13? 
+Resposta: 13
+Eval: acertou.
+_____
+Sat Aug 23 16:39:15 -03 2025
+Pergunta: Quanto é 6 / 5, arredondado com 0 casas decimais? 
+Resposta: 1
+Eval: acertou.
+_____
+Sat Aug 23 16:51:32 -03 2025
+Pergunta: Quanto é 0 / 14? 
+Resposta: 
+Eval: acertou.
+_____
+Sat Aug 23 16:51:35 -03 2025
+Pergunta: Quanto é 1 / 8, arredondado com 0 casas decimais? 
+Resposta: 
+Eval: acertou.
+_____
+Sat Aug 23 16:51:38 -03 2025
+Pergunta: Quanto é 11 x 7? 
+Resposta: 77
+Eval: acertou.
+_____
+Sat Aug 23 16:55:04 -03 2025
+Pergunta: Quanto é 13 / 4, arredondado com 0 casas decimais? 
+Resposta: 3
+Eval: acertou.
+_____
+Sat Aug 23 16:55:06 -03 2025
+Pergunta: Quanto é 0 x 14? 
+Resposta: 
+Eval: acertou.
+_____
+Sat Aug 23 16:55:09 -03 2025
+Pergunta: Quanto é 3 + 4? 
+Resposta: 7
+Eval: acertou.
+_____
+Sat Aug 23 16:55:12 -03 2025
+Pergunta: Quanto é 1 + 13? 
+Resposta: 14
+Eval: acertou.
+_____
+Sat Aug 23 16:55:16 -03 2025
+Pergunta: Quanto é 6 x 10? 
+Resposta: 60
+Eval: acertou.
+_____
+Sat Aug 23 16:55:19 -03 2025
+Pergunta: Quanto é 2 x 1? 
+Resposta: 2
+Eval: acertou.
+_____
+Sat Aug 23 16:55:24 -03 2025
+Pergunta: Quanto é 6 / 15, arredondado com 0 casas decimais? 
+Resposta: 
+Eval: acertou.
+_____
+Sat Aug 23 16:55:25 -03 2025
+Pergunta: Quanto é 2 / 15, arredondado com 0 casas decimais? 
+Resposta: 
+Eval: acertou.
+_____
+Sat Aug 23 16:55:28 -03 2025
+Pergunta: Quanto é 2 / 5, arredondado com 0 casas decimais? 
+Resposta: 
+Eval: acertou.
+_____
+Sat Aug 23 16:55:31 -03 2025
+Pergunta: Quanto é 12 - 14? 
+Resposta: -2
+Eval: acertou.
+_____
+Sat Aug 23 16:55:33 -03 2025
+Pergunta: Quanto é 4 / 11, arredondado com 0 casas decimais? 
+Resposta: 
+Eval: acertou.
+_____
+Sat Aug 23 16:55:37 -03 2025
+Pergunta: Quanto é 6 + 8? 
+Resposta: 14
+Eval: acertou.
+_____
+Sat Aug 23 16:55:43 -03 2025
+Pergunta: Quanto é 2 - 10? 
+Resposta: -8
+Eval: acertou.
+_____
+Sat Aug 23 16:55:46 -03 2025
+Pergunta: Quanto é 10 x 1? 
+Resposta: 10
+Eval: acertou.
+_____
+Sat Aug 23 16:55:51 -03 2025
+Pergunta: Quanto é 2 x 4? 
+Resposta: 8
+Eval: acertou.
+_____
+Sat Aug 23 16:55:57 -03 2025
+Pergunta: Quanto é 14 + 15? 
+Resposta: 29
+Eval: acertou.
+_____
+Sat Aug 23 17:00:15 -03 2025
+Pergunta: Quanto é 2 / 9, arredondado com 0 casas decimais? 
+Resposta: 
+Eval: acertou.
+_____
+Sat Aug 23 17:00:19 -03 2025
+Pergunta: Quanto é 3 + 3? 
+Resposta: 6
+Eval: acertou.
+_____
+Sat Aug 23 17:00:22 -03 2025
+Pergunta: Quanto é 13 - 3? 
+Resposta: 10
+Eval: acertou.
+_____
+Sat Aug 23 17:00:25 -03 2025
+Pergunta: Quanto é 2 - 3? 
+Resposta: -1
+Eval: acertou.
+_____
+Sat Aug 23 17:00:28 -03 2025
+Pergunta: Quanto é 2 - 10? 
+Resposta: -8
+Eval: acertou.
+_____
+Sat Aug 23 17:00:33 -03 2025
+Pergunta: Quanto é 14 + 15? 
+Resposta: 29
+Eval: acertou.
+_____
+Sat Aug 23 17:00:36 -03 2025
+Pergunta: Quanto é 8 x 9? 
+Resposta: 72
+Eval: acertou.
+_____
+Sat Aug 23 17:00:39 -03 2025
+Pergunta: Quanto é 11 - 1? 
+Resposta: 10
+Eval: acertou.
+_____
+Sat Aug 23 17:00:45 -03 2025
+Pergunta: Quanto é 11 / 5, arredondado com 0 casas decimais? 
+Resposta: 2
+Eval: acertou.
+_____
+Sat Aug 23 17:00:52 -03 2025
+Pergunta: Quanto é 13 x 5? 
+Resposta: 65
+Eval: acertou.
+_____
+Sat Aug 23 17:00:53 -03 2025
+Pergunta: Quanto é 1 / 15, arredondado com 0 casas decimais? 
+Resposta: 
+Eval: acertou.
+_____
+Sat Aug 23 17:00:55 -03 2025
+Pergunta: Quanto é 0 / 3? 
+Resposta: 
+Eval: acertou.
+_____
+Sat Aug 23 17:00:59 -03 2025
+Pergunta: Quanto é 14 - 11? 
+Resposta: 3
+Eval: acertou.
+_____
+Sat Aug 23 17:01:00 -03 2025
+Pergunta: Quanto é 3 x 0? 
+Resposta: 
+Eval: acertou.
+_____
+Sat Aug 23 17:01:04 -03 2025
+Pergunta: Quanto é 2 - 3? 
+Resposta: -1
+Eval: acertou.
+_____
+Sat Aug 23 17:01:07 -03 2025
+Pergunta: Quanto é 12 x 10? 
+Resposta: 120
+Eval: acertou.
+_____
+Sat Aug 23 17:01:10 -03 2025
+Pergunta: Quanto é 0 + 2? 
+Resposta: 2
+Eval: acertou.
+_____
+Sat Aug 23 17:01:16 -03 2025
+Pergunta: Quanto é 11 + 4? 
+Resposta: 15
+Eval: acertou.
+_____
+Sat Aug 23 17:01:18 -03 2025
+Pergunta: Quanto é 2 / 7, arredondado com 0 casas decimais? 
+Resposta: 
+Eval: acertou.
+_____
+Sat Aug 23 17:01:21 -03 2025
+Pergunta: Quanto é 2 + 12? 
+Resposta: 14
+Eval: acertou.
+_____
+Sat Aug 23 17:01:31 -03 2025
+Pergunta: Quanto é 5 - 11? 
+Resposta: -6
+Eval: acertou.
+_____
+Sat Aug 23 17:01:42 -03 2025
+Pergunta: Quanto é 9 / 2, arredondado com 0 casas decimais? 
+Resposta: 5
+Eval: acertou.
+_____
+Sat Aug 23 17:01:47 -03 2025
+Pergunta: Quanto é 15 + 13? 
+Resposta: 28
+Eval: acertou.
+_____
+Sat Aug 23 17:01:50 -03 2025
+Pergunta: Quanto é 8 - 1? 
+Resposta: 7
+Eval: acertou.
+_____
+Sat Aug 23 17:01:53 -03 2025
+Pergunta: Quanto é 14 - 1? 
+Resposta: 13
+Eval: acertou.
+_____
+Sat Aug 23 17:01:57 -03 2025
+Pergunta: Quanto é 5 + 4? 
+Resposta: 9
+Eval: acertou.
+_____
+Sat Aug 23 17:02:01 -03 2025
+Pergunta: Quanto é 2 + 13? 
+Resposta: 15
+Eval: acertou.
+_____
+Sat Aug 23 17:02:03 -03 2025
+Pergunta: Quanto é 2 - 2? 
+Resposta: 
+Eval: acertou.
+_____
+Sat Aug 23 17:02:06 -03 2025
+Pergunta: Quanto é 5 + 0? 
+Resposta: 5
+Eval: acertou.
+_____
+Sat Aug 23 17:02:09 -03 2025
+Pergunta: Quanto é 13 / 1? 
+Resposta: 13
+Eval: acertou.
+_____
+Sat Aug 23 17:02:12 -03 2025
+Pergunta: Quanto é 3 x 6? 
+Resposta: 18
+Eval: acertou.
+_____
+Sat Aug 23 17:02:15 -03 2025
+Pergunta: Quanto é 10 x 13? 
+Resposta: 130
+Eval: acertou.
+_____
+Sat Aug 23 17:02:18 -03 2025
+Pergunta: Quanto é 3 + 6? 
+Resposta: 9
+Eval: acertou.
+_____
+Sat Aug 23 17:02:38 -03 2025
+Pergunta: Quanto é 13 x 8? 
+Resposta: 104
+Eval: acertou.
+_____
+Sat Aug 23 17:02:44 -03 2025
+Pergunta: Quanto é 13 / 8, arredondado com 0 casas decimais? 
+Resposta: 2
+Eval: acertou.
+_____
+Sat Aug 23 17:02:47 -03 2025
+Pergunta: Quanto é 15 - 14? 
+Resposta: 1
+Eval: acertou.
+_____
+Sat Aug 23 17:02:49 -03 2025
+Pergunta: Quanto é 1 + 1? 
+Resposta: 2
+Eval: acertou.
+_____
+Sat Aug 23 17:02:52 -03 2025
+Pergunta: Quanto é 14 / 2? 
+Resposta: 7
+Eval: acertou.
+_____
+Sat Aug 23 17:02:56 -03 2025
+Pergunta: Quanto é 11 + 5? 
+Resposta: 16
+Eval: acertou.
+_____
+Sat Aug 23 17:03:00 -03 2025
+Pergunta: Quanto é 10 - 6? 
+Resposta: 4
+Eval: acertou.
+_____
+Sat Aug 23 17:03:06 -03 2025
+Pergunta: Quanto é 8 - 5? 
+Resposta: 3
+Eval: acertou.
+_____
+Sat Aug 23 17:03:11 -03 2025
+Pergunta: Quanto é 12 - 15? 
+Resposta: -3
+Eval: acertou.
+_____
+Sat Aug 23 17:03:14 -03 2025
+Pergunta: Quanto é 15 / 13, arredondado com 0 casas decimais? 
+Resposta: 1
+Eval: acertou.
+_____
+Sat Aug 23 17:03:21 -03 2025
+Pergunta: Quanto é 5 - 8? 
+Resposta: -3
+Eval: acertou.
+_____
+Sat Aug 23 17:03:24 -03 2025
+Pergunta: Quanto é 0 - 13? 
+Resposta: -13
+Eval: acertou.
+_____
+Sat Aug 23 17:03:31 -03 2025
+Pergunta: Quanto é 10 / 7, arredondado com 0 casas decimais? 
+Resposta: 1
+Eval: acertou.
+_____
+Sat Aug 23 17:03:36 -03 2025
+Pergunta: Quanto é 8 / 15, arredondado com 0 casas decimais? 
+Resposta: 1
+Eval: acertou.
+_____
+Sat Aug 23 17:03:42 -03 2025
+Pergunta: Quanto é 12 x 4? 
+Resposta: 48
+Eval: acertou.
+_____
+Sat Aug 23 17:03:45 -03 2025
+Pergunta: Quanto é 8 + 0? 
+Resposta: 8
+Eval: acertou.
+_____
+Sat Aug 23 17:14:40 -03 2025
+Pergunta: Quanto é 5 + 10? 
+Resposta: 15
+Eval: acertou.
+_____
+Sat Aug 23 17:14:45 -03 2025
+Pergunta: Quanto é 4 - 8? 
+Resposta: -4
+Eval: acertou.
+_____
+Sat Aug 23 17:14:46 -03 2025
+Pergunta: Quanto é 1 / 7, arredondado com 0 casas decimais? 
+Resposta: 
+Eval: acertou.
+_____
+Sat Aug 23 17:14:52 -03 2025
+Pergunta: Quanto é 11 x 12? 
+Resposta: 132
+Eval: acertou.
+_____
+Sat Aug 23 17:14:55 -03 2025
+Pergunta: Quanto é 3 + 9? 
+Resposta: 12
+Eval: acertou.
+_____
+Sat Aug 23 17:14:59 -03 2025
+Pergunta: Quanto é 6 x 9? 
+Resposta: 54
+Eval: acertou.
+_____
+Sat Aug 23 17:15:04 -03 2025
+Pergunta: Quanto é 7 / 2, arredondado com 0 casas decimais? 
+Resposta: 4
+Eval: acertou.
+_____
+Sat Aug 23 17:15:09 -03 2025
+Pergunta: Quanto é 2 - 1? 
+Resposta: 2
+Eval: errou.
+_____
+Sat Aug 23 17:15:18 -03 2025
+Pergunta: Quanto é 13 x 1? 
+Resposta: 13
+Eval: acertou.
+_____
+Sat Aug 23 17:15:20 -03 2025
+Pergunta: Quanto é 6 - 6? 
+Resposta: 
+Eval: acertou.
+_____
+Sat Aug 23 17:15:34 -03 2025
+Pergunta: Quanto é 8 - 11? 
+Resposta: -3
+Eval: acertou.
+_____
+Sat Aug 23 17:15:37 -03 2025
+Pergunta: Quanto é 2 / 3, arredondado com 0 casas decimais? 
+Resposta: 1
+Eval: acertou.
+_____
+Sat Aug 23 17:15:41 -03 2025
+Pergunta: Quanto é 6 / 14, arredondado com 0 casas decimais? 
+Resposta: 
+Eval: acertou.
+_____
+Sat Aug 23 17:15:45 -03 2025
+Pergunta: Quanto é 12 x 1? 
+Resposta: 12
+Eval: acertou.
+_____
+Sat Aug 23 17:15:51 -03 2025
+Pergunta: Quanto é 6 - 4? 
+Resposta: 2
+Eval: acertou.
+_____
+Sat Aug 23 17:15:57 -03 2025
+Pergunta: Quanto é 14 x 7? 
+Resposta: 98
+Eval: acertou.
+_____
+Sat Aug 23 17:16:00 -03 2025
+Pergunta: Quanto é 14 - 5? 
+Resposta: 9
+Eval: acertou.
+_____
+Sat Aug 23 17:17:00 -03 2025
+Pergunta: Quanto é 9 / 8, arredondado com 0 casas decimais? 
+Resposta: 1
+Eval: acertou.
+_____
+Sat Aug 23 17:17:04 -03 2025
+Pergunta: Quanto é 2 x 3? 
+Resposta: 6
+Eval: acertou.
+_____
+Sat Aug 23 17:17:07 -03 2025
+Pergunta: Quanto é 1 / 12, arredondado com 0 casas decimais? 
+Resposta: 
+Eval: acertou.
+_____
+Sat Aug 23 17:19:39 -03 2025
+Pergunta: Quanto é 9 - 13? 
+Resposta: -4
+Eval: acertou.
+_____
+Sat Aug 23 17:19:45 -03 2025
+Pergunta: Quanto é 7 - 8? 
+Resposta: -1
+Eval: acertou.
+_____
+Sat Aug 23 17:19:48 -03 2025
+Pergunta: Quanto é 8 - 6? 
+Resposta: 2
+Eval: acertou.
+_____
+Sat Aug 23 17:19:50 -03 2025
+Pergunta: Quanto é 5 + 5? 
+Resposta: 10
+Eval: acertou.
+_____
+Sat Aug 23 17:19:55 -03 2025
+Pergunta: Quanto é 4 x 13? 
+Resposta: 52
+Eval: acertou.
+_____
+Sat Aug 23 17:20:01 -03 2025
+Pergunta: Quanto é 1 + 11? 
+Resposta: 12
+Eval: acertou.
+_____
+Sat Aug 23 17:20:06 -03 2025
+Pergunta: Quanto é 4 / 10, arredondado com 0 casas decimais? 
+Resposta: 
+Eval: acertou.
+_____
+Sat Aug 23 17:20:08 -03 2025
+Pergunta: Quanto é 15 + 1? 
+Resposta: 16
+Eval: acertou.
+_____
+Sat Aug 23 17:20:11 -03 2025
+Pergunta: Quanto é 0 + 6? 
+Resposta: 6
+Eval: acertou.
+_____
+Sat Aug 23 17:20:13 -03 2025
+Pergunta: Quanto é 12 x 0? 
+Resposta: 
+Eval: acertou.
+_____
+Sat Aug 23 17:20:16 -03 2025
+Pergunta: Quanto é 5 x 9? 
+Resposta: 45
+Eval: acertou.
+_____
+Sat Aug 23 17:20:20 -03 2025
+Pergunta: Quanto é 8 x 4? 
+Resposta: 32
+Eval: acertou.
+_____
+Sat Aug 23 17:21:04 -03 2025
+Pergunta: Quanto é 10 + 14? 
+Resposta: 24
+Eval: acertou.
+_____
+Sat Aug 23 17:21:08 -03 2025
+Pergunta: Quanto é 12 + 14? 
+Resposta: 26
+Eval: acertou.
+_____
+Sat Aug 23 17:21:12 -03 2025
+Pergunta: Quanto é 10 x 7? 
+Resposta: 70
+Eval: acertou.
+_____
+Sat Aug 23 17:21:14 -03 2025
+Pergunta: Quanto é 15 - 0? 
+Resposta: 15
+Eval: acertou.
+_____
+Sat Aug 23 17:21:17 -03 2025
+Pergunta: Quanto é 7 x 8? 
+Resposta: 56
+Eval: acertou.
+_____
+Sat Aug 23 17:21:19 -03 2025
+Pergunta: Quanto é 1 / 11, arredondado com 0 casas decimais? 
+Resposta: 
+Eval: acertou.
+_____
+Sat Aug 23 17:21:22 -03 2025
+Pergunta: Quanto é 7 - 6? 
+Resposta: 1
+Eval: acertou.
+_____
+Sat Aug 23 17:21:28 -03 2025
+Pergunta: Quanto é 7 + 6? 
+Resposta: 13
+Eval: acertou.
+_____
+Sat Aug 23 17:21:31 -03 2025
+Pergunta: Quanto é 14 / 2? 
+Resposta: 7
+Eval: acertou.
+_____
+Sat Aug 23 17:21:34 -03 2025
+Pergunta: Quanto é 12 + 3? 
+Resposta: 15
+Eval: acertou.
+_____
+Sat Aug 23 17:21:38 -03 2025
+Pergunta: Quanto é 4 + 1? 
+Resposta: 5
+Eval: acertou.
+_____
+Sat Aug 23 17:21:42 -03 2025
+Pergunta: Quanto é 3 - 9? 
+Resposta: -6
+Eval: acertou.
+_____
+Sat Aug 23 17:22:24 -03 2025
+Pergunta: Quanto é 4 - 12? 
+Resposta: -8
+Eval: acertou.
+_____
+Sat Aug 23 17:22:54 -03 2025
+Pergunta: Quanto é 3 x 14? 
+Resposta: 42
+Eval: acertou.
+_____
+Sat Aug 23 17:22:57 -03 2025
+Pergunta: Quanto é 6 x 6? 
+Resposta: 36
+Eval: acertou.
+_____
+Sat Aug 23 17:23:03 -03 2025
+Pergunta: Quanto é 4 / 8, arredondado com 0 casas decimais? 
+Resposta: 1
+Eval: acertou.
+_____
+Sat Aug 23 17:23:06 -03 2025
+Pergunta: Quanto é 4 + 1? 
+Resposta: 5
+Eval: acertou.
+_____
+Sat Aug 23 17:23:09 -03 2025
+Pergunta: Quanto é 3 x 8? 
+Resposta: 24
+Eval: acertou.
+_____
+Sat Aug 23 17:23:10 -03 2025
+Pergunta: Quanto é 1 x 1? 
+Resposta: 1
+Eval: acertou.
+_____
+Sat Aug 23 17:23:16 -03 2025
+Pergunta: Quanto é 14 x 3? 
+Resposta: 42
+Eval: acertou.
+_____
+Sat Aug 23 17:23:19 -03 2025
+Pergunta: Quanto é 14 + 5? 
+Resposta: 19
+Eval: acertou.
+_____
+Sat Aug 23 17:23:23 -03 2025
+Pergunta: Quanto é 10 - 15? 
+Resposta: -5
+Eval: acertou.
+_____
+Sat Aug 23 17:23:28 -03 2025
+Pergunta: Quanto é 13 / 3, arredondado com 0 casas decimais? 
+Resposta: 4
+Eval: acertou.
+_____
+Sat Aug 23 17:23:33 -03 2025
+Pergunta: Quanto é 2 - 4? 
+Resposta: -2
+Eval: acertou.
+_____
+Sat Aug 23 17:23:36 -03 2025
+Pergunta: Quanto é 6 x 4? 
+Resposta: 24
+Eval: acertou.
+_____
+Sat Aug 23 17:36:09 -03 2025
+Pergunta: Quanto é 5 + 14? 
+Resposta: 19
+Eval: acertou.
+_____
+Sat Aug 23 17:36:13 -03 2025
+Pergunta: Quanto é 9 - 12? 
+Resposta: -3
+Eval: acertou.
+_____
+Sat Aug 23 17:36:17 -03 2025
+Pergunta: Quanto é 5 / 3, arredondado com 0 casas decimais? 
+Resposta: 2
+Eval: acertou.
+_____
+Sat Aug 23 17:36:21 -03 2025
+Pergunta: Quanto é 4 + 7? 
+Resposta: 11
+Eval: acertou.
+_____
+Sat Aug 23 17:36:24 -03 2025
+Pergunta: Quanto é 6 x 6? 
+Resposta: 36
+Eval: acertou.
+_____
+Sat Aug 23 17:36:28 -03 2025
+Pergunta: Quanto é 7 / 12, arredondado com 0 casas decimais? 
+Resposta: 1
+Eval: acertou.
+_____
+Sat Aug 23 17:36:35 -03 2025
+Pergunta: Quanto é 8 / 3, arredondado com 0 casas decimais? 
+Resposta: 3
+Eval: acertou.
+_____
+Sat Aug 23 17:36:39 -03 2025
+Pergunta: Quanto é 3 + 9? 
+Resposta: 12
+Eval: acertou.
+_____
+Sat Aug 23 17:36:43 -03 2025
+Pergunta: Quanto é 7 - 5? 
+Resposta: 2
+Eval: acertou.
+_____
+Sat Aug 23 17:36:45 -03 2025
+Pergunta: Quanto é 11 / 10, arredondado com 0 casas decimais? 
+Resposta: 1
+Eval: acertou.
+_____
+Sat Aug 23 17:36:48 -03 2025
+Pergunta: Quanto é 6 - 3? 
+Resposta: 3
+Eval: acertou.
+_____
+Sat Aug 23 17:36:51 -03 2025
+Pergunta: Quanto é 1 x 10? 
+Resposta: 10
+Eval: acertou.
+_____
+Sat Aug 23 17:41:10 -03 2025
+Pergunta: Quanto é 7 - 4? 
+Resposta: 3
+Eval: acertou.
+_____
+Sat Aug 23 17:41:13 -03 2025
+Pergunta: Quanto é 2 / 3, arredondado com 0 casas decimais? 
+Resposta: 1
+Eval: acertou.
+_____
+Sat Aug 23 17:41:15 -03 2025
+Pergunta: Quanto é 6 - 0? 
+Resposta: 6
+Eval: acertou.
+_____
+Sat Aug 23 17:41:17 -03 2025
+Pergunta: Quanto é 11 - 10? 
+Resposta: 1
+Eval: acertou.
+_____
+Sat Aug 23 17:41:20 -03 2025
+Pergunta: Quanto é 1 - 15? 
+Resposta: -14
+Eval: acertou.
+_____
+Sat Aug 23 17:41:23 -03 2025
+Pergunta: Quanto é 5 / 7, arredondado com 0 casas decimais? 
+Resposta: 1
+Eval: acertou.
+_____
+Sat Aug 23 17:41:26 -03 2025
+Pergunta: Quanto é 12 - 2? 
+Resposta: 10
+Eval: acertou.
+_____
+Sat Aug 23 17:41:29 -03 2025
+Pergunta: Quanto é 11 + 2? 
+Resposta: 13
+Eval: acertou.
+_____
+Sat Aug 23 17:41:33 -03 2025
+Pergunta: Quanto é 3 + 6? 
+Resposta: 9
+Eval: acertou.
+_____
+Sat Aug 23 17:41:36 -03 2025
+Pergunta: Quanto é 14 / 2? 
+Resposta: 7
+Eval: acertou.
+_____
+Sat Aug 23 17:41:41 -03 2025
+Pergunta: Quanto é 13 x 2? 
+Resposta: 26
+Eval: acertou.
+_____
+Sat Aug 23 17:41:43 -03 2025
+Pergunta: Quanto é 0 + 5? 
+Resposta: 5
+Eval: acertou.
+_____
+Sat Aug 23 17:41:46 -03 2025
+Pergunta: Quanto é 1 x 12? 
+Resposta: 12
+Eval: acertou.
+_____
+Sat Aug 23 17:41:49 -03 2025
+Pergunta: Quanto é 8 - 4? 
+Resposta: 4
+Eval: acertou.
+_____
+Sat Aug 23 17:41:54 -03 2025
+Pergunta: Quanto é 14 + 7? 
+Resposta: 21
+Eval: acertou.
+_____
+Sat Aug 23 17:41:58 -03 2025
+Pergunta: Quanto é 8 - 6? 
+Resposta: 2
+Eval: acertou.
+_____
+Sat Aug 23 17:42:01 -03 2025
+Pergunta: Quanto é 10 - 7? 
+Resposta: 3
+Eval: acertou.
+_____
+Sat Aug 23 17:42:03 -03 2025
+Pergunta: Quanto é 8 + 0? 
+Resposta: 8
+Eval: acertou.
+_____
+Sat Aug 23 17:42:11 -03 2025
+Pergunta: Quanto é 9 x 10? 
+Resposta: 90
+Eval: acertou.
+_____
+Sat Aug 23 17:42:15 -03 2025
+Pergunta: Quanto é 1 + 13? 
+Resposta: 14
+Eval: acertou.
+_____
+Sat Aug 23 17:42:17 -03 2025
+Pergunta: Quanto é 15 / 1? 
+Resposta: 15
+Eval: acertou.
+_____
+Sat Aug 23 17:42:24 -03 2025
+Pergunta: Quanto é 11 x 14? 
+Resposta: 154
+Eval: acertou.
+_____
+Sat Aug 23 17:42:28 -03 2025
+Pergunta: Quanto é 4 + 0? 
+Resposta: 4
+Eval: acertou.
+_____
+Sat Aug 23 17:42:35 -03 2025
+Pergunta: Quanto é 10 / 5? 
+Resposta: 2
+Eval: acertou.
+_____
+Sat Aug 23 17:42:38 -03 2025
+Pergunta: Quanto é 6 / 3? 
+Resposta: 2
+Eval: acertou.
+_____
+Sat Aug 23 17:42:41 -03 2025
+Pergunta: Quanto é 13 - 14? 
+Resposta: -1
+Eval: acertou.
+_____
+Sat Aug 23 17:42:46 -03 2025
+Pergunta: Quanto é 13 x 4? 
+Resposta: 52
+Eval: acertou.
+_____
+Sat Aug 23 17:42:50 -03 2025
+Pergunta: Quanto é 15 + 0? 
+Resposta: 15
+Eval: acertou.
+_____
+Sat Aug 23 17:42:55 -03 2025
+Pergunta: Quanto é 5 - 7? 
+Resposta: -2
+Eval: acertou.
+_____
+Sat Aug 23 17:43:01 -03 2025
+Pergunta: Quanto é 14 + 13? 
+Resposta: 27
+Eval: acertou.
+_____
+Sat Aug 23 17:43:05 -03 2025
+Pergunta: Quanto é 5 / 13, arredondado com 0 casas decimais? 
+Resposta: 
+Eval: acertou.
+_____
+Sat Aug 23 17:43:08 -03 2025
+Pergunta: Quanto é 7 - 0? 
+Resposta: 7
+Eval: acertou.
+_____
+Sat Aug 23 17:43:11 -03 2025
+Pergunta: Quanto é 11 + 13? 
+Resposta: 24
+Eval: acertou.
+_____
+Sat Aug 23 17:43:15 -03 2025
+Pergunta: Quanto é 10 x 14? 
+Resposta: 140
+Eval: acertou.
+_____
+Sat Aug 23 17:43:18 -03 2025
+Pergunta: Quanto é 13 - 9? 
+Resposta: 4
+Eval: acertou.
+_____
+Sat Aug 23 17:43:20 -03 2025
+Pergunta: Quanto é 2 / 6, arredondado com 0 casas decimais? 
+Resposta: 
+Eval: acertou.
+_____
+Sat Aug 23 17:43:23 -03 2025
+Pergunta: Quanto é 8 / 11, arredondado com 0 casas decimais? 
+Resposta: 1
+Eval: acertou.
+_____
+Sat Aug 23 17:43:30 -03 2025
+Pergunta: Quanto é 5 - 7? 
+Resposta: -2
+Eval: acertou.
+_____
+Sat Aug 23 17:43:35 -03 2025
+Pergunta: Quanto é 6 / 12, arredondado com 0 casas decimais? 
+Resposta: 1
+Eval: acertou.
+_____
+Sat Aug 23 17:43:38 -03 2025
+Pergunta: Quanto é 5 x 9? 
+Resposta: 45
+Eval: acertou.
+_____
+Sat Aug 23 17:43:40 -03 2025
+Pergunta: Quanto é 1 / 10, arredondado com 0 casas decimais? 
+Resposta: 
+Eval: acertou.
+_____
+Sat Aug 23 17:43:53 -03 2025
+Pergunta: Quanto é 7 - 13? 
+Resposta: -6
+Eval: acertou.
+_____
+Sat Aug 23 17:43:58 -03 2025
+Pergunta: Quanto é 13 / 2, arredondado com 0 casas decimais? 
+Resposta: 7
+Eval: acertou.
+_____
+Sat Aug 23 20:54:14 -03 2025
+Pergunta: Quanto é 15 - 10? 
+Resposta: 5
+Eval: acertou.
+_____
+Sat Aug 23 20:54:21 -03 2025
+Pergunta: Quanto é 8 + 11? 
+Resposta: 19
+Eval: acertou.
+_____
+Sat Aug 23 20:54:23 -03 2025
+Pergunta: Quanto é 1 + 2? 
+Resposta: 3
+Eval: acertou.
+_____
+Sat Aug 23 20:54:26 -03 2025
+Pergunta: Quanto é 3 - 9? 
+Resposta: -6
+Eval: acertou.
+_____
+Sat Aug 23 20:54:28 -03 2025
+Pergunta: Quanto é 11 / 13, arredondado com 0 casas decimais? 
+Resposta: 1
+Eval: acertou.
+_____
+Sat Aug 23 20:54:31 -03 2025
+Pergunta: Quanto é 14 - 13? 
+Resposta: 1
+Eval: acertou.
+_____
+Sat Aug 23 20:54:33 -03 2025
+Pergunta: Quanto é 15 x 10? 
+Resposta: 150
+Eval: acertou.
+_____
+Sat Aug 23 20:54:44 -03 2025
+Pergunta: Quanto é 15 x 7? 
+Resposta: 105
+Eval: acertou.
+_____
+Sat Aug 23 20:54:50 -03 2025
+Pergunta: Quanto é 12 - 1? 
+Resposta: 11
+Eval: acertou.
+_____
+Sat Aug 23 20:54:52 -03 2025
+Pergunta: Quanto é 1 / 1? 
+Resposta: 1
+Eval: acertou.
+_____
+Sat Aug 23 20:54:57 -03 2025
+Pergunta: Quanto é 11 + 13? 
+Resposta: 24
+Eval: acertou.
+_____
+Sat Aug 23 20:54:59 -03 2025
+Pergunta: Quanto é 3 x 0? 
+Resposta: 
+Eval: acertou.
+_____
+Sat Aug 23 20:55:06 -03 2025
+Pergunta: Quanto é 8 - 13? 
+Resposta: -5
+Eval: acertou.
+_____
+Sat Aug 23 20:55:09 -03 2025
+Pergunta: Quanto é 0 - 3? 
+Resposta: -3
+Eval: acertou.
+_____
+Sat Aug 23 20:55:11 -03 2025
+Pergunta: Quanto é 3 x 1? 
+Resposta: 3
+Eval: acertou.
+_____
+Sat Aug 23 20:55:12 -03 2025
+Pergunta: Quanto é 0 + 0? 
+Resposta: 
+Eval: acertou.
+_____
+Sat Aug 23 20:55:19 -03 2025
+Pergunta: Quanto é 11 + 2? 
+Resposta: 13
+Eval: acertou.
+_____
+Sat Aug 23 20:55:22 -03 2025
+Pergunta: Quanto é 5 + 2? 
+Resposta: 7
+Eval: acertou.
+_____
+Sat Aug 23 21:28:08 -03 2025
+Pergunta: Quanto é 15 / 2, arredondado com 0 casas decimais? 
+Resposta: 8
+Eval: acertou.
+_____
+Sat Aug 23 21:28:10 -03 2025
+Pergunta: Quanto é 11 - 12? 
+Resposta: -1
+Eval: acertou.
+_____
+Sat Aug 23 21:28:16 -03 2025
+Pergunta: Quanto é 5 - 14? 
+Resposta: -9
+Eval: acertou.
+_____
+Sat Aug 23 21:28:17 -03 2025
+Pergunta: Quanto é 0 / 6? 
+Resposta: 
+Eval: acertou.
+_____
+Sat Aug 23 21:28:19 -03 2025
+Pergunta: Quanto é 1 / 4, arredondado com 0 casas decimais? 
+Resposta: 
+Eval: acertou.
+_____
+Sat Aug 23 21:28:21 -03 2025
+Pergunta: Quanto é 2 + 2? 
+Resposta: 4
+Eval: acertou.
+_____
+Sat Aug 23 21:28:24 -03 2025
+Pergunta: Quanto é 10 x 10? 
+Resposta: 100
+Eval: acertou.
+_____
+Sat Aug 23 21:28:26 -03 2025
+Pergunta: Quanto é 1 + 6? 
+Resposta: 7
+Eval: acertou.
+_____
+Sat Aug 23 21:28:35 -03 2025
+Pergunta: Quanto é 3 x 15? 
+Resposta: 45
+Eval: acertou.
+_____
+Sat Aug 23 21:28:40 -03 2025
+Pergunta: Quanto é 13 / 4, arredondado com 0 casas decimais? 
+Resposta: 3
+Eval: acertou.
+_____
+Sat Aug 23 21:28:42 -03 2025
+Pergunta: Quanto é 12 / 12? 
+Resposta: 1
+Eval: acertou.
+_____
+Sat Aug 23 21:28:47 -03 2025
+Pergunta: Quanto é 6 + 10? 
+Resposta: 16
+Eval: acertou.
+_____
+Sat Aug 23 21:28:49 -03 2025
+Pergunta: Quanto é 1 / 7, arredondado com 0 casas decimais? 
+Resposta: 
+Eval: acertou.
+_____
+Sat Aug 23 21:28:57 -03 2025
+Pergunta: Quanto é 8 x 12? 
+Resposta: 96
+Eval: acertou.
+_____
+Sat Aug 23 21:29:02 -03 2025
+Pergunta: Quanto é 14 + 2? 
+Resposta: 16
+Eval: acertou.
+_____
+Sat Aug 23 21:29:05 -03 2025
+Pergunta: Quanto é 0 - 3? 
+Resposta: -3
+Eval: acertou.
+_____
+Sat Aug 23 21:29:08 -03 2025
+Pergunta: Quanto é 13 - 0? 
+Resposta: 13
+Eval: acertou.
+_____
+Sat Aug 23 21:29:10 -03 2025
+Pergunta: Quanto é 0 + 7? 
+Resposta: 7
+Eval: acertou.
+_____
+Sat Aug 23 21:29:12 -03 2025
+Pergunta: Quanto é 12 / 13, arredondado com 0 casas decimais? 
+Resposta: 1
+Eval: acertou.
+_____
+Sat Aug 23 21:29:15 -03 2025
+Pergunta: Quanto é 1 x 6? 
+Resposta: 6
+Eval: acertou.
+_____
+Sat Aug 23 21:29:18 -03 2025
+Pergunta: Quanto é 7 - 4? 
+Resposta: 3
+Eval: acertou.
+_____
+Sat Aug 23 21:29:20 -03 2025
+Pergunta: Quanto é 5 / 5? 
+Resposta: 1
+Eval: acertou.
+_____
+Sat Aug 23 21:29:23 -03 2025
+Pergunta: Quanto é 14 + 1? 
+Resposta: 15
+Eval: acertou.
+_____
+Sat Aug 23 21:29:26 -03 2025
+Pergunta: Quanto é 2 - 10? 
+Resposta: -8
+Eval: acertou.
+_____
+Sat Aug 23 21:29:35 -03 2025
+Pergunta: Quanto é 15 + 12? 
+Resposta: 27
+Eval: acertou.
+_____
+Sat Aug 23 21:29:37 -03 2025
+Pergunta: Quanto é 2 x 6? 
+Resposta: 12
+Eval: acertou.
+_____
+Sat Aug 23 21:29:39 -03 2025
+Pergunta: Quanto é 14 - 14? 
+Resposta: 
+Eval: acertou.
+_____
+Sat Aug 23 21:29:41 -03 2025
+Pergunta: Quanto é 1 / 15, arredondado com 0 casas decimais? 
+Resposta: 
+Eval: acertou.
+_____
+Sat Aug 23 21:29:44 -03 2025
+Pergunta: Quanto é 10 - 15? 
+Resposta: -5
+Eval: acertou.
+_____
+Sat Aug 23 21:29:46 -03 2025
+Pergunta: Quanto é 11 x 5? 
+Resposta: 55
+Eval: acertou.
+_____
+Sat Aug 23 21:29:49 -03 2025
+Pergunta: Quanto é 6 - 14? 
+Resposta: -8
+Eval: acertou.
+_____
+Sat Aug 23 21:29:52 -03 2025
+Pergunta: Quanto é 14 - 1? 
+Resposta: 13
+Eval: acertou.
+_____
+Sat Aug 23 21:33:26 -03 2025
+Pergunta: Quanto é 4 + 10? 
+Resposta: 14
+Eval: acertou.
+_____
+Sat Aug 23 21:33:30 -03 2025
+Pergunta: Quanto é 7 - 3? 
+Resposta: 4
+Eval: acertou.
+_____
+Sat Aug 23 21:33:34 -03 2025
+Pergunta: Quanto é 15 / 3? 
+Resposta: 5
+Eval: acertou.
+_____
+Sat Aug 23 21:33:35 -03 2025
+Pergunta: Quanto é 0 x 5? 
+Resposta: 
+Eval: acertou.
+_____
+Sat Aug 23 21:33:40 -03 2025
+Pergunta: Quanto é 12 x 8? 
+Resposta: 96
+Eval: acertou.
+_____
+Sat Aug 23 21:33:43 -03 2025
+Pergunta: Quanto é 13 x 3? 
+Resposta: 39
+Eval: acertou.
+_____
+Sat Aug 23 21:33:44 -03 2025
+Pergunta: Quanto é 13 x 0? 
+Resposta: 
+Eval: acertou.
+_____
+Sat Aug 23 21:33:46 -03 2025
+Pergunta: Quanto é 1 x 5? 
+Resposta: 5
+Eval: acertou.
+_____
+Sat Aug 23 21:33:49 -03 2025
+Pergunta: Quanto é 11 x 11? 
+Resposta: 121
+Eval: acertou.
+_____
+Sat Aug 23 21:33:52 -03 2025
+Pergunta: Quanto é 6 - 9? 
+Resposta: -3
+Eval: acertou.
+_____
+Sat Aug 23 21:33:56 -03 2025
+Pergunta: Quanto é 12 + 10? 
+Resposta: 22
+Eval: acertou.
+_____
+Sat Aug 23 21:33:58 -03 2025
+Pergunta: Quanto é 3 / 5, arredondado com 0 casas decimais? 
+Resposta: 1
+Eval: acertou.
+_____
+Sat Aug 23 21:34:01 -03 2025
+Pergunta: Quanto é 6 - 3? 
+Resposta: 3
+Eval: acertou.
+_____
+Sat Aug 23 21:34:02 -03 2025
+Pergunta: Quanto é 10 - 10? 
+Resposta: 
+Eval: acertou.
+_____
+Sat Aug 23 21:34:04 -03 2025
+Pergunta: Quanto é 1 / 13, arredondado com 0 casas decimais? 
+Resposta: 
+Eval: acertou.
+_____
+Sat Aug 23 21:34:06 -03 2025
+Pergunta: Quanto é 1 + 5? 
+Resposta: 6
+Eval: acertou.
+_____
+Sat Aug 23 21:34:09 -03 2025
+Pergunta: Quanto é 6 x 8? 
+Resposta: 48
+Eval: acertou.
+_____
+Sat Aug 23 21:34:16 -03 2025
+Pergunta: Quanto é 7 x 14? 
+Resposta: 98
+Eval: acertou.
+_____
+Sat Aug 23 21:34:20 -03 2025
+Pergunta: Quanto é 14 + 0? 
+Resposta: 14
+Eval: acertou.
+_____
+Sat Aug 23 21:34:23 -03 2025
+Pergunta: Quanto é 5 x 12? 
+Resposta: 60
+Eval: acertou.
+_____
+Sat Aug 23 21:34:28 -03 2025
+Pergunta: Quanto é 6 + 2? 
+Resposta: 8
+Eval: acertou.
+_____
+Sat Aug 23 21:34:33 -03 2025
+Pergunta: Quanto é 8 + 9? 
+Resposta: 17
+Eval: acertou.
+_____
+Sat Aug 23 21:34:41 -03 2025
+Pergunta: Quanto é 8 - 5? 
+Resposta: 3
+Eval: acertou.
+_____
+Sat Aug 23 21:34:51 -03 2025
+Pergunta: Quanto é 13 x 12? 
+Resposta: 156
+Eval: acertou.
+_____
+Sat Aug 23 21:34:55 -03 2025
+Pergunta: Quanto é 9 x 10? 
+Resposta: 90
+Eval: acertou.
+_____
+Sat Aug 23 21:34:57 -03 2025
+Pergunta: Quanto é 10 + 1? 
+Resposta: 11
+Eval: acertou.
+_____
+Sat Aug 23 21:35:00 -03 2025
+Pergunta: Quanto é 0 - 10? 
+Resposta: -10
+Eval: acertou.
+_____
+Sat Aug 23 21:35:05 -03 2025
+Pergunta: Quanto é 4 + 9? 
+Resposta: 13
+Eval: acertou.
+_____
+Sat Aug 23 21:35:08 -03 2025
+Pergunta: Quanto é 3 x 10? 
+Resposta: 30
+Eval: acertou.
+_____
+Sat Aug 23 21:35:10 -03 2025
+Pergunta: Quanto é 15 + 5? 
+Resposta: 20
+Eval: acertou.
+_____
+Sat Aug 23 21:35:14 -03 2025
+Pergunta: Quanto é 10 + 7? 
+Resposta: 17
+Eval: acertou.
+_____
+Sat Aug 23 21:35:31 -03 2025
+Pergunta: Quanto é 7 + 1? 
+Resposta: 8
+Eval: acertou.
+_____
+Sat Aug 23 21:35:34 -03 2025
+Pergunta: Quanto é 4 / 3, arredondado com 0 casas decimais? 
+Resposta: 1
+Eval: acertou.
+_____
+Sat Aug 23 21:35:51 -03 2025
+Pergunta: Quanto é 7 x 12? 
+Resposta: 84
+Eval: acertou.
+_____
+Sat Aug 23 21:35:57 -03 2025
+Pergunta: Quanto é 14 + 11? 
+Resposta: 25
+Eval: acertou.
+_____
+Sat Aug 23 21:35:59 -03 2025
+Pergunta: Quanto é 2 / 1? 
+Resposta: 2
+Eval: acertou.
+_____
+Sat Aug 23 21:36:03 -03 2025
+Pergunta: Quanto é 1 - 3? 
+Resposta: -2
+Eval: acertou.
+_____
+Sat Aug 23 21:36:07 -03 2025
+Pergunta: Quanto é 3 / 6, arredondado com 0 casas decimais? 
+Resposta: 1
+Eval: acertou.
+_____
+Sat Aug 23 21:36:15 -03 2025
+Pergunta: Quanto é 13 x 4? 
+Resposta: 52
+Eval: acertou.
+_____
+Sat Aug 23 21:36:18 -03 2025
+Pergunta: Quanto é 11 + 1? 
+Resposta: 12
+Eval: acertou.
+_____
+Sat Aug 23 21:36:21 -03 2025
+Pergunta: Quanto é 13 - 10? 
+Resposta: 3
+Eval: acertou.
+_____
+Sat Aug 23 21:36:25 -03 2025
+Pergunta: Quanto é 0 - 1? 
+Resposta: -1
+Eval: acertou.
+_____
+Sat Aug 23 21:36:27 -03 2025
+Pergunta: Quanto é 0 + 6? 
+Resposta: 6
+Eval: acertou.
+_____
+Sat Aug 23 21:36:29 -03 2025
+Pergunta: Quanto é 15 / 14, arredondado com 0 casas decimais? 
+Resposta: 1
+Eval: acertou.
+_____
+Sat Aug 23 21:36:34 -03 2025
+Pergunta: Quanto é 11 / 3, arredondado com 0 casas decimais? 
+Resposta: 4
+Eval: acertou.
+_____
+Sat Aug 23 21:36:38 -03 2025
+Pergunta: Quanto é 11 + 8? 
+Resposta: 19
+Eval: acertou.
+_____
+Sat Aug 23 21:36:41 -03 2025
+Pergunta: Quanto é 9 x 2? 
+Resposta: 18
+Eval: acertou.
+_____
+Sat Aug 23 21:36:43 -03 2025
+Pergunta: Quanto é 1 / 10, arredondado com 0 casas decimais? 
+Resposta: 
+Eval: acertou.
+_____
+Sat Aug 23 21:36:50 -03 2025
+Pergunta: Quanto é 8 + 13? 
+Resposta: 21
+Eval: acertou.
+_____
+Sat Aug 23 21:36:52 -03 2025
+Pergunta: Quanto é 11 x 7? 
+Resposta: 77
+Eval: acertou.
+_____
+Sat Aug 23 21:36:54 -03 2025
+Pergunta: Quanto é 13 / 11, arredondado com 0 casas decimais? 
+Resposta: 1
+Eval: acertou.
+_____
+Sat Aug 23 21:36:58 -03 2025
+Pergunta: Quanto é 7 + 13? 
+Resposta: 20
+Eval: acertou.
+_____
+Sat Aug 23 21:37:04 -03 2025
+Pergunta: Quanto é 12 / 6? 
+Resposta: 2
+Eval: acertou.
+_____
+Sat Aug 23 21:37:07 -03 2025
+Pergunta: Quanto é 12 x 2? 
+Resposta: 24
+Eval: acertou.
+_____
+Sat Aug 23 21:37:10 -03 2025
+Pergunta: Quanto é 9 / 1? 
+Resposta: 9
+Eval: acertou.
+_____
+Sat Aug 23 21:37:15 -03 2025
+Pergunta: Quanto é 9 + 14? 
+Resposta: 23
+Eval: acertou.
+_____
+Sat Aug 23 21:37:19 -03 2025
+Pergunta: Quanto é 15 - 8? 
+Resposta: 7
+Eval: acertou.
+_____
+Sat Aug 23 21:37:24 -03 2025
+Pergunta: Quanto é 13 / 4, arredondado com 0 casas decimais? 
+Resposta: 3
+Eval: acertou.
+_____
+Sat Aug 23 21:37:27 -03 2025
+Pergunta: Quanto é 12 / 1? 
+Resposta: 12
+Eval: acertou.
+_____
+Sat Aug 23 21:37:29 -03 2025
+Pergunta: Quanto é 5 - 9? 
+Resposta: -4
+Eval: acertou.
+_____
+Sat Aug 23 21:37:37 -03 2025
+Pergunta: Quanto é 7 + 14? 
+Resposta: 21
+Eval: acertou.
+_____
+Sat Aug 23 21:37:46 -03 2025
+Pergunta: Quanto é 12 x 12? 
+Resposta: 144
+Eval: acertou.
+_____
+Sat Aug 23 21:37:48 -03 2025
+Pergunta: Quanto é 1 x 9? 
+Resposta: 9
+Eval: acertou.
+_____
+Sat Aug 23 21:38:02 -03 2025
+Pergunta: Quanto é 13 x 11? 
+Resposta: 143
+Eval: acertou.
+_____
+Sat Aug 23 21:38:04 -03 2025
+Pergunta: Quanto é 1 / 11, arredondado com 0 casas decimais? 
+Resposta: 
+Eval: acertou.
+_____
+Sat Aug 23 21:38:06 -03 2025
+Pergunta: Quanto é 1 + 1? 
+Resposta: 2
+Eval: acertou.
+_____
+Sat Aug 23 21:51:34 -03 2025
+Pergunta: Quanto é 7 / 3, arredondado com 0 casas decimais? 
+Resposta: 2
+Eval: acertou.
+_____
+Sat Aug 23 21:51:36 -03 2025
+Pergunta: Quanto é 8 / 9, arredondado com 0 casas decimais? 
+Resposta: 1
+Eval: acertou.
+_____
+Sat Aug 23 21:51:38 -03 2025
+Pergunta: Quanto é 3 / 8, arredondado com 0 casas decimais? 
+Resposta: 
+Eval: acertou.
+_____
+Sat Aug 23 21:51:41 -03 2025
+Pergunta: Quanto é 13 - 4? 
+Resposta: 9
+Eval: acertou.
+_____
+Sat Aug 23 21:51:43 -03 2025
+Pergunta: Quanto é 12 x 1? 
+Resposta: 12
+Eval: acertou.
+_____
+Sat Aug 23 21:51:47 -03 2025
+Pergunta: Quanto é 12 - 6? 
+Resposta: 6
+Eval: acertou.
+_____
+Sat Aug 23 21:51:55 -03 2025
+Pergunta: Quanto é 14 x 9? 
+Resposta: 126
+Eval: acertou.
+_____
+Sat Aug 23 21:51:57 -03 2025
+Pergunta: Quanto é 0 / 10? 
+Resposta: 
+Eval: acertou.
+_____
+Sat Aug 23 21:51:59 -03 2025
+Pergunta: Quanto é 7 + 3? 
+Resposta: 10
+Eval: acertou.
+_____
+Sat Aug 23 21:52:01 -03 2025
+Pergunta: Quanto é 6 x 2? 
+Resposta: 12
+Eval: acertou.
+_____
+Sat Aug 23 21:52:07 -03 2025
+Pergunta: Quanto é 14 x 4? 
+Resposta: 56
+Eval: acertou.
+_____
+Sat Aug 23 21:52:10 -03 2025
+Pergunta: Quanto é 4 / 5, arredondado com 0 casas decimais? 
+Resposta: 1
+Eval: acertou.
+_____
+Sat Aug 23 21:52:12 -03 2025
+Pergunta: Quanto é 0 x 1? 
+Resposta: 
+Eval: acertou.
+_____
+Sat Aug 23 21:52:18 -03 2025
+Pergunta: Quanto é 4 / 3, arredondado com 0 casas decimais? 
+Resposta: 1
+Eval: acertou.
+_____
+Sat Aug 23 21:52:26 -03 2025
+Pergunta: Quanto é 6 + 14? 
+Resposta: 20
+Eval: acertou.
+_____
+Sat Aug 23 21:52:30 -03 2025
+Pergunta: Quanto é 15 + 1? 
+Resposta: 16
+Eval: acertou.
+_____
+Sat Aug 23 21:52:35 -03 2025
+Pergunta: Quanto é 3 / 1? 
+Resposta: 3
+Eval: acertou.
+_____
+Sat Aug 23 21:52:38 -03 2025
+Pergunta: Quanto é 15 - 14? 
+Resposta: 1
+Eval: acertou.
+_____
+Sat Aug 23 21:52:41 -03 2025
+Pergunta: Quanto é 13 / 15, arredondado com 0 casas decimais? 
+Resposta: 1
+Eval: acertou.
+_____
+Sat Aug 23 21:52:45 -03 2025
+Pergunta: Quanto é 5 + 4? 
+Resposta: 9
+Eval: acertou.
+_____
+Sat Aug 23 21:52:46 -03 2025
+Pergunta: Quanto é 0 / 7? 
+Resposta: 
+Eval: acertou.
+_____
+Sat Aug 23 21:52:50 -03 2025
+Pergunta: Quanto é 1 - 12? 
+Resposta: -11
+Eval: acertou.
+_____
+Sat Aug 23 21:52:52 -03 2025
+Pergunta: Quanto é 1 / 6, arredondado com 0 casas decimais? 
+Resposta: 
+Eval: acertou.
+_____
+Sat Aug 23 21:52:56 -03 2025
+Pergunta: Quanto é 3 + 7? 
+Resposta: 10
+Eval: acertou.
+_____
+Sat Aug 23 21:52:59 -03 2025
+Pergunta: Quanto é 6 x 8? 
+Resposta: 48
+Eval: acertou.
+_____
+Sat Aug 23 21:53:02 -03 2025
+Pergunta: Quanto é 12 / 11, arredondado com 0 casas decimais? 
+Resposta: 1
+Eval: acertou.
+_____
+Sat Aug 23 21:53:04 -03 2025
+Pergunta: Quanto é 8 / 1? 
+Resposta: 8
+Eval: acertou.
+_____
+Sat Aug 23 21:53:07 -03 2025
+Pergunta: Quanto é 4 / 12, arredondado com 0 casas decimais? 
+Resposta: 
+Eval: acertou.
+_____
+Sat Aug 23 21:53:09 -03 2025
+Pergunta: Quanto é 10 + 0? 
+Resposta: 10
+Eval: acertou.
+_____
+Sat Aug 23 21:53:13 -03 2025
+Pergunta: Quanto é 8 x 3? 
+Resposta: 24
+Eval: acertou.
+_____
+Sat Aug 23 21:53:15 -03 2025
+Pergunta: Quanto é 14 / 14? 
+Resposta: 1
+Eval: acertou.
+_____
+Sat Aug 23 21:53:18 -03 2025
+Pergunta: Quanto é 3 / 6, arredondado com 0 casas decimais? 
+Resposta: 1
+Eval: acertou.
+_____
+Sat Aug 23 21:53:21 -03 2025
+Pergunta: Quanto é 15 - 3? 
+Resposta: 12
+Eval: acertou.
+_____
+Sat Aug 23 21:53:24 -03 2025
+Pergunta: Quanto é 15 - 11? 
+Resposta: 4
+Eval: acertou.
+_____
+Sat Aug 23 21:53:28 -03 2025
+Pergunta: Quanto é 8 + 13? 
+Resposta: 21
+Eval: acertou.
+_____
+Sat Aug 23 21:53:30 -03 2025
+Pergunta: Quanto é 2 x 0? 
+Resposta: 
+Eval: acertou.
+_____
+Sat Aug 23 21:53:32 -03 2025
+Pergunta: Quanto é 7 - 3? 
+Resposta: 4
+Eval: acertou.
+_____
+Sat Aug 23 21:53:35 -03 2025
+Pergunta: Quanto é 0 - 2? 
+Resposta: -2
+Eval: acertou.
+_____
+Sat Aug 23 21:55:02 -03 2025
+Pergunta: Quanto é 11 / 9, arredondado com 0 casas decimais? 
+Resposta: 1
+Eval: acertou.
+_____
+Sat Aug 23 21:55:05 -03 2025
+Pergunta: Quanto é 6 / 12, arredondado com 0 casas decimais? 
+Resposta: 1
+Eval: acertou.
+_____
+Sat Aug 23 21:55:09 -03 2025
+Pergunta: Quanto é 11 / 2, arredondado com 0 casas decimais? 
+Resposta: 6
+Eval: acertou.
+_____
+Sat Aug 23 21:55:20 -03 2025
+Pergunta: Quanto é 13 x 9? 
+Resposta: 117
+Eval: acertou.
+_____
+Sat Aug 23 21:55:23 -03 2025
+Pergunta: Quanto é 8 - 3? 
+Resposta: 5
+Eval: acertou.
+_____
+Sat Aug 23 21:55:25 -03 2025
+Pergunta: Quanto é 1 / 7, arredondado com 0 casas decimais? 
+Resposta: 
+Eval: acertou.
+_____
+Sat Aug 23 21:55:28 -03 2025
+Pergunta: Quanto é 10 + 15? 
+Resposta: 25
+Eval: acertou.
+_____
+Sat Aug 23 21:55:29 -03 2025
+Pergunta: Quanto é 0 / 2? 
+Resposta: 
+Eval: acertou.
+_____
+Sat Aug 23 21:55:32 -03 2025
+Pergunta: Quanto é 1 x 8? 
+Resposta: 8
+Eval: acertou.
+_____
+Sat Aug 23 21:55:36 -03 2025
+Pergunta: Quanto é 15 - 8? 
+Resposta: 7
+Eval: acertou.
+_____
+Sat Aug 23 21:55:39 -03 2025
+Pergunta: Quanto é 13 + 6? 
+Resposta: 19
+Eval: acertou.
+_____
+Sat Aug 23 21:55:43 -03 2025
+Pergunta: Quanto é 11 - 14? 
+Resposta: -3
+Eval: acertou.
+_____
+Sat Aug 23 21:55:48 -03 2025
+Pergunta: Quanto é 2 + 9? 
+Resposta: 11
+Eval: acertou.
+_____
+Sat Aug 23 21:55:50 -03 2025
+Pergunta: Quanto é 13 / 13? 
+Resposta: 1
+Eval: acertou.
+_____
+Sat Aug 23 21:55:57 -03 2025
+Pergunta: Quanto é 12 x 7? 
+Resposta: 84
+Eval: acertou.
+_____
+Sat Aug 23 22:11:50 -03 2025
+Pergunta: Quanto é 5 - 5? 
+Resposta: 
+Eval: acertou.
+_____
+Sat Aug 23 22:11:52 -03 2025
+Pergunta: Quanto é 0 / 4? 
+Resposta: 
+Eval: acertou.
+_____
+Sat Aug 23 22:11:54 -03 2025
+Pergunta: Quanto é 0 / 8? 
+Resposta: 
+Eval: acertou.
+_____
+Sat Aug 23 22:11:58 -03 2025
+Pergunta: Quanto é 4 + 14? 
+Resposta: 18
+Eval: acertou.
+_____
+Sat Aug 23 22:12:08 -03 2025
+Pergunta: Quanto é 12 + 3? 
+Resposta: 15
+Eval: acertou.
+_____
+Sat Aug 23 22:13:37 -03 2025
+Pergunta: Quanto é 6 + 10? 
+Resposta: 16
+Eval: acertou.
+_____
+Sat Aug 23 22:13:40 -03 2025
+Pergunta: Quanto é 0 + 8? 
+Resposta: 8
+Eval: acertou.
+_____
+Sat Aug 23 22:13:41 -03 2025
+Pergunta: Quanto é 7 - 7? 
+Resposta: 
+Eval: acertou.
+_____
+Sat Aug 23 22:13:44 -03 2025
+Pergunta: Quanto é 8 + 15? 
+Resposta: 23
+Eval: acertou.
+_____
+Sat Aug 23 22:13:47 -03 2025
+Pergunta: Quanto é 2 - 3? 
+Resposta: -1
+Eval: acertou.
+_____
+Sat Aug 23 22:13:49 -03 2025
+Pergunta: Quanto é 13 + 0? 
+Resposta: 13
+Eval: acertou.
+_____
+Sat Aug 23 22:13:53 -03 2025
+Pergunta: Quanto é 14 + 15? 
+Resposta: 29
+Eval: acertou.
+_____
+Sat Aug 23 22:13:57 -03 2025
+Pergunta: Quanto é 5 x 8? 
+Resposta: 40
+Eval: acertou.
+_____
+Sat Aug 23 22:14:02 -03 2025
+Pergunta: Quanto é 12 x 5? 
+Resposta: 60
+Eval: acertou.
+_____
+Sat Aug 23 22:14:08 -03 2025
+Pergunta: Quanto é 15 x 6? 
+Resposta: 90
+Eval: acertou.
+_____
+Sat Aug 23 22:14:11 -03 2025
+Pergunta: Quanto é 10 - 4? 
+Resposta: 6
+Eval: acertou.
+_____
+Sat Aug 23 22:14:22 -03 2025
+Pergunta: Quanto é 10 / 8, arredondado com 0 casas decimais? 
+Resposta: 1
+Eval: acertou.
+_____
+Sat Aug 23 22:14:24 -03 2025
+Pergunta: Quanto é 8 + 1? 
+Resposta: 9
+Eval: acertou.
+_____
+Sat Aug 23 22:14:31 -03 2025
+Pergunta: Quanto é 13 / 8, arredondado com 0 casas decimais? 
+Resposta: 2
+Eval: acertou.
+_____
+Sat Aug 23 22:14:33 -03 2025
+Pergunta: Quanto é 1 + 8? 
+Resposta: 9
+Eval: acertou.
+_____
+Sat Aug 23 22:14:35 -03 2025
+Pergunta: Quanto é 1 + 3? 
+Resposta: 4
+Eval: acertou.
+_____
+Sat Aug 23 22:14:41 -03 2025
+Pergunta: Quanto é 11 x 12? 
+Resposta: 132
+Eval: acertou.
+_____
+Sat Aug 23 22:14:44 -03 2025
+Pergunta: Quanto é 13 - 8? 
+Resposta: 5
+Eval: acertou.
+_____
+Sat Aug 23 22:14:47 -03 2025
+Pergunta: Quanto é 2 + 10? 
+Resposta: 12
+Eval: acertou.
+_____
+Sat Aug 23 22:14:54 -03 2025
+Pergunta: Quanto é 11 x 15? 
+Resposta: 165
+Eval: acertou.
+_____
+Sat Aug 23 22:14:59 -03 2025
+Pergunta: Quanto é 7 / 5, arredondado com 0 casas decimais? 
+Resposta: 1
+Eval: acertou.
+_____
+Sat Aug 23 22:15:02 -03 2025
+Pergunta: Quanto é 15 - 2? 
+Resposta: 13
+Eval: acertou.
+_____
+Sat Aug 23 22:15:04 -03 2025
+Pergunta: Quanto é 2 + 3? 
+Resposta: 5
+Eval: acertou.
+_____
+Sat Aug 23 22:15:09 -03 2025
+Pergunta: Quanto é 12 - 8? 
+Resposta: 4
+Eval: acertou.
+_____
+Sat Aug 23 22:15:11 -03 2025
+Pergunta: Quanto é 4 / 3, arredondado com 0 casas decimais? 
+Resposta: 1
+Eval: acertou.
+_____
+Sat Aug 23 22:15:14 -03 2025
+Pergunta: Quanto é 6 x 2? 
+Resposta: 12
+Eval: acertou.
+_____
+Sat Aug 23 22:15:16 -03 2025
+Pergunta: Quanto é 1 / 14, arredondado com 0 casas decimais? 
+Resposta: 
+Eval: acertou.
+_____
+Sat Aug 23 22:15:25 -03 2025
+Pergunta: Quanto é 12 - 5? 
+Resposta: 7
+Eval: acertou.
+_____
+Sat Aug 23 22:15:27 -03 2025
+Pergunta: Quanto é 10 x 3? 
+Resposta: 30
+Eval: acertou.
+_____
+Sat Aug 23 22:15:31 -03 2025
+Pergunta: Quanto é 13 + 13? 
+Resposta: 26
+Eval: acertou.
+_____
+Sat Aug 23 22:15:34 -03 2025
+Pergunta: Quanto é 10 - 5? 
+Resposta: 5
+Eval: acertou.
+_____
+Sat Aug 23 22:15:37 -03 2025
+Pergunta: Quanto é 6 - 7? 
+Resposta: -1
+Eval: acertou.
+_____
+Sat Aug 23 22:15:39 -03 2025
+Pergunta: Quanto é 8 + 0? 
+Resposta: 8
+Eval: acertou.
+_____
+Sat Aug 23 22:15:42 -03 2025
+Pergunta: Quanto é 11 / 14, arredondado com 0 casas decimais? 
+Resposta: 1
+Eval: acertou.
+_____
+Sat Aug 23 22:15:44 -03 2025
+Pergunta: Quanto é 6 x 2? 
+Resposta: 12
+Eval: acertou.
+_____
+Sat Aug 23 22:15:52 -03 2025
+Pergunta: Quanto é 13 - 7? 
+Resposta: 6
+Eval: acertou.
+_____
+Sat Aug 23 22:15:53 -03 2025
+Pergunta: Quanto é 0 / 12? 
+Resposta: 
+Eval: acertou.
+_____
+Sat Aug 23 22:16:00 -03 2025
+Pergunta: Quanto é 13 / 2, arredondado com 0 casas decimais? 
+Resposta: 7
+Eval: acertou.
+_____
+Sat Aug 23 22:16:03 -03 2025
+Pergunta: Quanto é 1 - 4? 
+Resposta: -3
+Eval: acertou.
+_____
+Sat Aug 23 22:16:08 -03 2025
+Pergunta: Quanto é 5 x 15? 
+Resposta: 75
+Eval: acertou.
+_____
+Sat Aug 23 22:16:16 -03 2025
+Pergunta: Quanto é 15 - 4? 
+Resposta: 11
+Eval: acertou.
+_____
+Sat Aug 23 22:16:21 -03 2025
+Pergunta: Quanto é 13 / 13? 
+Resposta: 1
+Eval: acertou.
+_____
+Sat Aug 23 22:16:23 -03 2025
+Pergunta: Quanto é 6 x 2? 
+Resposta: 12
+Eval: acertou.
+_____
+Sat Aug 23 22:16:28 -03 2025
+Pergunta: Quanto é 8 / 4? 
+Resposta: 2
+Eval: acertou.
+_____
+Sat Aug 23 22:16:31 -03 2025
+Pergunta: Quanto é 8 / 11, arredondado com 0 casas decimais? 
+Resposta: 1
+Eval: acertou.
+_____
+Sat Aug 23 22:16:36 -03 2025
+Pergunta: Quanto é 6 + 13? 
+Resposta: 19
+Eval: acertou.
+_____
+Sat Aug 23 22:16:39 -03 2025
+Pergunta: Quanto é 11 + 1? 
+Resposta: 12
+Eval: acertou.
+_____
+Sat Aug 23 22:16:43 -03 2025
+Pergunta: Quanto é 15 - 13? 
+Resposta: 2
+Eval: acertou.
+_____
+Sat Aug 23 22:16:48 -03 2025
+Pergunta: Quanto é 3 / 2, arredondado com 0 casas decimais? 
+Resposta: 2
+Eval: acertou.
+_____
+Sat Aug 23 22:16:51 -03 2025
+Pergunta: Quanto é 9 x 2? 
+Resposta: 18
+Eval: acertou.
+_____
+Sat Aug 23 22:16:58 -03 2025
+Pergunta: Quanto é 7 - 12? 
+Resposta: -5
+Eval: acertou.
+_____
+Sat Aug 23 22:17:01 -03 2025
+Pergunta: Quanto é 13 x 3? 
+Resposta: 39
+Eval: acertou.
+_____
+Sat Aug 23 22:17:07 -03 2025
+Pergunta: Quanto é 7 x 13? 
+Resposta: 91
+Eval: acertou.
+_____
+Sat Aug 23 22:17:08 -03 2025
+Pergunta: Quanto é 0 x 10? 
+Resposta: 
+Eval: acertou.
+_____
+Sat Aug 23 22:17:10 -03 2025
+Pergunta: Quanto é 3 / 11, arredondado com 0 casas decimais? 
+Resposta: 
+Eval: acertou.
+_____
+Sat Aug 23 22:17:12 -03 2025
+Pergunta: Quanto é 8 / 9, arredondado com 0 casas decimais? 
+Resposta: 1
+Eval: acertou.
+_____
+Sat Aug 23 22:17:28 -03 2025
+Pergunta: Quanto é 9 x 14? 
+Resposta: 126
+Eval: acertou.
+_____
+Sat Aug 23 22:17:30 -03 2025
+Pergunta: Quanto é 2 + 4? 
+Resposta: 6
+Eval: acertou.
+_____
+Sat Aug 23 22:17:34 -03 2025
+Pergunta: Quanto é 8 x 2? 
+Resposta: 16
+Eval: acertou.
+_____
+Sat Aug 23 22:17:38 -03 2025
+Pergunta: Quanto é 1 - 14? 
+Resposta: -13
+Eval: acertou.
+_____
+Sat Aug 23 22:17:45 -03 2025
+Pergunta: Quanto é 7 / 15, arredondado com 0 casas decimais? 
+Resposta: 
+Eval: acertou.
+_____
+Sat Aug 23 22:17:47 -03 2025
+Pergunta: Quanto é 3 / 4, arredondado com 0 casas decimais? 
+Resposta: 1
+Eval: acertou.
+_____
+Sat Aug 23 22:17:51 -03 2025
+Pergunta: Quanto é 11 + 10? 
+Resposta: 21
+Eval: acertou.
+_____
+Sat Aug 23 22:25:47 -03 2025
+Pergunta: Quanto é 4 / 13, arredondado com 0 casas decimais? 
+Resposta: 
+Eval: acertou.
+_____
+Sat Aug 23 22:25:50 -03 2025
+Pergunta: Quanto é 7 + 14? 
+Resposta: 21
+Eval: acertou.
+_____
+Sat Aug 23 22:25:52 -03 2025
+Pergunta: Quanto é 10 + 2? 
+Resposta: 12
+Eval: acertou.
+_____
+Sat Aug 23 22:25:54 -03 2025
+Pergunta: Quanto é 4 + 2? 
+Resposta: 6
+Eval: acertou.
+_____
+Sat Aug 23 22:25:57 -03 2025
+Pergunta: Quanto é 2 - 4? 
+Resposta: -2
+Eval: acertou.
+_____
+Sat Aug 23 22:25:59 -03 2025
+Pergunta: Quanto é 15 / 1? 
+Resposta: 15
+Eval: acertou.
+_____
+Sat Aug 23 22:26:02 -03 2025
+Pergunta: Quanto é 1 + 13? 
+Resposta: 14
+Eval: acertou.
+_____
+Sat Aug 23 22:26:05 -03 2025
+Pergunta: Quanto é 9 / 15, arredondado com 0 casas decimais? 
+Resposta: 1
+Eval: acertou.
+_____
+Sat Aug 23 22:26:19 -03 2025
+Pergunta: Quanto é 9 + 5? 
+Resposta: 14
+Eval: acertou.
+_____
+Sat Aug 23 22:26:24 -03 2025
+Pergunta: Quanto é 3 + 7? 
+Resposta: 10
+Eval: acertou.
+_____
+Sat Aug 23 22:26:27 -03 2025
+Pergunta: Quanto é 7 + 10? 
+Resposta: 17
+Eval: acertou.
+_____
+Sat Aug 23 22:26:29 -03 2025
+Pergunta: Quanto é 15 x 0? 
+Resposta: 
+Eval: acertou.
+_____
+Sat Aug 23 22:26:31 -03 2025
+Pergunta: Quanto é 3 x 1? 
+Resposta: 3
+Eval: acertou.
+_____
+Sat Aug 23 22:26:35 -03 2025
+Pergunta: Quanto é 2 - 7? 
+Resposta: -5
+Eval: acertou.
+_____
+Sat Aug 23 22:26:37 -03 2025
+Pergunta: Quanto é 4 / 15, arredondado com 0 casas decimais? 
+Resposta: 
+Eval: acertou.
+_____
+Sat Aug 23 22:26:40 -03 2025
+Pergunta: Quanto é 4 + 11? 
+Resposta: 15
+Eval: acertou.
+_____
+Sat Aug 23 22:26:42 -03 2025
+Pergunta: Quanto é 4 / 4? 
+Resposta: 1
+Eval: acertou.
+_____
+Sat Aug 23 22:26:46 -03 2025
+Pergunta: Quanto é 9 + 11? 
+Resposta: 20
+Eval: acertou.
+_____
+Sat Aug 23 22:26:49 -03 2025
+Pergunta: Quanto é 5 + 14? 
+Resposta: 19
+Eval: acertou.
+_____
+Sat Aug 23 22:26:57 -03 2025
+Pergunta: Quanto é 12 x 4? 
+Resposta: 48
+Eval: acertou.
+_____
+Sat Aug 23 22:27:00 -03 2025
+Pergunta: Quanto é 3 + 4? 
+Resposta: 7
+Eval: acertou.
+_____
+Sat Aug 23 22:27:04 -03 2025
+Pergunta: Quanto é 12 + 5? 
+Resposta: 17
+Eval: acertou.
+_____
+Sat Aug 23 22:27:10 -03 2025
+Pergunta: Quanto é 4 - 12? 
+Resposta: -8
+Eval: acertou.
+_____
+Sat Aug 23 22:27:13 -03 2025
+Pergunta: Quanto é 7 / 12, arredondado com 0 casas decimais? 
+Resposta: 1
+Eval: acertou.
+_____
+Sat Aug 23 22:27:17 -03 2025
+Pergunta: Quanto é 2 x 12? 
+Resposta: 24
+Eval: acertou.
+_____
+Sat Aug 23 22:27:22 -03 2025
+Pergunta: Quanto é 3 - 9? 
+Resposta: -6
+Eval: acertou.
+_____
+Sat Aug 23 22:27:33 -03 2025
+Pergunta: Quanto é 14 x 13? 
+Resposta: 182
+Eval: acertou.
+_____
+Sat Aug 23 22:27:35 -03 2025
+Pergunta: Quanto é 4 + 0? 
+Resposta: 4
+Eval: acertou.
+_____
+Sat Aug 23 22:27:37 -03 2025
+Pergunta: Quanto é 11 x 3? 
+Resposta: 33
+Eval: acertou.
+_____
+Sat Aug 23 22:27:40 -03 2025
+Pergunta: Quanto é 2 - 14? 
+Resposta: -12
+Eval: acertou.
+_____
+Sat Aug 23 22:27:42 -03 2025
+Pergunta: Quanto é 9 x 1? 
+Resposta: 9
+Eval: acertou.
+_____
+Sat Aug 23 22:27:44 -03 2025
+Pergunta: Quanto é 7 / 9, arredondado com 0 casas decimais? 
+Resposta: 1
+Eval: acertou.
+_____
+Sat Aug 23 22:27:47 -03 2025
+Pergunta: Quanto é 10 x 9? 
+Resposta: 90
+Eval: acertou.
+_____
+Sat Aug 23 22:27:50 -03 2025
+Pergunta: Quanto é 9 - 2? 
+Resposta: 7
+Eval: acertou.
+_____
+Sat Aug 23 22:27:52 -03 2025
+Pergunta: Quanto é 4 + 1? 
+Resposta: 5
+Eval: acertou.
+_____
+Sat Aug 23 22:27:57 -03 2025
+Pergunta: Quanto é 4 + 14? 
+Resposta: 18
+Eval: acertou.
+_____
+Sat Aug 23 22:27:59 -03 2025
+Pergunta: Quanto é 8 / 1? 
+Resposta: 8
+Eval: acertou.
+_____
+Sat Aug 23 22:28:01 -03 2025
+Pergunta: Quanto é 10 + 2? 
+Resposta: 12
+Eval: acertou.
+_____
+Sat Aug 23 22:28:04 -03 2025
+Pergunta: Quanto é 12 - 2? 
+Resposta: 10
+Eval: acertou.
+_____
+Sat Aug 23 22:28:07 -03 2025
+Pergunta: Quanto é 5 + 3? 
+Resposta: 8
+Eval: acertou.
+_____
+Sat Aug 23 22:28:11 -03 2025
+Pergunta: Quanto é 4 - 1? 
+Resposta: 3
+Eval: acertou.
+_____
+Sat Aug 23 22:28:13 -03 2025
+Pergunta: Quanto é 0 + 2? 
+Resposta: 2
+Eval: acertou.
+_____
+Sat Aug 23 22:28:19 -03 2025
+Pergunta: Quanto é 9 + 5? 
+Resposta: 14
+Eval: acertou.
+_____
+Sat Aug 23 22:28:21 -03 2025
+Pergunta: Quanto é 8 + 8? 
+Resposta: 16
+Eval: acertou.
+_____
+Sat Aug 23 22:28:23 -03 2025
+Pergunta: Quanto é 4 x 2? 
+Resposta: 8
+Eval: acertou.
+_____
+Sat Aug 23 22:28:27 -03 2025
+Pergunta: Quanto é 15 + 11? 
+Resposta: 26
+Eval: acertou.
+_____
+Sat Aug 23 22:28:29 -03 2025
+Pergunta: Quanto é 1 x 1? 
+Resposta: 1
+Eval: acertou.
+_____
+Sat Aug 23 22:28:32 -03 2025
+Pergunta: Quanto é 7 / 11, arredondado com 0 casas decimais? 
+Resposta: 1
+Eval: acertou.
+_____
+Sat Aug 23 22:28:34 -03 2025
+Pergunta: Quanto é 15 - 1? 
+Resposta: 14
+Eval: acertou.
+_____
+Sat Aug 23 22:28:37 -03 2025
+Pergunta: Quanto é 2 / 3, arredondado com 0 casas decimais? 
+Resposta: 1
+Eval: acertou.
+_____
+Sat Aug 23 22:28:44 -03 2025
+Pergunta: Quanto é 4 + 9? 
+Resposta: 13
+Eval: acertou.
+_____
+Sat Aug 23 22:28:46 -03 2025
+Pergunta: Quanto é 0 - 0? 
+Resposta: 
+Eval: acertou.
+_____
+Sat Aug 23 22:28:49 -03 2025
+Pergunta: Quanto é 10 + 1? 
+Resposta: 11
+Eval: acertou.
+_____
+Sat Aug 23 22:28:50 -03 2025
+Pergunta: Quanto é 0 x 4? 
+Resposta: 
+Eval: acertou.
+_____
+Sat Aug 23 22:28:56 -03 2025
+Pergunta: Quanto é 7 x 9? 
+Resposta: 63
+Eval: acertou.
+_____
+Sat Aug 23 22:29:03 -03 2025
+Pergunta: Quanto é 6 + 8? 
+Resposta: 14
+Eval: acertou.
+_____
+Sat Aug 23 22:29:06 -03 2025
+Pergunta: Quanto é 14 - 5? 
+Resposta: 9
+Eval: acertou.
+_____
+Sat Aug 23 22:29:09 -03 2025
+Pergunta: Quanto é 2 + 15? 
+Resposta: 17
+Eval: acertou.
+_____
+Sat Aug 23 22:41:48 -03 2025
+Pergunta: Quanto é 8 + 9? 
+Resposta: 17
+Eval: acertou.
+_____
+Sat Aug 23 22:41:50 -03 2025
+Pergunta: Quanto é 13 / 11, arredondado com 0 casas decimais? 
+Resposta: 1
+Eval: acertou.
+_____
+Sat Aug 23 22:41:54 -03 2025
+Pergunta: Quanto é 10 - 15? 
+Resposta: -5
+Eval: acertou.
+_____
+Sat Aug 23 22:41:56 -03 2025
+Pergunta: Quanto é 12 / 10, arredondado com 0 casas decimais? 
+Resposta: 1
+Eval: acertou.
+_____
+Sat Aug 23 22:41:58 -03 2025
+Pergunta: Quanto é 6 + 5? 
+Resposta: 11
+Eval: acertou.
+_____
+Sat Aug 23 22:42:06 -03 2025
+Pergunta: Quanto é 9 x 14? 
+Resposta: 126
+Eval: acertou.
+_____
+Sat Aug 23 22:42:11 -03 2025
+Pergunta: Quanto é 3 / 7, arredondado com 0 casas decimais? 
+Resposta: 
+Eval: acertou.
+_____
+Sat Aug 23 22:42:14 -03 2025
+Pergunta: Quanto é 2 - 14? 
+Resposta: -12
+Eval: acertou.
+_____
+Sat Aug 23 22:42:18 -03 2025
+Pergunta: Quanto é 3 - 9? 
+Resposta: -6
+Eval: acertou.
+_____
+Sat Aug 23 22:42:21 -03 2025
+Pergunta: Quanto é 15 x 10? 
+Resposta: 150
+Eval: acertou.
+_____
+Sat Aug 23 22:42:24 -03 2025
+Pergunta: Quanto é 6 / 8, arredondado com 0 casas decimais? 
+Resposta: 1
+Eval: acertou.
+_____
+Sat Aug 23 22:42:26 -03 2025
+Pergunta: Quanto é 13 - 12? 
+Resposta: 1
+Eval: acertou.
+_____
+Sat Aug 23 22:42:27 -03 2025
+Pergunta: Quanto é 3 / 15, arredondado com 0 casas decimais? 
+Resposta: 
+Eval: acertou.
+_____
+Sat Aug 23 22:42:38 -03 2025
+Pergunta: Quanto é 5 / 9, arredondado com 0 casas decimais? 
+Resposta: 1
+Eval: acertou.
+_____
+Sat Aug 23 22:42:49 -03 2025
+Pergunta: Quanto é 13 / 6, arredondado com 0 casas decimais? 
+Resposta: 2
+Eval: acertou.
+_____
+Sat Aug 23 22:42:54 -03 2025
+Pergunta: Quanto é 6 / 14, arredondado com 0 casas decimais? 
+Resposta: 
+Eval: acertou.
+_____
+Sat Aug 23 22:43:00 -03 2025
+Pergunta: Quanto é 3 - 9? 
+Resposta: -6
+Eval: acertou.
+_____
+Sat Aug 23 22:43:03 -03 2025
+Pergunta: Quanto é 8 - 1? 
+Resposta: 7
+Eval: acertou.
+_____
+Sat Aug 23 22:43:07 -03 2025
+Pergunta: Quanto é 12 x 3? 
+Resposta: 36
+Eval: acertou.
+_____
+Sat Aug 23 22:43:10 -03 2025
+Pergunta: Quanto é 15 + 3? 
+Resposta: 18
+Eval: acertou.
+_____
+Sat Aug 23 22:43:13 -03 2025
+Pergunta: Quanto é 12 + 1? 
+Resposta: 13
+Eval: acertou.
+_____
+Sat Aug 23 22:43:14 -03 2025
+Pergunta: Quanto é 0 / 10? 
+Resposta: 
+Eval: acertou.
+_____
+Sat Aug 23 22:43:17 -03 2025
+Pergunta: Quanto é 1 - 10? 
+Resposta: -9
+Eval: acertou.
+_____
+Sat Aug 23 22:43:19 -03 2025
+Pergunta: Quanto é 1 x 9? 
+Resposta: 9
+Eval: acertou.
+_____
+Sat Aug 23 22:43:22 -03 2025
+Pergunta: Quanto é 3 + 14? 
+Resposta: 17
+Eval: acertou.
+_____
+Sat Aug 23 22:43:24 -03 2025
+Pergunta: Quanto é 5 / 12, arredondado com 0 casas decimais? 
+Resposta: 
+Eval: acertou.
+_____
+Sat Aug 23 22:43:27 -03 2025
+Pergunta: Quanto é 6 / 3? 
+Resposta: 2
+Eval: acertou.
+_____
+Sat Aug 23 22:43:29 -03 2025
+Pergunta: Quanto é 13 x 1? 
+Resposta: 13
+Eval: acertou.
+_____
+Sat Aug 23 22:43:46 -03 2025
+Pergunta: Quanto é 1 - 8? 
+Resposta: -7
+Eval: acertou.
+_____
+Sat Aug 23 22:43:48 -03 2025
+Pergunta: Quanto é 3 / 13, arredondado com 0 casas decimais? 
+Resposta: 
+Eval: acertou.
+_____
+Sat Aug 23 22:43:49 -03 2025
+Pergunta: Quanto é 13 / 13? 
+Resposta: 1
+Eval: acertou.
+_____
+Sat Aug 23 22:43:51 -03 2025
+Pergunta: Quanto é 14 x 1? 
+Resposta: 14
+Eval: acertou.
+_____
+Sat Aug 23 22:43:55 -03 2025
+Pergunta: Quanto é 10 - 2? 
+Resposta: 8
+Eval: acertou.
+_____
+Sat Aug 23 22:44:00 -03 2025
+Pergunta: Quanto é 3 + 15? 
+Resposta: 18
+Eval: acertou.
+_____
+Sat Aug 23 22:44:02 -03 2025
+Pergunta: Quanto é 1 / 8, arredondado com 0 casas decimais? 
+Resposta: 
+Eval: acertou.
+_____
+Sat Aug 23 22:44:06 -03 2025
+Pergunta: Quanto é 3 + 11? 
+Resposta: 14
+Eval: acertou.
+_____
+Sat Aug 23 22:44:07 -03 2025
+Pergunta: Quanto é 2 / 14, arredondado com 0 casas decimais? 
+Resposta: 
+Eval: acertou.
+_____
+Sat Aug 23 22:44:10 -03 2025
+Pergunta: Quanto é 10 / 15, arredondado com 0 casas decimais? 
+Resposta: 1
+Eval: acertou.
+_____
+Sat Aug 23 22:44:16 -03 2025
+Pergunta: Quanto é 14 x 7? 
+Resposta: 98
+Eval: acertou.
+_____
+Sat Aug 23 22:44:18 -03 2025
+Pergunta: Quanto é 12 - 10? 
+Resposta: 2
+Eval: acertou.
+_____
+Sat Aug 23 22:44:22 -03 2025
+Pergunta: Quanto é 8 x 3? 
+Resposta: 24
+Eval: acertou.
+_____
+Sat Aug 23 22:44:29 -03 2025
+Pergunta: Quanto é 15 x 4? 
+Resposta: 60
+Eval: acertou.
+_____
+Sat Aug 23 22:44:31 -03 2025
+Pergunta: Quanto é 1 + 5? 
+Resposta: 6
+Eval: acertou.
+_____
+Sat Aug 23 22:44:32 -03 2025
+Pergunta: Quanto é 2 x 1? 
+Resposta: 2
+Eval: acertou.
+_____
+Sat Aug 23 22:44:35 -03 2025
+Pergunta: Quanto é 2 x 3? 
+Resposta: 6
+Eval: acertou.
+_____
+Sat Aug 23 22:44:39 -03 2025
+Pergunta: Quanto é 5 - 4? 
+Resposta: 1
+Eval: acertou.
+_____
+Sat Aug 23 22:44:41 -03 2025
+Pergunta: Quanto é 3 / 9, arredondado com 0 casas decimais? 
+Resposta: 
+Eval: acertou.
+_____
+Sat Aug 23 22:44:45 -03 2025
+Pergunta: Quanto é 1 / 2, arredondado com 0 casas decimais? 
+Resposta: 1
+Eval: acertou.
+_____
+Sat Aug 23 22:44:48 -03 2025
+Pergunta: Quanto é 14 / 7? 
+Resposta: 2
+Eval: acertou.
+_____
+Sat Aug 23 22:44:52 -03 2025
+Pergunta: Quanto é 13 + 14? 
+Resposta: 27
+Eval: acertou.
+_____
+Sat Aug 23 22:44:55 -03 2025
+Pergunta: Quanto é 7 + 3? 
+Resposta: 10
+Eval: acertou.
+_____
+Sat Aug 23 22:45:01 -03 2025
+Pergunta: Quanto é 2 - 7? 
+Resposta: -5
+Eval: acertou.
+_____
+Sat Aug 23 22:45:04 -03 2025
+Pergunta: Quanto é 11 + 1? 
+Resposta: 12
+Eval: acertou.
+_____
+Sat Aug 23 22:45:06 -03 2025
+Pergunta: Quanto é 12 / 12? 
+Resposta: 1
+Eval: acertou.
+_____
+Sat Aug 23 22:45:10 -03 2025
+Pergunta: Quanto é 11 - 14? 
+Resposta: -3
+Eval: acertou.
+_____
+Sat Aug 23 22:45:13 -03 2025
+Pergunta: Quanto é 0 - 1? 
+Resposta: -1
+Eval: acertou.
+_____
+Sat Aug 23 22:45:15 -03 2025
+Pergunta: Quanto é 2 / 8, arredondado com 0 casas decimais? 
+Resposta: 
+Eval: acertou.
+_____
+Sat Aug 23 22:45:21 -03 2025
+Pergunta: Quanto é 5 x 3? 
+Resposta: 15
+Eval: acertou.
+_____
+Sat Aug 23 22:45:24 -03 2025
+Pergunta: Quanto é 1 - 11? 
+Resposta: -10
+Eval: acertou.
+_____
+Sat Aug 23 22:45:26 -03 2025
+Pergunta: Quanto é 0 + 9? 
+Resposta: 9
+Eval: acertou.
+_____
+Sat Aug 23 22:45:30 -03 2025
+Pergunta: Quanto é 3 x 8? 
+Resposta: 24
+Eval: acertou.
+_____
+Sat Aug 23 22:45:34 -03 2025
+Pergunta: Quanto é 4 + 10? 
+Resposta: 14
+Eval: acertou.
+_____
+Sat Aug 23 22:45:37 -03 2025
+Pergunta: Quanto é 5 / 10, arredondado com 0 casas decimais? 
+Resposta: 1
+Eval: acertou.
+_____
+Sat Aug 23 22:45:39 -03 2025
+Pergunta: Quanto é 12 x 12? 
+Resposta: 144
+Eval: acertou.
+_____
+Sat Aug 23 22:45:42 -03 2025
+Pergunta: Quanto é 5 - 11? 
+Resposta: -6
+Eval: acertou.
+_____
+Sat Aug 23 22:45:47 -03 2025
+Pergunta: Quanto é 11 + 13? 
+Resposta: 24
+Eval: acertou.
+_____
+Sat Aug 23 22:45:50 -03 2025
+Pergunta: Quanto é 11 x 10? 
+Resposta: 110
+Eval: acertou.
+_____
+Sat Aug 23 22:46:07 -03 2025
+Pergunta: Quanto é 6 - 13? 
+Resposta: -7
+Eval: acertou.
+_____
+Sat Aug 23 22:46:09 -03 2025
+Pergunta: Quanto é 5 / 12, arredondado com 0 casas decimais? 
+Resposta: 
+Eval: acertou.
+_____
+Sat Aug 23 22:46:11 -03 2025
+Pergunta: Quanto é 2 / 2? 
+Resposta: 1
+Eval: acertou.
+_____
+Sat Aug 23 22:46:14 -03 2025
+Pergunta: Quanto é 0 - 10? 
+Resposta: -10
+Eval: acertou.
+_____
+Sat Aug 23 22:46:19 -03 2025
+Pergunta: Quanto é 8 + 11? 
+Resposta: 19
+Eval: acertou.
+_____
+Sat Aug 23 22:46:21 -03 2025
+Pergunta: Quanto é 2 - 0? 
+Resposta: 2
+Eval: acertou.
+_____
+Sat Aug 23 22:46:22 -03 2025
+Pergunta: Quanto é 1 + 2? 
+Resposta: 3
+Eval: acertou.
+_____
+Sat Aug 23 22:46:25 -03 2025
+Pergunta: Quanto é 2 x 11? 
+Resposta: 22
+Eval: acertou.
+_____
+Sat Aug 23 22:46:36 -03 2025
+Pergunta: Quanto é 10 - 6? 
+Resposta: 4
+Eval: acertou.
+_____
+Sat Aug 23 22:46:39 -03 2025
+Pergunta: Quanto é 11 x 3? 
+Resposta: 33
+Eval: acertou.
+_____
+Sat Aug 23 22:47:22 -03 2025
+Pergunta: Quanto é 15 / 6, arredondado com 0 casas decimais? 
+Resposta: 3
+Eval: acertou.
+_____
+Sat Aug 23 22:47:29 -03 2025
+Pergunta: Quanto é 15 / 2, arredondado com 0 casas decimais? 
+Resposta: 8
+Eval: acertou.
+_____
+Sat Aug 23 22:47:33 -03 2025
+Pergunta: Quanto é 5 - 8? 
+Resposta: -3
+Eval: acertou.
+_____
+Sat Aug 23 22:47:36 -03 2025
+Pergunta: Quanto é 7 - 8? 
+Resposta: -1
+Eval: acertou.
+_____
+Sat Aug 23 22:47:41 -03 2025
+Pergunta: Quanto é 6 / 14, arredondado com 0 casas decimais? 
+Resposta: 
+Eval: acertou.
+_____
+Sat Aug 23 22:47:46 -03 2025
+Pergunta: Quanto é 4 x 9? 
+Resposta: 36
+Eval: acertou.
+_____
+Sat Aug 23 22:47:48 -03 2025
+Pergunta: Quanto é 5 / 15, arredondado com 0 casas decimais? 
+Resposta: 
+Eval: acertou.
+_____
+Sat Aug 23 22:47:49 -03 2025
+Pergunta: Quanto é 1 / 9, arredondado com 0 casas decimais? 
+Resposta: 
+Eval: acertou.
+_____
+Sat Aug 23 22:47:51 -03 2025
+Pergunta: Quanto é 2 x 1? 
+Resposta: 2
+Eval: acertou.
+_____
+Sat Aug 23 22:47:54 -03 2025
+Pergunta: Quanto é 6 x 1? 
+Resposta: 6
+Eval: acertou.
+_____
+Sat Aug 23 22:47:59 -03 2025
+Pergunta: Quanto é 9 / 5, arredondado com 0 casas decimais? 
+Resposta: 2
+Eval: acertou.
+_____
+Sat Aug 23 22:48:01 -03 2025
+Pergunta: Quanto é 6 x 10? 
+Resposta: 60
+Eval: acertou.
+_____
+Sat Aug 23 22:59:47 -03 2025
+Pergunta: Quanto é 14 x 12? 
+Resposta: 168
+Eval: acertou.
+_____
+Sat Aug 23 22:59:51 -03 2025
+Pergunta: Quanto é 1 + 9? 
+Resposta: 10
+Eval: acertou.
+_____
+Sat Aug 23 22:59:59 -03 2025
+Pergunta: Quanto é 14 x 3? 
+Resposta: 42
+Eval: acertou.
+_____
+Sat Aug 23 23:00:03 -03 2025
+Pergunta: Quanto é 9 / 15, arredondado com 0 casas decimais? 
+Resposta: 1
+Eval: acertou.
+_____
+Sat Aug 23 23:00:06 -03 2025
+Pergunta: Quanto é 11 - 10? 
+Resposta: 1
+Eval: acertou.
+_____
+Sat Aug 23 23:00:08 -03 2025
+Pergunta: Quanto é 8 - 8? 
+Resposta: 
+Eval: acertou.
+_____
+Sat Aug 23 23:00:11 -03 2025
+Pergunta: Quanto é 10 + 2? 
+Resposta: 12
+Eval: acertou.
