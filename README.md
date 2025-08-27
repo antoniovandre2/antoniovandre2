@@ -19,6 +19,8 @@ AV3DSpaceCatch -> https://github.com/antoniovandre2/AV3DSpaceCatch
 AV3DSpaceWar -> https://github.com/antoniovandre2/AV3DSpaceWar
 <hr>
 
+Pin file -> https://github.com/antoniovandre/antoniovandre/blob/main/antoniovandre-pin.txt
+
 BASH mathgame estatísticas -> https://github.com/antoniovandre2/antoniovandre2/tree/main/antoniovandre_mathgame
 <hr>
 
