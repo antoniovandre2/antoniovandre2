@@ -1,6 +1,6 @@
 Proprietário: Antonio Vandré Pedrosa Furtunato Gomes.
 
-Última atualização: 18-04-2026.
+Última atualização: 19-04-2026.
 ________________________________________
 
 YouTube channel:
@@ -326,49 +326,9 @@ Box 2 copy:
 https://app.box.com/s/8jl1qf3e0erq5hr3s892m4g8276gkjwm
 _____
 
-dot_mednafen:
-
-https://www.dropbox.com/sh/4xqy48v4yxizatj/AABcfFKchUMg0v3-WMUTyZ_Xa?dl=0
-__
-
-Google Drive copy:
-
-https://drive.google.com/drive/folders/0B1w_D-iaFmSdcF85OUFEX0pNQWs?usp=sharing
-__
-
-Box copy:
-
-https://app.box.com/s/rvrzadicoqoxtbuxg3ennrh894ngk91k
-__
-
-Box 2 copy:
-
-https://app.box.com/s/j8oxzo0nl5xbbziulg8xiz119dlgir98
-_____
-
 Kiwi profile page:
 
 https://kiwi.qa/antoniovandre
-_____
-
-MatsuPlayer:
-
-https://www.dropbox.com/sh/19an9yp61st55fw/AAAfVE0hVS6bnP7ga8K7k4o6a?dl=0
-__
-
-Google Drive copy:
-
-https://drive.google.com/folderview?id=1QfbDw99bWoY7chrCXnVfaZTcv75DZBuR
-__
-
-Box copy:
-
-https://app.box.com/s/29r24gbpu7buvguaidqjvn3cyem2s396
-__
-
-Box 2 copy:
-
-https://app.box.com/s/puqfinflme1wewwwo53i0lagf2kft666
 _____
 
 Geogebra profile page:
@@ -381,29 +341,24 @@ Stackoverflow profile:
 https://stackoverflow.com/users/2491602/antonio-vandr%c3%a9-p-f-gomes?tab=profile
 _____
 
-EmuBox
+BlastEm - Game saves:
 
-https://www.dropbox.com/sh/atwdj8r7w9zojl5/AAD80fAAD8r-Y6gqifidie7wa?dl=0
+https://www.dropbox.com/scl/fo/mkw3omb5frwgtriid0me0/AINU3QvDMwqIWtpzP-EL7XA?rlkey=92so5j3t5sv1hqqsitnxbs52d&st=sudu2wbi&dl=0
 __
 
 Google Drive copy:
 
-https://drive.google.com/drive/folders/1b19wldQ8325Z7C1EezFRMRAuN-TMzWxY?usp=sharing
-__
-
-Onedrive copy:
-
-https://1drv.ms/u/s!AgBevl7p7EYVgaZTJpBNBvnYogEY9g?e=t8eUOs
+https://drive.google.com/drive/folders/1qkpFK8oNt6OcgA1iSmJQ8SRtoLhgso8e?usp=drive_link
 __
 
 Box copy:
 
-https://app.box.com/s/sj3qt1rtzesufiriuesrn25ol9xm0n3r
+https://app.box.com/s/3anx6cerw6gnkh062n2k7gzozozrfvd4
 __
 
 Box 2 copy:
 
-https://app.box.com/s/3ucadk6nb9rmmzfrg1m38hhznzdjc8op
+https://app.box.com/s/tv4t5ylpltmcfutrm3qjc4bza0306ad2
 _____
 
 CodePen profile page:
@@ -493,99 +448,44 @@ antoniovandre_eval GUI (калькулятор) (русский):
 https://antoniovandre.github.io/antoniovandre_eval_GUI/index_ru.html
 _____
 
-FPse data:
+DuckStation memcards:
 
-https://www.dropbox.com/sh/lyvh4zd18t8ut0q/AAD1WUBEst9P3NTI2HdVun0qa?dl=0
+https://www.dropbox.com/scl/fo/jpnn42anzi8d6u4brhpyr/ALQ0mZtAwjxwc7QrxEYKvUg?rlkey=r3t7ktlb0v6l1vjx3lxwgu258&st=itnelr00&dl=0
 __
 
 Google Drive copy:
 
-https://drive.google.com/drive/folders/1tyOXb442XCwAVn8DYTtaVeCW6uZFwvzP?usp=sharing
+https://drive.google.com/drive/folders/1CfTROmkYmWR_G8MUJlZiz903TlYJAr6P?usp=drive_link
 __
 
 Box copy:
 
-https://app.box.com/s/kvhx9rjik56fesvjrveoezbibu7q2fw3
+https://app.box.com/s/xy1mg5g4j9lfnbgpadrs4jqltzwtvyvp
 __
 
 Box 2 copy:
 
-https://app.box.com/s/e7l50z3bvlnicvj01vrgjccu0ys74wr3
+https://app.box.com/s/nxeypfxc5c5k9nv5dmj3xfhkhysyr9ws
 _____
 
-PSX cards:
+DuckStation savestates:
 
-https://www.dropbox.com/sh/npv6bx29fnyvicq/AABmzfpe71OWk3nSDfapExr5a?dl=0
+https://www.dropbox.com/scl/fo/opxxy489n6vk8l8j64kbw/ADItszRRjOPld6TQm1oYdNk?rlkey=9hrtpchd9lr1c6ii685rid299&st=6ptsoh0u&dl=0
 __
 
 Google Drive copy:
 
-https://drive.google.com/drive/folders/1u-clOm-R_Y1AHtJdDgj6mLj-w5RoiDLD?usp=sharing
+https://drive.google.com/drive/folders/1nzhGGe0-QAi09iE5VhSRJ59aHpBsoFqx?usp=drive_link
 __
 
 Box copy:
 
-https://app.box.com/s/3lbnwyos25t4l0fmj742tayi2xyx85wz
+https://app.box.com/s/05v7jxzn6eoy3tskpsytg2rgwfgwu4qy
 __
 
 Box 2 copy:
 
-https://app.box.com/s/wr43m9wkjn8mvmbjb5owkpb9xwbdk9m2
-_____
-
-PSX saves:
-
-https://www.dropbox.com/sh/g41c9td82qqu62x/AACg7GMVCAYKEaMoP74h7bW3a?dl=0
-__
-
-Google Drive copy:
-
-https://drive.google.com/drive/folders/1IQ5U_UIJ8TcoZ4PY4sCVf-IDfcF-apNj?usp=sharing
-__
-
-Box copy:
-
-https://app.box.com/s/agff52b260blqvofrxu7badkrti4mpxb
-__
-
-Box 2 copy:
-
-https://app.box.com/s/q78uu5b0ti8vas3alx4yq9pwvxc3fhds
-_____
-
-PSX screenshots:
-
-https://www.dropbox.com/sh/c9wqjz1fuw2dru3/AAD32GLpUNHJdkL-bV9iIXzxa?dl=0
-__
-
-Google Drive copy:
-
-https://drive.google.com/drive/folders/1uYOFYGIEzmZflJ_CDSTHtjpw8_Cx6uQf?usp=sharing
-__
-
-Box copy:
-
-https://app.box.com/s/8gkxa6tpejwzb9n6e2agr6off6wc9k4n
-__
-
-Box 2 copy:
-
-https://app.box.com/s/n0sml5b85kgexj7cm6w79xetini1ztxh
-_____
-
-Retrogames.onl saves:
-
-https://www.dropbox.com/sh/vv26b33oha3aala/AAD-0fo98z_HQ--DZHS7poAMa?dl=0
-__
-
-Google Drive copy:
-
-https://drive.google.com/drive/folders/1W5Cava5iiU562P1Bkaz3XrMP3qdl1n1l?usp=sharing
-__
-
-Box 2 copy:
-
-https://app.box.com/s/7kk4wid2hq208wif3p2wqgyzilp5s99o
+https://app.box.com/s/o5r5a6gi5faogjkrnhh02x7mwffflzdt
 _____
 
 UICLAP profile page:
