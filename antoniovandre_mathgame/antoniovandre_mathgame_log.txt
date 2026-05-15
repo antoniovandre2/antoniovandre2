@@ -72868,3 +72868,8 @@ Fri May 15 12:15:56 -03 2026
 Pergunta: Quanto é 1 / 13, arredondado com 0 casas decimais? 
 Resposta: 
 Eval: acertou.
+_____
+Fri May 15 12:31:03 -03 2026
+Pergunta: Quanto é 7 - 3? 
+Resposta: 4
+Eval: acertou.
