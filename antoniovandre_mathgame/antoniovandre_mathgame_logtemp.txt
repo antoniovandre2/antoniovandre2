@@ -83213,3 +83213,143 @@ Thu Jul  9 13:58:00 -03 2026
 Pergunta: Quanto é 9 - 5? 
 Resposta: 4
 Eval: acertou.
+_____
+Thu Jul  9 13:59:29 -03 2026
+Pergunta: Quanto é 3 / 4, arredondado com 0 casas decimais? 
+Resposta: 1
+Eval: acertou.
+_____
+Thu Jul  9 14:00:18 -03 2026
+Pergunta: Quanto é 13 x 14? 
+Resposta: 182
+Eval: acertou.
+_____
+Thu Jul  9 14:00:21 -03 2026
+Pergunta: Quanto é 3 / 4, arredondado com 0 casas decimais? 
+Resposta: 1
+Eval: acertou.
+_____
+Thu Jul  9 14:00:28 -03 2026
+Pergunta: Quanto é 12 + 6? 
+Resposta: 18
+Eval: acertou.
+_____
+Thu Jul  9 14:00:43 -03 2026
+Pergunta: Quanto é 4 - 11? 
+Resposta: -7
+Eval: acertou.
+_____
+Thu Jul  9 14:00:52 -03 2026
+Pergunta: Quanto é 6 x 15? 
+Resposta: 90
+Eval: acertou.
+_____
+Thu Jul  9 14:00:55 -03 2026
+Pergunta: Quanto é 1 - 3? 
+Resposta: -2
+Eval: acertou.
+_____
+Thu Jul  9 14:01:08 -03 2026
+Pergunta: Quanto é 15 x 6? 
+Resposta: 90
+Eval: acertou.
+_____
+Thu Jul  9 14:01:11 -03 2026
+Pergunta: Quanto é 2 x 15? 
+Resposta: 30
+Eval: acertou.
+_____
+Thu Jul  9 14:01:17 -03 2026
+Pergunta: Quanto é 8 - 12? 
+Resposta: -4
+Eval: acertou.
+_____
+Thu Jul  9 14:01:19 -03 2026
+Pergunta: Quanto é 1 / 3, arredondado com 0 casas decimais? 
+Resposta: 
+Eval: acertou.
+_____
+Thu Jul  9 14:01:22 -03 2026
+Pergunta: Quanto é 7 - 14? 
+Resposta: -7
+Eval: acertou.
+_____
+Thu Jul  9 14:01:26 -03 2026
+Pergunta: Quanto é 7 + 2? 
+Resposta: 9
+Eval: acertou.
+_____
+Thu Jul  9 14:01:28 -03 2026
+Pergunta: Quanto é 3 / 15, arredondado com 0 casas decimais? 
+Resposta: 
+Eval: acertou.
+_____
+Thu Jul  9 14:01:31 -03 2026
+Pergunta: Quanto é 6 / 10, arredondado com 0 casas decimais? 
+Resposta: 1
+Eval: acertou.
+_____
+Thu Jul  9 14:01:36 -03 2026
+Pergunta: Quanto é 4 + 11? 
+Resposta: 15
+Eval: acertou.
+_____
+Thu Jul  9 14:01:43 -03 2026
+Pergunta: Quanto é 9 + 14? 
+Resposta: 23
+Eval: acertou.
+_____
+Thu Jul  9 14:01:45 -03 2026
+Pergunta: Quanto é 5 + 4? 
+Resposta: 9
+Eval: acertou.
+_____
+Thu Jul  9 14:01:47 -03 2026
+Pergunta: Quanto é 13 - 0? 
+Resposta: 13
+Eval: acertou.
+_____
+Thu Jul  9 14:01:51 -03 2026
+Pergunta: Quanto é 4 / 7, arredondado com 0 casas decimais? 
+Resposta: 1
+Eval: acertou.
+_____
+Thu Jul  9 14:01:54 -03 2026
+Pergunta: Quanto é 4 x 6? 
+Resposta: 24
+Eval: acertou.
+_____
+Thu Jul  9 14:01:56 -03 2026
+Pergunta: Quanto é 5 + 1? 
+Resposta: 6
+Eval: acertou.
+_____
+Thu Jul  9 14:01:59 -03 2026
+Pergunta: Quanto é 7 - 9? 
+Resposta: -2
+Eval: acertou.
+_____
+Thu Jul  9 14:02:01 -03 2026
+Pergunta: Quanto é 11 x 11? 
+Resposta: 121
+Eval: acertou.
+_____
+Thu Jul  9 14:02:04 -03 2026
+Pergunta: Quanto é 10 / 12, arredondado com 0 casas decimais? 
+Resposta: 1
+Eval: acertou.
+_____
+Thu Jul  9 14:02:06 -03 2026
+Pergunta: Quanto é 5 x 9? 
+Resposta: 45
+Eval: acertou.
+_____
+Thu Jul  9 14:02:09 -03 2026
+Pergunta: Quanto é 14 + 4? 
+Resposta: 18
+Eval: acertou.
+_____
+Thu Jul  9 14:02:11 -03 2026
+Pergunta: Quanto é 3 + 2? 
+Resposta: 5
+Eval: acertou.
