@@ -24,6 +24,9 @@ Pin file -> https://github.com/antoniovandre/antoniovandre/blob/main/antoniovand
 BASH mathgame estatísticas -> https://github.com/antoniovandre2/antoniovandre2/tree/main/antoniovandre_mathgame
 <hr>
 
+![Resolvo questões de Matemática](https://antoniovandre.github.io/antoniovandre/Resolvo%20quest&otilde;es%20de%20Matem&aacute;tica.png)
+<hr>
+
 GitHubs:
 
 https://github.com/antoniovandre
