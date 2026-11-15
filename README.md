@@ -25,7 +25,7 @@ BASH mathgame estatísticas -> https://github.com/antoniovandre2/antoniovandre2/
 <hr>
 
 ![Resolvo questões de Matemática](https://antoniovandre.github.io/antoniovandre/Resolvo%20quest&otilde;es%20de%20Matem&aacute;tica.png)
-Meu e-mail também é uma de minhas chaves Pix; se decidirem me ajudar, serei imensamente grato.
+Meu e-mail também é uma de minhas chaves Pix bem como meu PayPal; se decidirem me ajudar, serei imensamente grato.
 <hr>
 
 GitHubs:
